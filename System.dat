@@ -1,0 +1,1726 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<header>
+		<name>System</name>
+		<description>BIOS and System Files for RetroArch</description>
+		<version>v1.19.0</version>
+		<author>libretro</author>
+		<homepage>https://github.com/libretro/libretro-database</homepage>
+		<url>https://github.com/libretro/libretro-database/raw/refs/heads/master/dat/System.dat</url>
+	</header>
+	<machine name="000-lo">
+		<description>000-lo.lo</description>
+		<rom name="000-lo.lo" size="131072" crc="5a86cff2" sha1="5992277debadeb64d1c1c64b0a92d9293eaf7e4a" md5="fc7599f3f871578fe9a0453662d1c966"/>
+	</machine>
+	<machine name="128-0">
+		<description>128-0.rom</description>
+		<rom name="128-0.rom" size="16384" crc="e76799d2" sha1="4f4b11ec22326280bdb96e3baf9db4b4cb1d02c5" md5="b4d2692115a9f2924df92a3cbfb358fb"/>
+	</machine>
+	<machine name="128-1">
+		<description>128-1.rom</description>
+		<rom name="128-1.rom" size="16384" crc="b96a36be" sha1="80080644289ed93d71a1103992a154cc9802b2fa" md5="6e09e5d3c4aef166601669feaaadc01c"/>
+	</machine>
+	<machine name="128-spanish-0">
+		<description>Sinclair ZX Spectrum 128K Spanish ROM</description>
+		<rom name="128-spanish-0.rom" size="16384" crc="453d86b2" sha1="968937b1c750f0ef6205f01c6db4148da4cca4e3" md5="c1231a70b8129311216acb7479b031d5"/>
+	</machine>
+	<machine name="128-spanish-1">
+		<description>Sinclair ZX Spectrum 128K Spanish ROM</description>
+		<rom name="128-spanish-1.rom" size="16384" crc="6010e796" sha1="bea3f397cc705eafee995ea629f4a82550562f90" md5="4f341936594cbcab75cfa62ce96e3682"/>
+	</machine>
+	<machine name="128p-0">
+		<description>Sinclair ZX Spectrum 128K ROM</description>
+		<rom name="128p-0.rom" size="16384" crc="124ad9e0" sha1="d07fcdeca892ee80494d286ea9ea5bf3928a1aca" md5="a249565f03b98d004ee7f019570069cd"/>
+	</machine>
+	<machine name="128p-1">
+		<description>Sinclair ZX Spectrum 128K ROM</description>
+		<rom name="128p-1.rom" size="16384" crc="b96a36be" sha1="80080644289ed93d71a1103992a154cc9802b2fa" md5="6e09e5d3c4aef166601669feaaadc01c"/>
+	</machine>
+	<machine name="256s-0">
+		<description>Scorpion 256K ROM</description>
+		<rom name="256s-0.rom" size="16384" crc="0eb40a09" sha1="477114ff0fe1388e0979df1423602b21248164e5" md5="b9fda5b6a747ff037365b0e2d8c4379a"/>
+	</machine>
+	<machine name="256s-1">
+		<description>Scorpion 256K ROM</description>
+		<rom name="256s-1.rom" size="16384" crc="9d513013" sha1="367b5a102fb663beee8e7930b8c4acc219c1f7b3" md5="643861ad34831b255bf2eb64e8b6ecb8"/>
+	</machine>
+	<machine name="256s-2">
+		<description>Scorpion 256K ROM</description>
+		<rom name="256s-2.rom" size="16384" crc="fd0d3ce1" sha1="07783ee295274d8ff15d935bfd787c8ac1d54900" md5="d8ad507b1c915a9acfe0d73957082926"/>
+	</machine>
+	<machine name="256s-3">
+		<description>Scorpion 256K ROM</description>
+		<rom name="256s-3.rom" size="16384" crc="1fe1d003" sha1="33703e97cc93b7edfcc0334b64233cf81b7930db" md5="ce0723f9bc02f4948c15d3b3230ae831"/>
+	</machine>
+	<machine name="3do_arcade_saot">
+		<description>Shootout At Old Tucson</description>
+		<rom name="3do_arcade_saot.bin" size="524288" crc="b832da9a" sha1="520d3d1b5897800af47f92efd2444a26b7a7dead" md5="8970fc987ab89a7f64da9f8a8c4333ff"/>
+	</machine>
+	<machine name="48">
+		<description>48.rom</description>
+		<rom name="48.rom" size="16384" crc="ddee531f" sha1="5ea7c2b824672e914525d1d5c419d71b84a426a2" md5="4c42a2f075212361c3117015b107ff68"/>
+	</machine>
+	<machine name="5200">
+		<description>Atari 5200 BIOS</description>
+		<rom name="5200.rom" size="2048" crc="4248d3e3" sha1="6ad7a1e8c9fad486fbec9498cb48bf5bc3adc530" md5="281f20ea4320404ec820fb7ec0693b38"/>
+	</machine>
+	<machine name="64DD_IPL">
+		<description>64DD_IPL.bin</description>
+		<rom name="64DD_IPL.bin" size="4194304" crc="7f933ce2" sha1="bf861922dcb78c316360e3e742f4f70ff63c9bc3" md5="8d3d9f294b6e174bc7b1d2fd1c727530"/>
+	</machine>
+	<machine name="7800 BIOS (E)">
+		<description>Atari 7800 PAL BIOS</description>
+		<rom name="7800 BIOS (E).rom" size="16384" crc="d5b61170" sha1="5a140136a16d1d83e4ff32a19409ca376a8df874" md5="397bb566584be7b9764e7a68974c4263"/>
+	</machine>
+	<machine name="7800 BIOS (U)">
+		<description>Atari 7800 NTSC BIOS</description>
+		<rom name="7800 BIOS (U).rom" size="4096" crc="5d13730c" sha1="d9d134bb6b36907c615a594cc7688f7bfcef5b43" md5="0763f1ffb006ddbe32e52d497ee848ae"/>
+	</machine>
+	<machine name="aes">
+		<description>Neo Geo AES BIOS</description>
+		<rom name="aes.zip" size="850311" crc="12c66621" sha1="23c66caa80b93199914fae246a5ea6e84db1be29" md5="ad9585c72130c56f04ae26aae87c289d"/>
+	</machine>
+	<machine name="areplay">
+		<description>Sega Mega Drive Action Replay ROM (lock-on)</description>
+		<rom name="areplay.bin" size="32768" crc="95ff7c3e" sha1="1e0f246826be4ebc7b99bb3f9de7f1de347122e5" md5="a0028b3043f9d59ceeb03da5b073b30d"/>
+	</machine>
+	<machine name="ATARIBAS">
+		<description>Atari BASIC interpreter</description>
+		<rom name="ATARIBAS.ROM" size="8192" crc="7d684184" sha1="3693c9cb9bf3b41bae1150f7a8264992468fc8c0" md5="0bac0c6a50104045d902df4503a4c30b"/>
+	</machine>
+	<machine name="ATARIOSA">
+		<description>Atari 400/800 PAL BIOS</description>
+		<rom name="ATARIOSA.ROM" size="10240" crc="72b3fed4" sha1="6dd53356159a129ed12367beb3b24a771d41adb0" md5="eb1f32f5d9f382db1bbfb8d7f9cb343a"/>
+	</machine>
+	<machine name="ATARIOSB">
+		<description>Atari 400/800 NTSC BIOS</description>
+		<rom name="ATARIOSB.ROM" size="10240" crc="3e28a1fe" sha1="f1f0741b1d34fb4350cf7cb8ab3b6ea11cdd8174" md5="a3e8d617c95d08031fe1b20d541434b2"/>
+	</machine>
+	<machine name="ATARIXL">
+		<description>Atari XL/XE OS BIOS</description>
+		<rom name="ATARIXL.ROM" size="16384" crc="1f9cd270" sha1="ae4f523ba08b6fd59f3cae515a2b2410bbd98f55" md5="06daac977823773a3eea3422fd26a703"/>
+	</machine>
+	<machine name="BB01R4_OS">
+		<description>Atari XL/XE/XEGS OS v4</description>
+		<rom name="BB01R4_OS.ROM" size="16384" crc="1eaf4002" sha1="decde89fbae90adb591ad2fc553d35f49030c129" md5="b7a2a04677d34f069eeb643d5238bf86"/>
+	</machine>
+	<machine name="BIOS">
+		<description>ColecoVision BIOS (SMS Plus GX)</description>
+		<rom name="BIOS.col" size="8192" crc="3aa93ef3" sha1="45bedc4cbdeac66c7df59e9e599195c778d86a92" md5="2c66f5911e5b42b8ebe113403548eee7"/>
+	</machine>
+	<machine name="bios">
+		<description>Sega Game Gear BIOS</description>
+		<rom name="bios.gg" size="1024" crc="0ebea9d4" sha1="914aa165e3d879f060be77870d345b60cfeb4ede" md5="672e104c3be3a238301aceffc3b23fd6"/>
+	</machine>
+	<machine name="bios">
+		<description>Pokémon Mini BIOS</description>
+		<rom name="bios.min" size="4096" crc="aed3c14d" sha1="daad4113713ed776fbd47727762bca81ba74915f" md5="1e4fb124a3a886865acb574f388c803d"/>
+	</machine>
+	<machine name="bios">
+		<description>Sega Master System US/EU BIOS (v1.3)</description>
+		<rom name="bios.sms" size="8192" crc="0072ed54" sha1="c315672807d8ddb8d91443729405c766dd95cae7" md5="840481177270d5642a14ca71ee72844c"/>
+	</machine>
+	<machine name="bios7">
+		<description>Nintendo DS ARM7 BIOS</description>
+		<rom name="bios7.bin" size="16384" crc="1280f0d5" sha1="24f67bdea115a2c847c8813a262502ee1607b7df" md5="df692a80a5b1bc90728bc3dfc76cd948"/>
+	</machine>
+	<machine name="bios9">
+		<description>Nintendo DS ARM9 BIOS</description>
+		<rom name="bios9.bin" size="4096" crc="2ab23573" sha1="bfaac75f101c135e32e2aaf541de6b1be4c8c62d" md5="a392174eb3e572fed6447e956bde4b25"/>
+	</machine>
+	<machine name="bioscv">
+		<description>CreatiVision BIOS</description>
+		<rom name="bioscv.bin" size="2048" crc="c3c590c6" sha1="5ac620c529e4965efb5560fe824854a44c983757" md5="3b1ef759d8e3fb4071582efd33dd05f9"/>
+	</machine>
+	<machine name="bios_CD_E">
+		<description>Sega Mega-CD EU BIOS (1.00)</description>
+		<rom name="bios_CD_E.bin" size="131072" crc="529ac15a" sha1="f891e0ea651e2232af0c5c4cb46a0cae2ee8f356" md5="e66fa1dc5820d254611fdcdba0662372"/>
+	</machine>
+	<machine name="bios_CD_J">
+		<description>Sega Mega-CD JP BIOS (1.00 Rev E)</description>
+		<rom name="bios_CD_J.bin" size="131072" crc="9d2da8f2" sha1="4846f448160059a7da0215a5df12ca160f26dd69" md5="278a9397d192149e84e820ac621a8edd"/>
+	</machine>
+	<machine name="bios_CD_U">
+		<description>Sega CD US BIOS (1.10 Rev B)</description>
+		<rom name="bios_CD_U.bin" size="131072" crc="c6d10268" sha1="f4f315adcef9b8feb0364c21ab7f0eaf5457f3ed" md5="2efd74e3232ff260e371b99f84024f7f"/>
+	</machine>
+	<machine name="bios_E">
+		<description>Sega Master System EU BIOS (v1.3)</description>
+		<rom name="bios_E.sms" size="8192" crc="0072ed54" sha1="c315672807d8ddb8d91443729405c766dd95cae7" md5="840481177270d5642a14ca71ee72844c"/>
+	</machine>
+	<machine name="bios_J">
+		<description>Sega Master System JP BIOS (v2.1)</description>
+		<rom name="bios_J.sms" size="8192" crc="48d44a13" sha1="a8c1b39a2e41137835eda6a5de6d46dd9fadbaf2" md5="24a519c53f67b00640d0048ef7089105"/>
+	</machine>
+	<machine name="bios_MD">
+		<description>Sega Mega Drive TradeMark Security System ROM</description>
+		<rom name="bios_MD.bin" size="2048" crc="3f888cf4" sha1="3f50b76b0529db7f79c396b5e808cc0786ffc311" md5="d3293ebaaa7f4eb2a6766b68a0fb4609"/>
+	</machine>
+	<machine name="bios_U">
+		<description>Sega Master System US BIOS (v1.3)</description>
+		<rom name="bios_U.sms" size="8192" crc="0072ed54" sha1="c315672807d8ddb8d91443729405c766dd95cae7" md5="840481177270d5642a14ca71ee72844c"/>
+	</machine>
+	<machine name="bootloader-dbvz">
+		<description>Palm OS UART Bootloader</description>
+		<rom name="bootloader-dbvz.rom" size="512" crc="a975efe4" sha1="cea669f6d740f29ca248d2e8837a4b4f86fbe75a" md5="9da101cd2317830649a31f8fa46debec"/>
+	</machine>
+	<machine name="BS-X (En) (DRM-Free)">
+		<description>Nintendo Satellaview Boot ROM (English) (DRM-Free)</description>
+		<rom name="BS-X (En) (DRM-Free).bin" size="1048576" crc="8c573c7e" sha1="7996bd1c01b99800e0d5d34beff93db283784864" md5="4ed9648505ab33a4daec93707b16caba"/>
+	</machine>
+	<machine name="BS-X (En)">
+		<description>Nintendo Satellaview Boot ROM (English)</description>
+		<rom name="BS-X (En).bin" size="1048576" crc="347e1c4e" sha1="f3cdff70de5d0f5c52ca3a8f46588b863d48b8ec" md5="33b62505da6ca4525e3839db4e1a7bca"/>
+	</machine>
+	<machine name="BS-X">
+		<description>Nintendo Satellaview Boot ROM</description>
+		<rom name="BS-X.bin" size="1048576" crc="f51f07a0" sha1="604556b2e62860af18db5a77f2956ebc75450020" md5="fed4d8242cfbed61343d53d48432aced"/>
+	</machine>
+	<machine name="c52">
+		<description>Videopac+ French BIOS - G7000 model</description>
+		<rom name="c52.bin" size="1024" crc="a318e8d6" sha1="a6120aed50831c9c0d95dbdf707820f601d9452e" md5="f1071cdb0b6b10dde94d3bc8a6146387"/>
+	</machine>
+	<machine name="CARTS">
+		<description>MSX Cartridge Hashes</description>
+		<rom name="CARTS.SHA" size="33152" crc="d42f4444" sha1="bf5fb954db868e523febccc68549ed9187961076" md5="74b0f217fa0e2b8bb5a2f8e2ecc69da3"/>
+	</machine>
+	<machine name="cgb_boot">
+		<description>Nintendo Game Boy Color Boot Image</description>
+		<rom name="cgb_boot.bin" size="2304" crc="41884e46" sha1="1293d68bf9643bc4f36954c1e80e38f39864528d" md5="dbfce9db9deaa2567f6a84fde55f9680"/>
+	</machine>
+	<machine name="CM32L_CONTROL">
+		<description>CM32L_CONTROL.ROM</description>
+		<rom name="CM32L_CONTROL.ROM" size="65536" crc="b998047e" sha1="a439fbb390da38cada95a7cbb1d6ca199cd66ef8" md5="bfff32b6144c1d706109accb6e6b1113"/>
+	</machine>
+	<machine name="CM32L_PCM">
+		<description>CM32L_PCM.ROM</description>
+		<rom name="CM32L_PCM.ROM" size="1048576" crc="4b961eba" sha1="289cc298ad532b702461bfc738009d9ebe8025ea" md5="08cdcfa0ed93e9cb16afa76e6ac5f0a4"/>
+	</machine>
+	<machine name="colecovision">
+		<description>ColecoVision BIOS</description>
+		<rom name="colecovision.rom" size="8192" crc="3aa93ef3" sha1="45bedc4cbdeac66c7df59e9e599195c778d86a92" md5="2c66f5911e5b42b8ebe113403548eee7"/>
+	</machine>
+	<machine name="cx4.data">
+		<description>Nintendo SNES CX4 co-processor firmware</description>
+		<rom name="cx4.data.rom" size="3072" crc="b6e76a6a" sha1="a002f4efba42775a31185d443f3ed1790b0e949a" md5="037ac4296b6b6a5c47c440188d3c72e3"/>
+	</machine>
+	<machine name="CYRILLIC">
+		<description>MSX Cyrillic Font</description>
+		<rom name="CYRILLIC.FNT" size="2048" crc="73af9bc3" sha1="000ac11b702a4c42e40f135df12fa5f2f13e20a1" md5="85b38e4128bbc300e675f55b278683a8"/>
+	</machine>
+	<machine name="Dinothawr">
+		<description>Dinothawr.zip</description>
+		<rom name="Dinothawr.zip" size="5763199" crc="0A357e01" sha1="Eefc51d07665d9bc3e99ab42fe604f83c15875a6" md5="69afd8c4b68e643a7faaa257cb9a1bfa"/>
+	</machine>
+	<machine name="disciple">
+		<description>disciple.rom</description>
+		<rom name="disciple.rom" size="8192" crc="82047489" sha1="9a75ed4b293f968985be4c9aa893cd88276d1ced" md5="78e61a2a02121873c1756b21fd1398b1"/>
+	</machine>
+	<machine name="DISK">
+		<description>MSX DiskROM/BDOS</description>
+		<rom name="DISK.ROM" size="16384" crc="721f61df" sha1="032cb1c1c75b9a191fa1230978971698d9d2a17f" md5="80dcd1ad1a4cf65d64b7ba10504e8190"/>
+	</machine>
+	<machine name="disk_plus3">
+		<description>disk_plus3.szx</description>
+		<rom name="disk_plus3.szx" size="1568" crc="c2c6cba7" sha1="d7896640e18fc6204aa494835b0a430250fb06ce" md5="e6db6b9f6ad15012851115a7bc4b31d8"/>
+	</machine>
+	<machine name="disksys">
+		<description>Nintendo Family Computer Disk System BIOS</description>
+		<rom name="disksys.rom" size="8192" crc="5e607dcf" sha1="57fe1bdee955bb48d357e463ccbf129496930b62" md5="ca30b50f880eb660a320674ed365ef7a"/>
+	</machine>
+	<machine name="dmg_boot">
+		<description>Nintendo Game Boy Boot Image</description>
+		<rom name="dmg_boot.bin" size="256" crc="59c8598e" sha1="4ed31ec6b0b175bb109c0eb5fd3d193da823339f" md5="32fbbd84168d3482956eb3c5051637f5"/>
+	</machine>
+	<machine name="dsi_bios7">
+		<description>Nintendo DSi ARM7 BIOS</description>
+		<rom name="dsi_bios7.bin" size="65536" crc="4316cc42" sha1="c7c7570bfe51c3c7c5da3b01331b94e7e7cb4f53" md5="322ceeafb77b0cc96a1fcc6271e0e0ae"/>
+	</machine>
+	<machine name="dsi_bios9">
+		<description>Nintendo DSi ARM9 BIOS</description>
+		<rom name="dsi_bios9.bin" size="65536" crc="bae84f6c" sha1="719b9eef33692406d7170ff526069615759c4dfc" md5="23031f25602a52c2df32c39554b0c55e"/>
+	</machine>
+	<machine name="dsi_firmware">
+		<description>Nintendo DSi Firmware</description>
+		<rom name="dsi_firmware.bin" size="131072" crc="df558b58" sha1="d2a5af338f09c5cbdd5d7628db5b9c075c69b616" md5="8daa89fd280b3e5ec79fbab73ad6684e"/>
+	</machine>
+	<machine name="dsi_nand">
+		<description>Nintendo DSi NAND</description>
+		<rom name="dsi_nand.bin" size="251658304" crc="a40fea7b" sha1="6bfa0e053a1530da49d6d61d0734f1a593ab6295" md5="3271ae4390e26a6a917ccdf4414a57fa"/>
+	</machine>
+	<machine name="dsp1.data">
+		<description>Nintendo SNES DSP1 co-processor firmware</description>
+		<rom name="dsp1.data.rom" size="2048" crc="c8347cbd" sha1="589c158685fe3cf88c7ca77cb6083f0e4de9c7c3" md5="3d81b45fa0c2aa8b852dfb1ece7c0971"/>
+	</machine>
+	<machine name="dsp1.program">
+		<description>Nintendo SNES DSP1 co-processor firmware</description>
+		<rom name="dsp1.program.rom" size="6144" crc="db9a4c92" sha1="c5d283604beebb3d832f15a0b3fc60d10dd4bddc" md5="ae209fbe789fbf11a48aea5ab1197321"/>
+	</machine>
+	<machine name="dsp1b.data">
+		<description>Nintendo SNES DSP1B co-processor firmware 	</description>
+		<rom name="dsp1b.data.rom" size="2048" crc="37a252c6" sha1="19d5e822fe15ee6942e9921c3d8275a761a969df" md5="1e3f568634a7d8284020dddc0ae905bc"/>
+	</machine>
+	<machine name="dsp1b.program">
+		<description>Nintendo SNES DSP1B co-processor firmware 	</description>
+		<rom name="dsp1b.program.rom" size="6144" crc="66a73998" sha1="03c6c0bdb40846c42aeff6b716e1ea0e001c3ae3" md5="d10f446888e097cbf500f3f663cf4f6d"/>
+	</machine>
+	<machine name="dsp2.data">
+		<description>Nintendo SNES DSP2 co-processor firmware</description>
+		<rom name="dsp2.data.rom" size="2048" crc="b3893c70" sha1="aed9167cc2897cd8d0432f0b8f713fabbc48f5c4" md5="e9417e29223b139c3c4b635a2a3b8744"/>
+	</machine>
+	<machine name="dsp2.program">
+		<description>Nintendo SNES DSP2 co-processor firmware</description>
+		<rom name="dsp2.program.rom" size="6144" crc="0c1cf838" sha1="51a274955ef493cfcf2efad7e2ee54738c81eb15" md5="aa6e5922a3ed5ded54f24247c11143c5"/>
+	</machine>
+	<machine name="dsp3.data">
+		<description>Nintendo SNES DSP3 co-processor firmware</description>
+		<rom name="dsp3.data.rom" size="2048" crc="8b41a2bd" sha1="e7ec3da203a4edba2b17c06d9384787304a025a0" md5="0a81210c0a940b997dd9843281008ee6"/>
+	</machine>
+	<machine name="dsp3.program">
+		<description>Nintendo SNES DSP3 co-processor firmware</description>
+		<rom name="dsp3.program.rom" size="6144" crc="f29be51c" sha1="11b7ba3501a8542af4cdfdbd1c9702ae0a0e3fae" md5="d99ca4562818d49cee1f242705bba6f8"/>
+	</machine>
+	<machine name="dsp4.data">
+		<description>Nintendo SNES DSP4 co-processor firmware</description>
+		<rom name="dsp4.data.rom" size="2048" crc="efa8b9b2" sha1="8f2ffb9c1702aa2f76191e98f3fef43f73e5aab7" md5="ee4990879eb68e3cbca239c5bc20303d"/>
+	</machine>
+	<machine name="dsp4.program">
+		<description>Nintendo SNES DSP4 co-processor firmware</description>
+		<rom name="dsp4.program.rom" size="6144" crc="14b77ae3" sha1="1abee528a59238fd5668fdcffd598d079cb056c2" md5="a151023b948b90ffc23a5b594bb6fef2"/>
+	</machine>
+	<machine name="dtlh2000">
+		<description>PSX DTL-H2000 v1.1 PC Developer Board BIOS</description>
+		<rom name="dtlh2000.bin" size="524288" crc="18d0f7d8" sha1="1a8d6f9453111b1d317bb7dae300495fbf54600c" md5="2118230527a9f51bd9216e32fa912842"/>
+	</machine>
+	<machine name="ECS">
+		<description>Mattel Intellivision Entertainment Computer System ROM</description>
+		<rom name="ECS.BIN" size="24576" crc="ea790a06" sha1="b7ccb38b881d7f8426cd6f1f8a7aabbd31784fc5" md5="2e72a9a2b897d330a35c8b07a6146c52"/>
+	</machine>
+	<machine name="ecwolf">
+		<description>ecwolf.pk3</description>
+		<rom name="ecwolf.pk3" size="178755" crc="26dc3fba" sha1="9259b87edfe9b9f6d0749788a75a6ccf158f50aa" md5="c011b428819eea4a80b455c245a5a04d"/>
+	</machine>
+	<machine name="epd19hft">
+		<description>epd19hft.rom</description>
+		<rom name="epd19hft.rom" size="32768" crc="bd503eeb" sha1="8f28fe73d13e94dd1da02519908ecc6eebe104f6" md5="12cfc9c7e48c8a16c2e09edbd926d467"/>
+	</machine>
+	<machine name="exec">
+		<description>Intellivision Executive ROM</description>
+		<rom name="exec.bin" size="8192" crc="cbce86f7" sha1="5a65b922b562cb1f57dab51b73151283f0e20c7a" md5="62e761035cb657903761800f4437b8af"/>
+	</machine>
+	<machine name="firmware">
+		<description>Nintendo DS Firmware</description>
+		<rom name="firmware.bin" size="262144" crc="945f9dc9" sha1="cfe072921ee3fb93f688743f8beef89043c3e9ad" md5="e45033d9b0fa6b0de071292bba7c9d13"/>
+	</machine>
+	<machine name="FMPAC">
+		<description>MSX FMPAC BIOS</description>
+		<rom name="FMPAC.ROM" size="65536" crc="0e84505d" sha1="9d789166e3caf28e4742fe933d962e99618c633d" md5="6f69cc8b5ed761b03afd78000dfb0e19"/>
+	</machine>
+	<machine name="FMPAC16">
+		<description>MSX FMPAC16</description>
+		<rom name="FMPAC16.ROM" size="16384" crc="5d6c4d27" sha1="2dc4517ebd5a061f9b5aa6b449cc4d4a2073540c" md5="af8537262df8df267072f359399a7635"/>
+	</machine>
+	<machine name="freej2me-lr">
+		<description>freej2me-lr.jar</description>
+		<rom name="freej2me-lr.jar" size="552042" crc="96a1babf" sha1="fb231192894e2fd17a5799fbbdf86a4696951bce" md5="ccd92e7156ce2f0ce14c88ffb68a16eb"/>
+	</machine>
+	<machine name="freej2me-sdl">
+		<description>freej2me-sdl.jar</description>
+		<rom name="freej2me-sdl.jar" size="552043" crc="5cca0f35" sha1="78f1f41d55efc6b8d81e99c1d9d75248b3f83dc2" md5="4da74084fc1b1bd3d776ed8d3ee648de"/>
+	</machine>
+	<machine name="freej2me">
+		<description>freej2me.jar</description>
+		<rom name="freej2me.jar" size="552039" crc="ffb98ffa" sha1="7d738042268e4ffd0aae8e85e05dd28bce761d1f" md5="29a92d0867da2917275b7c6c805d256f"/>
+	</machine>
+	<machine name="front-sp1">
+		<description>front-sp1.bin</description>
+		<rom name="front-sp1.bin" size="524288" crc="cac62307" sha1="53bc1f283cdf00fa2efbb79f2e36d4c8038d743a" md5="5c2366f25ff92d71788468ca492ebeca"/>
+	</machine>
+	<machine name="fx-scsi">
+		<description>NEC PC-FX SCSI CD-ROM</description>
+		<rom name="fx-scsi.rom" size="524288" crc="f3e60e5e" sha1="65482a23ac5c10a6095aee1db5824cca54ead6e5" md5="430e9745f9235c515bc8e652d6ca3004"/>
+	</machine>
+	<machine name="g7400">
+		<description>Videopac+ European BIOS - G7400 model</description>
+		<rom name="g7400.bin" size="1024" crc="e20a9f41" sha1="5130243429b40b01a14e1304d0394b8459a6fbae" md5="c500ff71236068e0dc0d0603d265ae76"/>
+	</machine>
+	<machine name="gamegenie">
+		<description>Nintendo Game Genie add-on cartridge</description>
+		<rom name="gamegenie.nes" size="24592" crc="4c514089" sha1="f430a0d752a9fa0c7032db8131f9090d18f71779" md5="7f98d77d7a094ad7d069b74bd553ec98"/>
+	</machine>
+	<machine name="gb_bios">
+		<description>Nintendo Game Boy BIOS</description>
+		<rom name="gb_bios.bin" size="256" crc="59c8598e" sha1="4ed31ec6b0b175bb109c0eb5fd3d193da823339f" md5="32fbbd84168d3482956eb3c5051637f5"/>
+	</machine>
+	<machine name="gba_bios">
+		<description>Nintendo Game Boy Advance BIOS</description>
+		<rom name="gba_bios.bin" size="16384" crc="81977335" sha1="300c20df6731a33952ded8c436f7f186d25d3492" md5="a860e8c0b6d573d191e4ec7db1b1e4f6"/>
+	</machine>
+	<machine name="gbc_bios">
+		<description>Nintendo Game Boy Color BIOS</description>
+		<rom name="gbc_bios.bin" size="2304" crc="41884e46" sha1="1293d68bf9643bc4f36954c1e80e38f39864528d" md5="dbfce9db9deaa2567f6a84fde55f9680"/>
+	</machine>
+	<machine name="gc-dvd-20010608">
+		<description>gc-dvd-20010608.bin</description>
+		<rom name="gc-dvd-20010608.bin" size="131072" crc="c047465a" sha1="27872c201e87b06a19bf85d36c796ef383f8d52d" md5="561532ad496f644897952d2cef5bb431"/>
+	</machine>
+	<machine name="gc-dvd-20010831">
+		<description>gc-dvd-20010831.bin</description>
+		<rom name="gc-dvd-20010831.bin" size="131072" crc="54c7d10e" sha1="ae7233cae8f94749796e0b740d6021e3b00a8926" md5="b953eb1a8fc9922b3f7051c1cdc451f1"/>
+	</machine>
+	<machine name="gc-dvd-20020402">
+		<description>gc-dvd-20020402.bin</description>
+		<rom name="gc-dvd-20020402.bin" size="131072" crc="8bbef508" sha1="691e46213d8428befdf568157e670b971ab94e1d" md5="413154dd0e2c824c9b18b807fd03ec4e"/>
+	</machine>
+	<machine name="gc-dvd-20020823">
+		<description>gc-dvd-20020823.bin</description>
+		<rom name="gc-dvd-20020823.bin" size="131072" crc="5205222b" sha1="2faaf92bcaffe675f54f7249d30f3791507e22ab" md5="c03f6bbaf644eb9b3ee261dbe199eb42"/>
+	</machine>
+	<machine name="gc-ntsc-10">
+		<description>gc-ntsc-10.bin</description>
+		<rom name="gc-ntsc-10.bin" size="2097152" crc="6dac1f2a" sha1="a1837968288253ed541f2b11440b68f5a9b33875" md5="fc924a7c879b661abc37cec4f018fdf3"/>
+	</machine>
+	<machine name="gc-ntsc-11">
+		<description>gc-ntsc-11.bin</description>
+		<rom name="gc-ntsc-11.bin" size="2097152" crc="d5e6feea" sha1="239eacd86527ff9a75aeb7282da65797baeef010" md5="019e39822a9ca3029124f74dd4d55ac4"/>
+	</machine>
+	<machine name="gc-ntsc-12">
+		<description>gc-ntsc-12.bin</description>
+		<rom name="gc-ntsc-12.bin" size="2097152" crc="86573808" sha1="ef9194ab4804aa0aa8540d846caf291b28331165" md5="b17148254a5799684c7d783206504926"/>
+	</machine>
+	<machine name="gc-pal-10">
+		<description>gc-pal-10.bin</description>
+		<rom name="gc-pal-10.bin" size="2097152" crc="4f319f43" sha1="f27c63e5394e2fd1606f70df004c4fc2d6027700" md5="0cdda509e2da83c85bfe423dd87346cc"/>
+	</machine>
+	<machine name="gc-pal-11">
+		<description>gc-pal-11.bin</description>
+		<rom name="gc-pal-11.bin" size="2097152" crc="667d0b64" sha1="f3cd0c7c61cbcefa85e7de3aff4cfa50bc508714" md5="339848a0b7c2124cf155276c1e79cbd0"/>
+	</machine>
+	<machine name="gc-pal-12">
+		<description>gc-pal-12.bin</description>
+		<rom name="gc-pal-12.bin" size="2097152" crc="ad1b7f16" sha1="80b8744ff5e43585392f55546bd03a673d11ef5f" md5="db92574caab77a7ec99d4605fd6f2450"/>
+	</machine>
+	<machine name="gecard">
+		<description>Games Express CD Card BIOS (Unlicensed)</description>
+		<rom name="gecard.pce" size="32768" crc="51a12d90" sha1="014881a959e045e00f4db8f52955200865d40280" md5="6d2cb14fc3e1f65ceb135633d1694122"/>
+	</machine>
+	<machine name="gexpress">
+		<description>Games Express CD Card (Japan)</description>
+		<rom name="gexpress.pce" size="32768" crc="51a12d90" sha1="014881a959e045e00f4db8f52955200865d40280" md5="6d2cb14fc3e1f65ceb135633d1694122"/>
+	</machine>
+	<machine name="ggenie">
+		<description>Sega Mega Drive Game Genie ROM (lock-on)</description>
+		<rom name="ggenie.bin" size="32768" crc="14dbce4a" sha1="937e1878ebd104f489e6bdbc410a184f79f1144a" md5="e8af7fe115a75c849f6aab3701e7799b"/>
+	</machine>
+	<machine name="gluck">
+		<description>Sinclair ZX Spectrum 128K ROM</description>
+		<rom name="gluck.rom" size="16384" crc="ca321d79" sha1="015eb96dafb273d4f4512c467e9b43c305fd1bc4" md5="d5869034604dbfd2c1d54170e874fd0a"/>
+	</machine>
+	<machine name="goldstar">
+		<description>Goldstar GDO-101M</description>
+		<rom name="goldstar.bin" size="1048576" crc="b6f5028b" sha1="c4a2e5336f77fb5f743de1eea2cda43675ee2de7" md5="8639fd5e549bd6238cfee79e3e749114"/>
+	</machine>
+	<machine name="grom">
+		<description>Intellivision Graphics ROM</description>
+		<rom name="grom.bin" size="2048" crc="683a4158" sha1="f9608bb4ad1cfe3640d02844c7ad8e0bcd974917" md5="0cd5946c6473e42e8e4c2137785e427f"/>
+	</machine>
+	<machine name="hisaturn">
+		<description>hisaturn.bin</description>
+		<rom name="hisaturn.bin" size="524288" crc="721e1b60" sha1="49d8493008fa715ca0c94d99817a5439d6f2c796" md5="3ea3202e2634cb47cb90f3a05c015010"/>
+	</machine>
+	<machine name="if1-1">
+		<description>if1-1.rom</description>
+		<rom name="if1-1.rom" size="8192" crc="e72a12ae" sha1="4ffd9ed9c00cdc6f92ce69fdd8b618ef1203f48e" md5="5c11c61a2dd2ca4bf39328d9ff42d289"/>
+	</machine>
+	<machine name="if1-2">
+		<description>if1-2.rom</description>
+		<rom name="if1-2.rom" size="8192" crc="bb66dd1e" sha1="5cfb6bca4177c45fefd571734576b55e3a127c08" md5="31b704ae925305e74f50699271fddd9a"/>
+	</machine>
+	<machine name="ITALIC">
+		<description>MSX Italic Font</description>
+		<rom name="ITALIC.FNT" size="2048" crc="c90ec498" sha1="401dd6692dc80628e5f68b7c79be0b0ebbc4d3ee" md5="c83e50e9f33b8dd893c414691822740d"/>
+	</machine>
+	<machine name="IVOICE">
+		<description>Mattel Intellivision Intellivoice RESROM</description>
+		<rom name="IVOICE.BIN" size="2048" crc="0de7579d" sha1="618563e512ff5665183664f52270fa9606c9d289" md5="d5530f74681ec6e0f282dab42e6b1c5f"/>
+	</machine>
+	<machine name="jopac">
+		<description>Videopac+ French BIOS - G7400</description>
+		<rom name="jopac.bin" size="1024" crc="11647ca5" sha1="54b8d2c1317628de51a85fc1c424423a986775e4" md5="279008e4a0db2dc5f1c048853b033828"/>
+	</machine>
+	<machine name="KANJI">
+		<description>MSX Kanji Font</description>
+		<rom name="KANJI.ROM" size="131072" crc="c9651b32" sha1="84a645becec0a25d3ab7a909cde1b242699a8662" md5="febe8782b466d7c3b16de6d104826b34"/>
+	</machine>
+	<machine name="kick33180">
+		<description>Amiga 500 Kickstart v1.2 rev 33.180</description>
+		<rom name="kick33180.A500" size="262144" crc="a6ce1636" sha1="11f9e62cf299f72184835b7b2a70a16333fc0d88" md5="85ad74194e87c08904327de1a9443b7a"/>
+	</machine>
+	<machine name="kick34005">
+		<description>Amiga 500 Kickstart v1.3 rev 34.005</description>
+		<rom name="kick34005.A500" size="262144" crc="c4f0f55f" sha1="891e9a547772fe0c6c19b610baf8bc4ea7fcb785" md5="82a21c1890cae844b3df741f2762d48d"/>
+	</machine>
+	<machine name="kick34005">
+		<description>Amiga CDTV extended ROM v1.00</description>
+		<rom name="kick34005.CDTV" size="262144" crc="42baa124" sha1="7ba40ffa17e500ed9fed041f3424bd81d9c907be" md5="89da1838a24460e4b93f4f0c5d92d48d"/>
+	</machine>
+	<machine name="kick37175">
+		<description>Amiga 500 Kickstart v2.04 rev 37.175</description>
+		<rom name="kick37175.A500" size="524288" crc="c3bdb240" sha1="c5839f5cb98a7a8947065c3ed2f14f5f42e334a1" md5="dc10d7bdd1b6f450773dfb558477c230"/>
+	</machine>
+	<machine name="kick37350">
+		<description>Amiga 600 Kickstart v2.05 rev 37.350</description>
+		<rom name="kick37350.A600" size="524288" crc="43b0df7b" sha1="02843c4253bbd29aba535b0aa3bd9a85034ecde4" md5="465646c9b6729f77eea5314d1f057951"/>
+	</machine>
+	<machine name="kick39106">
+		<description>Amiga 1200 Kickstart v3.0 rev 39.106</description>
+		<rom name="kick39106.A1200" size="524288" crc="6c9b07d2" sha1="70033828182fffc7ed106e5373a8b89dda76faa5" md5="b7cc148386aa631136f510cd29e42fc3"/>
+	</machine>
+	<machine name="kick39106">
+		<description>Amiga 4000 Kickstart v3.0 rev 39.106</description>
+		<rom name="kick39106.A4000" size="524288" crc="9e6ac152" sha1="f0b4e9e29e12218c2d5bd7020e4e785297d91fd7" md5="9b8bdd5a3fd32c2a5a6f5b1aefc799a5"/>
+	</machine>
+	<machine name="kick40060">
+		<description>Amiga CD32 Kickstart v3.1 rev 40.060</description>
+		<rom name="kick40060.CD32" size="524288" crc="1e62d4a5" sha1="3525be8887f79b5929e017b42380a79edfee542d" md5="5f8924d013dd57a89cf349f4cdedc6b1"/>
+	</machine>
+	<machine name="kick40060.CD32">
+		<description>Amiga CD32 extended ROM rev 40.060</description>
+		<rom name="kick40060.CD32.ext" size="524288" crc="87746be2" sha1="5bef3d628ce59cc02a66e6e4ae0da48f60e78f7f" md5="bb72565701b1b6faece07d68ea5da639"/>
+	</machine>
+	<machine name="kick40060.CD32">
+		<description>Amiga CD32 KS + extended v3.1 rev 40.060</description>
+		<rom name="kick40060.CD32.full" size="1048576" crc="f5d4f3c8" sha1="9fa14825c40a2475a2eba5cf325bd483c447e7c1" md5="f2f241bf094168cfb9e7805dc2856433"/>
+	</machine>
+	<machine name="kick40063">
+		<description>Amiga Kickstart v3.1 rev 40.063</description>
+		<rom name="kick40063.A600" size="524288" crc="fc24ae0d" sha1="3b7f1493b27e212830f989f26ca76c02049f09ca" md5="e40a5dfb3d017ba8779faba30cbd1c8e"/>
+	</machine>
+	<machine name="kick40068">
+		<description>Amiga Kickstart v3.1 rev 40.068</description>
+		<rom name="kick40068.A1200" size="524288" crc="1483a091" sha1="e21545723fe8374e91342617604f1b3d703094f1" md5="646773759326fbac3b2311fd8c8793ee"/>
+	</machine>
+	<machine name="kick40068">
+		<description>Amiga Kickstart v3.1 rev 40.068</description>
+		<rom name="kick40068.A4000" size="524288" crc="d6bae334" sha1="5fe04842d04a489720f0f4bb0e46948199406f49" md5="9bdedde6a4f33555b4a270c8ca53297d"/>
+	</machine>
+	<machine name="lynxboot">
+		<description>Atari Lynx Boot Image</description>
+		<rom name="lynxboot.img" size="512" crc="0d973c9d" sha1="e4ed47fae31693e016b081c6bda48da5b70d7ccb" md5="fcd403db69f54290b51035d82f835e7b"/>
+	</machine>
+	<machine name="MacII">
+		<description>Macintosh II ROM</description>
+		<rom name="MacII.ROM" size="262144" crc="4df6d054" sha1="db6b504744281369794e26ba71a6e385cf6227fa" md5="66223be1497460f1e60885eeb35e03cc"/>
+	</machine>
+	<machine name="mpr-17933">
+		<description>Sega Saturn US/EU BIOS</description>
+		<rom name="mpr-17933.bin" size="524288" crc="4afcf0fa" sha1="faa8ea183a6d7bbe5d4e03bb1332519800d3fbc3" md5="3240872c70984b6cbfda1586cab68dbe"/>
+	</machine>
+	<machine name="mpr-18100">
+		<description>HiSaturn BIOS</description>
+		<rom name="mpr-18100.bin" size="524288" crc="3408dbf4" sha1="8a22710e09ce75f39625894366cafe503ed1942d" md5="cb2cebc1b6e573b7c44523d037edcd45"/>
+	</machine>
+	<machine name="mpr-18811-mx">
+		<description>The King of Fighters '95 ROM Cartridge</description>
+		<rom name="mpr-18811-mx.ic1" size="2097152" crc="90412e10" sha1="a67cd4f550751f8b91de2b8b74528ab4e0c11c77" md5="255113ba943c92a54facd25a10fd780c"/>
+	</machine>
+	<machine name="mpr-19367-mx">
+		<description>Ultraman: Hikari no Kyojin Densetsu ROM Cartridge</description>
+		<rom name="mpr-19367-mx.ic1" size="2097152" crc="b9644b52" sha1="56c1b93da6b660bf393fbf48ca47569000ef4047" md5="1cd19988d1d72a3e7caa0b73234c96b4"/>
+	</machine>
+	<machine name="MSX">
+		<description>MSX BIOS</description>
+		<rom name="MSX.ROM" size="32768" crc="94ee12f3" sha1="409e82adac40f6bdd18eb6c84e8b2fbdc7fb5498" md5="aa95aea2563cd5ec0a0919b44cc17d47"/>
+	</machine>
+	<machine name="MSX2">
+		<description>MSX2 BIOS</description>
+		<rom name="MSX2.ROM" size="32768" crc="6cdaf3a5" sha1="6103b39f1e38d1aa2d84b1c3219c44f1abb5436e" md5="ec3a01c91f24fbddcbcab0ad301bc9ef"/>
+	</machine>
+	<machine name="MSX2EXT">
+		<description>MSX2 ExtROM</description>
+		<rom name="MSX2EXT.ROM" size="16384" crc="66237ecf" sha1="5c1f9c7fb655e43d38e5dd1fcc6b942b2ff68b02" md5="2183c2aff17cf4297bdb496de78c2e8a"/>
+	</machine>
+	<machine name="MSX2P">
+		<description>MSX2+ BIOS</description>
+		<rom name="MSX2P.ROM" size="32768" crc="00870134" sha1="e2fbd56e42da637609d23ae9df9efd1b4241b18a" md5="6d8c0ca64e726c82a4b726e9b01cdf1e"/>
+	</machine>
+	<machine name="MSX2PEXT">
+		<description>MSX2+ ExtROM</description>
+		<rom name="MSX2PEXT.ROM" size="16384" crc="b8ba44d3" sha1="fe0254cbfc11405b79e7c86c7769bd6322b04995" md5="7c8243c71d8f143b2531f01afa6a05dc"/>
+	</machine>
+	<machine name="MSXDOS2">
+		<description>MSX-DOS 2</description>
+		<rom name="MSXDOS2.ROM" size="65536" crc="1c430991" sha1="c36c9e0f96738a340381e23b4f97245388801a46" md5="6418d091cd6907bbcf940324339e43bb"/>
+	</machine>
+	<machine name="MT32_CONTROL">
+		<description>Roland MT-32 Control ROM v1.07</description>
+		<rom name="MT32_CONTROL.ROM" size="65536" crc="a7c1531b" sha1="b083518fffb7f66b03c23b7eb4f868e62dc5a987" md5="5626206284b22c2734f3e9efefcd2675"/>
+	</machine>
+	<machine name="MT32_PCM">
+		<description>Roland MT-32 PCM ROM</description>
+		<rom name="MT32_PCM.ROM" size="524288" crc="573e31cc" sha1="f6b1eebc4b2d200ec6d3d21d51325d5b48c60252" md5="89e42e386e82e0cacb4a2704a03706ca"/>
+	</machine>
+	<machine name="neocd">
+		<description>neocd.bin</description>
+		<rom name="neocd.bin" size="524288" crc="df9de490" sha1="7bb26d1e5d1e930515219cb18bcde5b7b23e2eda" md5="f39572af7584cb5b3f70ae8cc848aba2"/>
+	</machine>
+	<machine name="neocd_f">
+		<description>neocd_f.rom</description>
+		<rom name="neocd_f.rom" size="524288" crc="6fd2a520" sha1="a5f4a7a627b3083c979f6ebe1fabc5d2df6d083b" md5="8834880c33164ccbe6476b559f3e37de"/>
+	</machine>
+	<machine name="neocd_sf">
+		<description>neocd_sf.rom</description>
+		<rom name="neocd_sf.rom" size="524288" crc="1101f313" sha1="4a94719ee5d0e3f2b981498f70efc1b8f1cef325" md5="043d76d5f0ef836500700c34faef774d"/>
+	</machine>
+	<machine name="neocd_st">
+		<description>neocd_st.rom</description>
+		<rom name="neocd_st.rom" size="524288" crc="01c299cc" sha1="19729b51bdab60c42aafef6e20ea9234c7eb8410" md5="f6325a33c6d63ea4b9162a3fa8c32727"/>
+	</machine>
+	<machine name="neocd_sz">
+		<description>neocd_sz.rom</description>
+		<rom name="neocd_sz.rom" size="524288" crc="42f6b6c4" sha1="6a947457031dd3a702a296862446d7485aa89dbb" md5="971ee8a36fb72da57aed01758f0a37f5"/>
+	</machine>
+	<machine name="neocd_t">
+		<description>neocd_t.rom</description>
+		<rom name="neocd_t.rom" size="524288" crc="56c9ecba" sha1="cc92b54a18a8bff6e595aabe8e5c360ba9e62eb5" md5="de3cf45d227ad44645b22aa83b49f450"/>
+	</machine>
+	<machine name="neocd_z">
+		<description>neocd_z.rom</description>
+		<rom name="neocd_z.rom" size="524288" crc="33697892" sha1="b0f1c4fa8d4492a04431805f6537138b842b549f" md5="11526d58d4c524daef7d5d677dc6b004"/>
+	</machine>
+	<machine name="neogeo">
+		<description>Neo Geo MVS BIOS</description>
+		<rom name="neogeo.zip" size="1859335" crc="81315163" sha1="deb62b0074b8cae4f162c257662136733cfc76ad" md5="00dad01abdbf8ea9e79ad2fe11bdb182"/>
+	</machine>
+	<machine name="nes">
+		<description>NES / Famicom custom palette (FCEUmm)</description>
+		<rom name="nes.pal" size="192" crc="76f51d6b" sha1="37027d92e1015b82a7dc5c43e9f1649a961577ab" md5="aaf3666e4ed478e2964b46d6a7aa27ad"/>
+	</machine>
+	<machine name="NstDatabase">
+		<description>NstDatabase.xml</description>
+		<rom name="NstDatabase.xml" size="1009534" crc="ebb2196c" sha1="26322f182540211e9b5e3647675b7c593706ae2b" md5="7bfe8c0540ed4bd6a0f1e2a0f0118ced"/>
+	</machine>
+	<machine name="o2rom">
+		<description>Odyssey2 BIOS - G7000 model</description>
+		<rom name="o2rom.bin" size="1024" crc="8016a315" sha1="b2e1955d957a475de2411770452eff4ea19f4cee" md5="562d5ebf9e030a40d6fabfc2f33139fd"/>
+	</machine>
+	<machine name="PAINTER">
+		<description>MSX Yamaha Painter</description>
+		<rom name="PAINTER.ROM" size="65536" crc="1bda68a3" sha1="7fd2a28c4fdaeb140f3c8c8fb90271b1472c97b9" md5="403cdea1cbd2bb24fae506941f8f655e"/>
+	</machine>
+	<machine name="palmos40-en-m500">
+		<description>Palm OS 4.0 for m500</description>
+		<rom name="palmos40-en-m500.rom" size="" crc="" sha1="" md5="f50e4d5e4d98dc831f2c34a9107651eb"/>
+	</machine>
+	<machine name="palmos41-en-m515">
+		<description>Palm OS 4.1 for m515</description>
+		<rom name="palmos41-en-m515.rom" size="4194304" crc="6481a088" sha1="cc4898ee8cae4669fc19e184c5b560c770e731b3" md5="83cb1d1c76e568b916dc2e7c0bf669f6"/>
+	</machine>
+	<machine name="palmos52-en-t3">
+		<description>Palm OS 5.2 for Tungsten T3</description>
+		<rom name="palmos52-en-t3.rom" size="" crc="" sha1="" md5="de46ec84d9aabf655eabdf9b00a3845d"/>
+	</machine>
+	<machine name="panafz1">
+		<description>Panasonic FZ-1</description>
+		<rom name="panafz1.bin" size="1048576" crc="c8c8ff89" sha1="34bf189111295f74d7b7dfc1f304d98b8d36325a" md5="f47264dd47fe30f73ab3c010015c155b"/>
+	</machine>
+	<machine name="panafz1-kanji">
+		<description>Panasonic FZ-1 Kanji ROM</description>
+		<rom name="panafz1-kanji.bin" size="933636" crc="a8e9447c" sha1="acd39a8fee1b9d2950d5ab447846c11fb31af63e" md5="b8dc97f778a6245c58e064b0312e8281"/>
+	</machine>
+	<machine name="panafz10">
+		<description>Panasonic FZ-10</description>
+		<rom name="panafz10.bin" size="1048576" crc="58242cee" sha1="3c912300775d1ad730dc35757e279c274c0acaad" md5="51f2f43ae2f3508a14d9f56597e2d3ce"/>
+	</machine>
+	<machine name="panafz10-norsa">
+		<description>Panasonic FZ-10 [RSA Patch]</description>
+		<rom name="panafz10-norsa.bin" size="1048576" crc="230e6feb" sha1="f05e642322c03694f06a809c0b90fc27ac73c002" md5="1477bda80dc33731a65468c1f5bcbee9"/>
+	</machine>
+	<machine name="panafz10e-anvil">
+		<description>Panasonic FZ-10-E [Anvil]</description>
+		<rom name="panafz10e-anvil.bin" size="1048576" crc="2495c500" sha1="a900371f0cdcdc03f79557f11d406fd71251a5fd" md5="a48e6746bd7edec0f40cff078f0bb19f"/>
+	</machine>
+	<machine name="panafz10e-anvil-norsa">
+		<description>Panasonic FZ-10-E [Anvil RSA Patch]</description>
+		<rom name="panafz10e-anvil-norsa.bin" size="1048576" crc="9a186221" sha1="2765c7b4557cc838b32567d2428d088980295159" md5="cf11bbb5a16d7af9875cca9de9a15e09"/>
+	</machine>
+	<machine name="panafz10ja-anvil-kanji">
+		<description>Panasonic FZ-10JA Kanji ROM</description>
+		<rom name="panafz10ja-anvil-kanji.bin" size="1048576" crc="ff7393de" sha1="2e857b957803d0331fd229328df01f3ffab69eee" md5="428577250f43edc902ea239c50d2240d"/>
+	</machine>
+	<machine name="panafz1j">
+		<description>Panasonic FZ-1J</description>
+		<rom name="panafz1j.bin" size="1048576" crc="d9493adc" sha1="ec7ec62d60ec0459a14ed56ebc66761ef3c80efc" md5="a496cfdded3da562759be3561317b605"/>
+	</machine>
+	<machine name="panafz1j-kanji">
+		<description>Panasonic FZ-1J Kanji ROM</description>
+		<rom name="panafz1j-kanji.bin" size="1048576" crc="45f478b1" sha1="884515605ee243577ab20767ef8c1a7368e4e407" md5="c23fb5d5e6bb1c240d02cf968972be37"/>
+	</machine>
+	<machine name="panafz1j-norsa">
+		<description>Panasonic FZ-1J [RSA Patch]</description>
+		<rom name="panafz1j-norsa.bin" size="1048576" crc="82ce67c6" sha1="a417587ae3b0b8ef00c830920c21af8bee88e419" md5="f6c71de7470d16abe4f71b1444883dc8"/>
+	</machine>
+	<machine name="pcfx">
+		<description>PC-FX BIOS v1.00 (Sep 1994)</description>
+		<rom name="pcfx.rom" size="1048576" crc="76ffb97a" sha1="1a77fd83e337f906aecab27a1604db064cf10074" md5="08e36edbea28a017f79f8d4f7ff9b6d7"/>
+	</machine>
+	<machine name="pcfxbios">
+		<description>PC-FX BIOS v1.00 (Sep 1994)</description>
+		<rom name="pcfxbios.bin" size="1048576" crc="76ffb97a" sha1="1a77fd83e337f906aecab27a1604db064cf10074" md5="08e36edbea28a017f79f8d4f7ff9b6d7"/>
+	</machine>
+	<machine name="pcfxga">
+		<description>pcfxga.rom</description>
+		<rom name="pcfxga.rom" size="1048576" crc="41c3776b" sha1="a9372202a5db302064c994fcda9b24d29bb1b41c" md5="5885bc9a64bf80d4530b9b9b978ff587"/>
+	</machine>
+	<machine name="pcfxv101">
+		<description>pcfxv101.bin</description>
+		<rom name="pcfxv101.bin" size="1048576" crc="236102c9" sha1="8b662f7548078be52a871565e19511ccca28c5c8" md5="e2fb7c7220e3a7838c2dd7e401a7f3d8"/>
+	</machine>
+	<machine name="plus2-0">
+		<description>plus2-0.rom</description>
+		<rom name="plus2-0.rom" size="16384" crc="5d2e8c66" sha1="72703f9a3e734f3c23ec34c0727aae4ccbef9a91" md5="4ed7af4636308b8a48d7a35e6c5b546b"/>
+	</machine>
+	<machine name="plus2-1">
+		<description>plus2-1.rom</description>
+		<rom name="plus2-1.rom" size="16384" crc="98b1320b" sha1="de8b0d2d0379cfe7c39322a086ca6da68c7f23cb" md5="b3db95931cc844efaeb82db9c171b9f3"/>
+	</machine>
+	<machine name="plus3-0">
+		<description>plus3-0.rom</description>
+		<rom name="plus3-0.rom" size="16384" crc="17373da2" sha1="e319ed08b4d53a5e421a75ea00ea02039ba6555b" md5="9833b8b73384dd5fa3678377ff00a2bb"/>
+	</machine>
+	<machine name="plus3-1">
+		<description>plus3-1.rom</description>
+		<rom name="plus3-1.rom" size="16384" crc="f1d1d99e" sha1="c9969fc36095a59787554026a9adc3b87678c794" md5="0f711ceb5ab801b4701989982e0f334c"/>
+	</machine>
+	<machine name="plus3-2">
+		<description>plus3-2.rom</description>
+		<rom name="plus3-2.rom" size="16384" crc="3dbf351d" sha1="22e50c6ba4157a3f6a821bd9937cd26e292775c6" md5="3b6dd659d5e4ec97f0e2f7878152c987"/>
+	</machine>
+	<machine name="plus3-3">
+		<description>plus3-3.rom</description>
+		<rom name="plus3-3.rom" size="16384" crc="04448eaa" sha1="65f031caa8148a5493afe42c41f4929deab26b4e" md5="a148bcc575e51389e84fdf5d555c3196"/>
+	</machine>
+	<machine name="plus3e-0">
+		<description>plus3e-0.rom</description>
+		<rom name="plus3e-0.rom" size="16384" crc="7f4a5482" sha1="649fbd233490bf58b35350b0123d36caaaa011eb" md5="bc123f625e245c225f92ef05933ed134"/>
+	</machine>
+	<machine name="plus3e-1">
+		<description>plus3e-1.rom</description>
+		<rom name="plus3e-1.rom" size="16384" crc="5aeb4675" sha1="f12198108cbb14de4f03c6695bc16d08c85ee214" md5="617364264c587d20c9fc4746c29679f2"/>
+	</machine>
+	<machine name="plus3e-2">
+		<description>plus3e-2.rom</description>
+		<rom name="plus3e-2.rom" size="16384" crc="504755cb" sha1="773633dce5ba323a9e00d9d0f9e4d8c295df7c87" md5="c363e95dcd0a90e6e7f847e6e47e0179"/>
+	</machine>
+	<machine name="plus3e-3">
+		<description>plus3e-3.rom</description>
+		<rom name="plus3e-3.rom" size="16384" crc="04448eaa" sha1="65f031caa8148a5493afe42c41f4929deab26b4e" md5="a148bcc575e51389e84fdf5d555c3196"/>
+	</machine>
+	<machine name="plusd">
+		<description>plusd.rom</description>
+		<rom name="plusd.rom" size="8192" crc="569f7e55" sha1="6b841dc5797ef7eb219ad455cd1e434ca3b9d30d" md5="42e5de16fb5e50082bb954ec7ce45851"/>
+	</machine>
+	<machine name="ppge_atlas">
+		<description>ppge_atlas.zim</description>
+		<rom name="ppge_atlas.zim" size="666530" crc="7b57fa78" sha1="30a33f3651f8e1b0967a5dfe6ff714baebcce41a" md5="866855cc330b9b95cc69135fb7b41d38"/>
+	</machine>
+	<machine name="prboom">
+		<description>prboom.wad</description>
+		<rom name="prboom.wad" size="143312" crc="a5751b99" sha1="5f4aed208301449c2e9514edfd325fe9dead76fa" md5="72ae1b47820fcc93cc0df9c428d0face"/>
+	</machine>
+	<machine name="ps1_rom">
+		<description>ps1_rom.bin</description>
+		<rom name="ps1_rom.bin" size="524288" crc="2f53b852" sha1="c40146361eb8cf670b19fdc9759190257803cab7" md5="81bbe60ba7a3d1cea1d48c14cbcc647b"/>
+	</machine>
+	<machine name="psxonpsp660">
+		<description>psxonpsp660.bin</description>
+		<rom name="psxonpsp660.bin" size="524288" crc="5660f34f" sha1="96880d1ca92a016ff054be5159bb06fe03cb4e14" md5="c53ca5908936d412331790f4426c6c33"/>
+	</machine>
+	<machine name="rom">
+		<description>rom.db</description>
+		<rom name="rom.db" size="17742" crc="c94e8c8b" sha1="02c287d10da6de579af7a4ce73b134bbdf23c970" md5="ff4a3572475236e859e3e9ac5c87d1f1"/>
+	</machine>
+	<machine name="RS232">
+		<description>MSX RS232 ROM</description>
+		<rom name="RS232.ROM" size="16640" crc="ab6874f8" sha1="7aec0134ad6a5177f4056fcb6047083e8e00529b" md5="279efd1eae0d358eecd4edc7d9adedf3"/>
+	</machine>
+	<machine name="sanyotry">
+		<description>Sanyo IMP-21J TRY</description>
+		<rom name="sanyotry.bin" size="1048576" crc="d5cbc509" sha1="b01c53da256dde43ffec4ad3fc3adfa8d635e943" md5="35fa1a1ebaaeea286dc5cd15487c13ea"/>
+	</machine>
+	<machine name="saturn_bios">
+		<description>Sega Saturn BIOS</description>
+		<rom name="saturn_bios.bin" size="524288" crc="2aba43c2" sha1="2b8cb4f87580683eb4d760e4ed210813d667f0a2" md5="af5828fdff51384f99b3c4926be27762"/>
+	</machine>
+	<machine name="scph100">
+		<description>PSOne SCPH-100 v4.3 JP BIOS</description>
+		<rom name="scph100.bin" size="524288" crc="f2af798b" sha1="339a48f4fcf63e10b5b867b8c93cfd40945faf6c" md5="8abc1b549a4a80954addc48ef02c4521"/>
+	</machine>
+	<machine name="scph101">
+		<description>PSOne SCPH-101 v4.5 US BIOS</description>
+		<rom name="scph101.bin" size="524288" crc="171bdcec" sha1="dcffe16bd90a723499ad46c641424981338d8378" md5="6e3735ff4c7dc899ee98981385f6f3d0"/>
+	</machine>
+	<machine name="scph102A">
+		<description>PSOne SCPH-102A v4.4 EU BIOS</description>
+		<rom name="scph102A.bin" size="524288" crc="0bad7ea9" sha1="beb0ac693c0dc26daf5665b3314db81480fa5c7c" md5="b10f5e0e3d9eb60e5159690680b1e774"/>
+	</machine>
+	<machine name="scph102B">
+		<description>PSOne SCPH-102B v4.5 EU BIOS</description>
+		<rom name="scph102B.bin" size="524288" crc="76b880e5" sha1="dbc7339e5d85827c095764fc077b41f78fd2ecae" md5="de93caec13d1a141a40a79f5c86168d6"/>
+	</machine>
+	<machine name="scph102C">
+		<description>PSOne SCPH-102C v4.5 EU BIOS</description>
+		<rom name="scph102C.bin" size="524288" crc="76b880e5" sha1="dbc7339e5d85827c095764fc077b41f78fd2ecae" md5="de93caec13d1a141a40a79f5c86168d6"/>
+	</machine>
+	<machine name="scph1000">
+		<description>PSX SCPH-1000 v1.0 JP BIOS</description>
+		<rom name="scph1000.bin" size="524288" crc="3b601fc8" sha1="343883a7b555646da8cee54aadd2795b6e7dd070" md5="239665b1a3dade1b5a52c06338011044"/>
+	</machine>
+	<machine name="scph1001">
+		<description>PSX SCPH-1001 v2.2 US BIOS</description>
+		<rom name="scph1001.bin" size="524288" crc="37157331" sha1="10155d8d6e6e832d6ea66db9bc098321fb5e8ebf" md5="924e392ed05558ffdb115408c263dccf"/>
+	</machine>
+	<machine name="scph1002">
+		<description>PSX SCPH-1002 v2.0 EU BIOS</description>
+		<rom name="scph1002.bin" size="524288" crc="9bb87c4b" sha1="20b98f3d80f11cbf5a7bfd0779b0e63760ecc62c" md5="54847e693405ffeb0359c6287434cbef"/>
+	</machine>
+	<machine name="scph18000">
+		<description>PS2 SCPH-18000 v5.0 PSX BIOS</description>
+		<rom name="scph18000.bin" size="524288" crc="0dcce9d7" sha1="d7d6be084f51354bc951d8fa2d8d912aa70abc5e" md5="d8f485717a5237285e4d7c5f881b7f32"/>
+	</machine>
+	<machine name="scph3000">
+		<description>PSX SCPH-3000 v1.1 JP BIOS</description>
+		<rom name="scph3000.bin" size="524288" crc="3539def6" sha1="b06f4a861f74270be819aa2a07db8d0563a7cc4e" md5="849515939161e62f6b866f6853006780"/>
+	</machine>
+	<machine name="scph3500">
+		<description>PSX SCPH-3500 v2.1 JP BIOS</description>
+		<rom name="scph3500.bin" size="524288" crc="bc190209" sha1="e38466a4ba8005fba7e9e3c7b9efeba7205bee3f" md5="cba733ceeff5aef5c32254f1d617fa62"/>
+	</machine>
+	<machine name="scph5000">
+		<description>PSX SCPH-5000 v2.2 JP BIOS</description>
+		<rom name="scph5000.bin" size="524288" crc="24fc7e17" sha1="ffa7f9a7fb19d773a0c3985a541c8e5623d2c30d" md5="57a06303dfa9cf9351222dfcbb4a29d9"/>
+	</machine>
+	<machine name="scph5500">
+		<description>PSX SCPH-5500 v3.0 JP BIOS</description>
+		<rom name="scph5500.bin" size="524288" crc="ff3eeb8c" sha1="b05def971d8ec59f346f2d9ac21fb742e3eb6917" md5="8dd7d5296a650fac7319bce665a6a53c"/>
+	</machine>
+	<machine name="scph5501">
+		<description>PSX SCPH-5501 v3.0 US BIOS</description>
+		<rom name="scph5501.bin" size="524288" crc="8d8cb7e4" sha1="0555c6fae8906f3f09baf5988f00e55f88e9f30b" md5="490f666e1afb15b7362b406ed1cea246"/>
+	</machine>
+	<machine name="scph5502">
+		<description>PSX SCPH-5502 v3.0 EU BIOS</description>
+		<rom name="scph5502.bin" size="524288" crc="d786f0b9" sha1="f6bc2d1f5eb6593de7d089c425ac681d6fffd3f0" md5="32736f17079d0b2b7024407c39bd3050"/>
+	</machine>
+	<machine name="scph5552">
+		<description>PSX SCPH-5552 v3.0 EU BIOS</description>
+		<rom name="scph5552.bin" size="524288" crc="d786f0b9" sha1="f6bc2d1f5eb6593de7d089c425ac681d6fffd3f0" md5="32736f17079d0b2b7024407c39bd3050"/>
+	</machine>
+	<machine name="scph5903">
+		<description>PSX SCPH-5903 v2.2 Asia Video CD BIOS</description>
+		<rom name="scph5903.bin" size="524288" crc="24fc7e17" sha1="ffa7f9a7fb19d773a0c3985a541c8e5623d2c30d" md5="57a06303dfa9cf9351222dfcbb4a29d9"/>
+	</machine>
+	<machine name="scph7001">
+		<description>PSX SCPH-7001 v4.1 US BIOS</description>
+		<rom name="scph7001.bin" size="524288" crc="502224b6" sha1="14df4f6c1e367ce097c11deae21566b4fe5647a9" md5="1e68c231d0896b7eadcad1d7d8e76129"/>
+	</machine>
+	<machine name="scph7002">
+		<description>PSX SCPH-7002 v4.1 EU BIOS</description>
+		<rom name="scph7002.bin" size="524288" crc="318178bf" sha1="8d5de56a79954f29e9006929ba3fed9b6a418c1d" md5="b9d9a0286c33dc6b7237bb13cd46fdee"/>
+	</machine>
+	<machine name="scph7003">
+		<description>PSX SCPH-7003 v3.0 Asia BIOS</description>
+		<rom name="scph7003.bin" size="524288" crc="8d8cb7e4" sha1="0555c6fae8906f3f09baf5988f00e55f88e9f30b" md5="490f666e1afb15b7362b406ed1cea246"/>
+	</machine>
+	<machine name="scph7502">
+		<description>PSX SCPH-7502 v4.1 EU BIOS</description>
+		<rom name="scph7502.bin" size="524288" crc="318178bf" sha1="8d5de56a79954f29e9006929ba3fed9b6a418c1d" md5="b9d9a0286c33dc6b7237bb13cd46fdee"/>
+	</machine>
+	<machine name="scph9002(7502)">
+		<description>PSX SCPH-9002 v4.1 EU BIOS</description>
+		<rom name="scph9002(7502).bin" size="524288" crc="318178bf" sha1="8d5de56a79954f29e9006929ba3fed9b6a418c1d" md5="b9d9a0286c33dc6b7237bb13cd46fdee"/>
+	</machine>
+	<machine name="scummvm">
+		<description>ScummVM</description>
+		<rom name="scummvm.zip" size="9523360" crc="a93f1c4b" sha1="718c1a00d38e0810a1ad0ffde79f73447f846f01" md5="a17e0e0150155400d8cced329563d9c8"/>
+	</machine>
+	<machine name="se-0">
+		<description>se-0.rom</description>
+		<rom name="se-0.rom" size="16384" crc="8f1047d2" sha1="8608328d7dd66602a4846f046b24fed500f7d828" md5="fb3f86eb1e5a695d9c50c124e7cfb875"/>
+	</machine>
+	<machine name="se-1">
+		<description>se-1.rom</description>
+		<rom name="se-1.rom" size="16384" crc="16ed3a9b" sha1="3be5de57dd3bd0a9d15c57cabe9179afe2906a52" md5="88de4a3129086f34bb9ca559acc51e6c"/>
+	</machine>
+	<machine name="sega1003">
+		<description>sega1003.bin</description>
+		<rom name="sega1003.bin" size="524288" crc="b3c63c25" sha1="7b23b53d62de0f29a23e423d0fe751dfb469c2fa" md5="74570fed4d44b2682b560c8cd44b8b6a"/>
+	</machine>
+	<machine name="sega_100">
+		<description>sega_100.bin</description>
+		<rom name="sega_100.bin" size="524288" crc="2aba43c2" sha1="2b8cb4f87580683eb4d760e4ed210813d667f0a2" md5="af5828fdff51384f99b3c4926be27762"/>
+	</machine>
+	<machine name="sega_100a">
+		<description>sega_100a.bin</description>
+		<rom name="sega_100a.bin" size="524288" crc="f90f0089" sha1="3bb41feb82838ab9a35601ac666de5aacfd17a58" md5="f273555d7d91e8a5a6bfd9bcf066331c"/>
+	</machine>
+	<machine name="sega_101">
+		<description>sega_101.bin</description>
+		<rom name="sega_101.bin" size="524288" crc="224b752c" sha1="df94c5b4d47eb3cc404d88b33a8fda237eaf4720" md5="85ec9ca47d8f6807718151cbcca8b964"/>
+	</machine>
+	<machine name="sgb.boot">
+		<description>Super Game Boy Boot ROM</description>
+		<rom name="sgb.boot.rom" size="256" crc="ec8a83b9" sha1="aa2f50a77dfb4823da96ba99309085a3c6278515" md5="d574d4f9c12f305074798f54c091a8b4"/>
+	</machine>
+	<machine name="sgb1.boot">
+		<description>Super Game Boy Boot ROM</description>
+		<rom name="sgb1.boot.rom" size="256" crc="ec8a83b9" sha1="aa2f50a77dfb4823da96ba99309085a3c6278515" md5="d574d4f9c12f305074798f54c091a8b4"/>
+	</machine>
+	<machine name="sgb1.program">
+		<description>Super Game Boy ROM</description>
+		<rom name="sgb1.program.rom" size="262144" crc="8a4a174f" sha1="973e10840db683cf3faf61bd443090786b3a9f04" md5="b15ddb15721c657d82c5bab6db982ee9"/>
+	</machine>
+	<machine name="SGB1">
+		<description>Super Game Boy ROM</description>
+		<rom name="SGB1.sfc" size="262144" crc="8a4a174f" sha1="973e10840db683cf3faf61bd443090786b3a9f04" md5="b15ddb15721c657d82c5bab6db982ee9"/>
+	</machine>
+	<machine name="sgb2.boot">
+		<description>Super Game Boy 2 Boot ROM</description>
+		<rom name="sgb2.boot.rom" size="256" crc="53d0dd63" sha1="93407ea10d2f30ab96a314d8eca44fe160aea734" md5="e0430bca9925fb9882148fd2dc2418c1"/>
+	</machine>
+	<machine name="sgb2.program">
+		<description>Super Game Boy 2 ROM</description>
+		<rom name="sgb2.program.rom" size="524288" crc="cb176e45" sha1="e5b2922ca137051059e4269b236d07a22c07bc84" md5="8ecd73eb4edf7ed7e81aef1be80031d5"/>
+	</machine>
+	<machine name="SGB2">
+		<description>Super Game Boy 2 ROM</description>
+		<rom name="SGB2.sfc" size="524288" crc="cb176e45" sha1="e5b2922ca137051059e4269b236d07a22c07bc84" md5="8ecd73eb4edf7ed7e81aef1be80031d5"/>
+	</machine>
+	<machine name="sgb2_bios">
+		<description>Super Game Boy 2 BIOS</description>
+		<rom name="sgb2_bios.bin" size="256" crc="53d0dd63" sha1="93407ea10d2f30ab96a314d8eca44fe160aea734" md5="e0430bca9925fb9882148fd2dc2418c1"/>
+	</machine>
+	<machine name="sgb_bios">
+		<description>Super Game Boy BIOS</description>
+		<rom name="sgb_bios.bin" size="256" crc="ec8a83b9" sha1="aa2f50a77dfb4823da96ba99309085a3c6278515" md5="d574d4f9c12f305074798f54c091a8b4"/>
+	</machine>
+	<machine name="sk">
+		<description>Sonic &amp; Knuckles ROM (lock-on)</description>
+		<rom name="sk.bin" size="2097152" crc="0658f691" sha1="88d6499d874dcb5721ff58d76fe1b9af811192e3" md5="4ea493ea4e9f6c9ebfccbdb15110367e"/>
+	</machine>
+	<machine name="sk2chip">
+		<description>Sonic &amp; Knuckles UPMEM ROM (lock-on)</description>
+		<rom name="sk2chip.bin" size="262144" crc="4dcfd55c" sha1="70429f1d80503a0632f603bf762fe0bbaa881d22" md5="b4e76e416b887f4e7413ba76fa735f16"/>
+	</machine>
+	<machine name="sl31253">
+		<description>sl31253.bin</description>
+		<rom name="sl31253.bin" size="1024" crc="04694ed9" sha1="81193965a374d77b99b4743d317824b53c3e3c78" md5="ac9804d4c0e9d07e33472e3726ed15c3"/>
+	</machine>
+	<machine name="sl31254">
+		<description>sl31254.bin</description>
+		<rom name="sl31254.bin" size="1024" crc="9c047ba3" sha1="8f70d1b74483ba3a37e86cf16c849d601a8c3d2c" md5="da98f4bb3242ab80d76629021bb27585"/>
+	</machine>
+	<machine name="sl90025">
+		<description>sl90025.bin</description>
+		<rom name="sl90025.bin" size="1024" crc="015c1e38" sha1="759e2ed31fbde4a2d8daf8b9f3e0dffebc90dae2" md5="95d339631d867c8f1d15a5f2ec26069d"/>
+	</machine>
+	<machine name="speccyboot-1.4">
+		<description>speccyboot-1.4.rom</description>
+		<rom name="speccyboot-1.4.rom" size="8192" crc="37c591b2" sha1="16af6f052b38a027dd49ba6e96e3a59d16b62672" md5="c54aa8f374b0971f51546c29d5d1eba1"/>
+	</machine>
+	<machine name="st010.data">
+		<description>Nintendo SNES ST010 co-processor firmware</description>
+		<rom name="st010.data.rom" size="4096" crc="216081b2" sha1="bd116501ec41c438fff210fd03233c6c9d15a514" md5="254d70762b6f59f99c27c395aba7d07d"/>
+	</machine>
+	<machine name="st010.program">
+		<description>Nintendo SNES ST010 co-processor firmware</description>
+		<rom name="st010.program.rom" size="49152" crc="691cbb4f" sha1="2d0f34074ed3c6dfd61f767ee8b18e699b9769ac" md5="1d70019179a59a566a0bb5d3f2845544"/>
+	</machine>
+	<machine name="st011.data">
+		<description>Nintendo SNES ST011 co-processor firmware</description>
+		<rom name="st011.data.rom" size="4096" crc="803256a7" sha1="798ab84110ca93a6e73a540f4146d21f8d9e1442" md5="10bd3f4aa949737ab9836512c35bcc29"/>
+	</machine>
+	<machine name="st011.program">
+		<description>Nintendo SNES ST011 co-processor firmware</description>
+		<rom name="st011.program.rom" size="49152" crc="a741e9fb" sha1="375eca92592621e83881f3a9d7fd5ea3e5b306dc" md5="95222ebf1c0c2990bcf25db43743f032"/>
+	</machine>
+	<machine name="st018.data">
+		<description>Nintendo SNES ST018 co-processor firmware</description>
+		<rom name="st018.data.rom" size="32768" crc="b5255459" sha1="b19c0f8f207d62fdabf4bf71442826063bccc626" md5="49c898b60d0f15e90d0ba780dd12f366"/>
+	</machine>
+	<machine name="st018.program">
+		<description>Nintendo SNES ST018 co-processor firmware</description>
+		<rom name="st018.program.rom" size="131072" crc="f73d5e10" sha1="388e3721b94cd074d6ba0eca8616523d2118a6c3" md5="dda40ccd57390c96e49d30a041f9a9e7"/>
+	</machine>
+	<machine name="STBIOS">
+		<description>Nintendo Sufami Turbo BIOS</description>
+		<rom name="STBIOS.bin" size="262144" crc="9b4ca911" sha1="ef86ea192eed03d5c413fdbbfd46043be1d7a127" md5="d3a44ba7d42a74d3ac58cb9c14c6a5ca"/>
+	</machine>
+	<machine name="syscard1">
+		<description>NEC PC Engine CD-ROM System (Japan) (v1.0)</description>
+		<rom name="syscard1.pce" size="262144" crc="3f9f95a4" sha1="a39a66da7de6ba94ab84d04eef7afeec7d4ee66a" md5="2b7ccb3d86baa18f6402c176f3065082"/>
+	</machine>
+	<machine name="syscard2">
+		<description>NEC PC Engine CD-ROM System (Japan) (v2.0)</description>
+		<rom name="syscard2.pce" size="262144" crc="283b74e0" sha1="88da02e2503f7c32810f5d93a34849d470742b6d" md5="3cdd6614a918616bfc41c862e889dd79"/>
+	</machine>
+	<machine name="syscard2u">
+		<description>NEC TurboGrafx CD System Card (USA) (v2.0)</description>
+		<rom name="syscard2u.pce" size="262144" crc="ff2a5ec3" sha1="2bea3dac98f84b2f2f469fa77ea720b8770d598d" md5="94279f315e8b52904f65ab3108542afe"/>
+	</machine>
+	<machine name="syscard3">
+		<description>NEC PC Engine Super CD-ROM2 System (Japan) (v3.0)</description>
+		<rom name="syscard3.pce" size="262144" crc="6d9a73ef" sha1="79f5ff55dd10187c7fd7b8daab0b3ffbd1f56a2c" md5="38179df8f4ac870017db21ebcbf53114"/>
+	</machine>
+	<machine name="syscard3u">
+		<description>NEC TurboGrafx CD Super System Card (USA) (v3.0)</description>
+		<rom name="syscard3u.pce" size="262144" crc="2b5b75fe" sha1="d02611d99921986147c753df14c7349b31d71950" md5="0754f903b52e3b3342202bdafb13efa5"/>
+	</machine>
+	<machine name="tape_128">
+		<description>tape_128.szx</description>
+		<rom name="tape_128.szx" size="1464" crc="8d1c41f4" sha1="3b1287bfc6fec9c7dd838f6ea1706698cb96fd16" md5="8942b43b73ed4eb7f32bd1741709a4dc"/>
+	</machine>
+	<machine name="tape_16">
+		<description>tape_16.szx</description>
+		<rom name="tape_16.szx" size="591" crc="ccda9cc2" sha1="ec9e5607ce7faf2d6a5d71e5e21188ca86e963a1" md5="fec97eb9ea1b017cae84de78508feb4a"/>
+	</machine>
+	<machine name="tape_2048">
+		<description>tape_2048.szx</description>
+		<rom name="tape_2048.szx" size="720" crc="dbc1a386" sha1="f2d2227dce697df8aac78883eaf966e71435caa3" md5="116f732bbae4e49d625aaf2f311474d0"/>
+	</machine>
+	<machine name="tape_2068">
+		<description>tape_2068.szx</description>
+		<rom name="tape_2068.szx" size="1799" crc="659b428d" sha1="5af71025c02358b325bf8b4bfaa2662488abf1d2" md5="0b0f267b95d556318bb652af2e8dc25c"/>
+	</machine>
+	<machine name="tape_48">
+		<description>tape_48.szx</description>
+		<rom name="tape_48.szx" size="708" crc="f56f230d" sha1="d6e092730f822c9e8828ca12f54eb8d65228f30c" md5="ee2ae810711594db3a134a7432baabff"/>
+	</machine>
+	<machine name="tape_pentagon">
+		<description>tape_pentagon.szx</description>
+		<rom name="tape_pentagon.szx" size="1479" crc="c7a272b6" sha1="7e1eb0e250cfe1f2f0e50f734378a738e8bf327f" md5="bd7698603bd9079d337cdedfb04942d9"/>
+	</machine>
+	<machine name="tape_plus2">
+		<description>tape_plus2.szx</description>
+		<rom name="tape_plus2.szx" size="1571" crc="93195e18" sha1="4a6d8941eee86d7e52452f5aaaa73d4bafe9bde1" md5="166d4aa1a5aa4fbd99cc963b4e7c19cc"/>
+	</machine>
+	<machine name="tape_plus2a">
+		<description>tape_plus2a.szx</description>
+		<rom name="tape_plus2a.szx" size="1617" crc="45727b82" sha1="e0e0f6ebc8261ae9768a6be772eab4718fbc2395" md5="445d4817d5557bb363a216fbd6eeaa84"/>
+	</machine>
+	<machine name="tape_plus3">
+		<description>tape_plus3.szx</description>
+		<rom name="tape_plus3.szx" size="1856" crc="1a825690" sha1="3850f7e5e6c90fd4dac988da77717d2647d9c021" md5="0dc8828ac1db2e0efa915ac55191e96f"/>
+	</machine>
+	<machine name="tape_plus3e">
+		<description>tape_plus3e.szx</description>
+		<rom name="tape_plus3e.szx" size="1970" crc="4ce6538f" sha1="92ac0df41f3ea7f147f4d6bae6b8a7d79b4f7e92" md5="bf07537f028bbcb3309464bd30da779c"/>
+	</machine>
+	<machine name="tape_scorpion">
+		<description>tape_scorpion.szx</description>
+		<rom name="tape_scorpion.szx" size="3500" crc="eb6a7a83" sha1="6abdeb434755d25a280954ce07b50b6a28b36957" md5="c10e677d3deb5a445689d3a599880745"/>
+	</machine>
+	<machine name="tape_se">
+		<description>tape_se.szx</description>
+		<rom name="tape_se.szx" size="2146" crc="92bc2f43" sha1="cc20a8e6fc8c493881b14e00545a42ef75b8aabe" md5="2518f9334bef8c44804a4185085579b5"/>
+	</machine>
+	<machine name="tape_ts2068">
+		<description>tape_ts2068.szx</description>
+		<rom name="tape_ts2068.szx" size="1840" crc="06ad712e" sha1="562298f5b3a7ed28f0129b066e8ad098a10e2270" md5="1d360c09d370bb52a9a44b30cc7c59e6"/>
+	</machine>
+	<machine name="tc2048">
+		<description>tc2048.rom</description>
+		<rom name="tc2048.rom" size="16384" crc="f1b5fa67" sha1="febb2d495b6eda7cdcb4074935d6e9d9f328972d" md5="9dd7ecf784a6c04265c073c236f5fadb"/>
+	</machine>
+	<machine name="tc2068-0">
+		<description>tc2068-0.rom</description>
+		<rom name="tc2068-0.rom" size="16384" crc="bf44ec3f" sha1="1446cb2780a9dedf640404a639fa3ae518b2d8aa" md5="55d462fccc6c536037404ef4ced08bec"/>
+	</machine>
+	<machine name="tc2068-1">
+		<description>tc2068-1.rom</description>
+		<rom name="tc2068-1.rom" size="8192" crc="ae16233a" sha1="7e265a2c1f621ed365ea23bdcafdedbc79c1299c" md5="575d203c6e15e679fba0b73f854ec7a2"/>
+	</machine>
+	<machine name="ti83">
+		<description>TI-83</description>
+		<rom name="ti83.rom" size="262144" crc="4bf05697" sha1="ef66dad3e7b2b6a86f326765e7dfd7d1a308ad8f" md5="d4448d09bbfde687c04f9e3310e023ab"/>
+	</machine>
+	<machine name="ti83plus">
+		<description>TI-83 Plus</description>
+		<rom name="ti83plus.rom" size="524288" crc="58f14c79" sha1="1fddd44d54f3ff12bfb548fcb03ce36b5a4f295a" md5="8011181f810b5ec4e9d6a03f0e14257a"/>
+	</machine>
+	<machine name="ti83se">
+		<description>TI-83 Silver Edition</description>
+		<rom name="ti83se.rom" size="2097152" crc="200dd7d0" sha1="8177bc6d5489d575cbfa9a004d097fc08c6f8c86" md5="c6ff8204c5c81b7be34614dbbd690c8b"/>
+	</machine>
+	<machine name="top-sp1">
+		<description>top-sp1.bin</description>
+		<rom name="top-sp1.bin" size="524288" crc="c36a47c0" sha1="235f4d1d74364415910f73c10ae5482d90b4274f" md5="122aee210324c72e8a11116e6ef9c0d0"/>
+	</machine>
+	<machine name="tos">
+		<description>Atari ST/STE/TT/Falcon TOS Boot Image</description>
+		<rom name="tos.img" size="196608" crc="d3c32283" sha1="735793fdba07fe8d5295caa03484f6ef3de931f5" md5="c1c57ce48e8ee4135885cee9e63a68a2"/>
+	</machine>
+	<machine name="trdos">
+		<description>Sinclair ZX Spectrum 128K ROM</description>
+		<rom name="trdos.rom" size="16384" crc="10751aba" sha1="21695e3f2a8f796386ce66eea8a246b0ac44810c" md5="0da70a5d2a0e733398e005b96b7e4ba6"/>
+	</machine>
+	<machine name="uni-bioscd">
+		<description>uni-bioscd.rom</description>
+		<rom name="uni-bioscd.rom" size="524288" crc="ff3abc59" sha1="5142f205912869b673a71480c5828b1eaed782a8" md5="08ca8b2dba6662e8024f9e789711c6fc"/>
+	</machine>
+	<machine name="upd7801g">
+		<description>Epoch Super Cassette Vision BIOS</description>
+		<rom name="upd7801g.s01" size="4096" crc="7ac06182" sha1="6e89d1227581c76441a53d605f9e324185f1da33" md5="635a978fd40db9a18ee44eff449fc126"/>
+	</machine>
+	<machine name="vsaturn">
+		<description>vsaturn.bin</description>
+		<rom name="vsaturn.bin" size="524288" crc="e4d61811" sha1="4154e11959f3d5639b11d7902b3a393a99fb5776" md5="ac4e4b6522e200c0d23d371a8cecbfd3"/>
+	</machine>
+	<machine name="XEGAME">
+		<description>Atari XEGS (Missile Command &amp; BASIC removed)</description>
+		<rom name="XEGAME.ROM" size="8192" crc="bdca01fb" sha1="a107db7f16a1129cf9d933c9cf4f013b068c9e82" md5="d7eb37aec6960cba36bc500e0e5d00bc"/>
+	</machine>
+	<machine name="zt18hfnt">
+		<description>zt18hfnt.rom</description>
+		<rom name="zt18hfnt.rom" size="32768" crc="76c9dbf6" sha1="283be1ce417a759a3368bb4bbe72f692fd43ca6d" md5="3082dc488d32f30a612761b99074199b"/>
+	</machine>
+	<machine name="bk">
+		<description>Elektronika BK-0010/BK-0011 BIOS</description>
+		<rom name="B11M_BOS.ROM" size="8192" crc="8ffd5efa" sha1="7e9a30e38d7b78981999821640a68a201bb6df01" md5="fe4627d1e3a1535874085050733263e7"/>
+		<rom name="B11M_EXT.ROM" size="8192" crc="b2e4c33c" sha1="f087af69044432a1ef2431a72ac06946e32f2dd3" md5="dc52f365d56fa1951f5d35b1101b9e3f"/>
+		<rom name="BAS11M_0.ROM" size="16384" crc="e71f9339" sha1="9d76f3eefd64e032c763fa1ebf9cd3d9bd22317a" md5="946f6f23ded03c0e26187f0b3ca75993"/>
+		<rom name="BAS11M_1.ROM" size="8192" crc="4c68ff59" sha1="34fa37599f2f9eb607390ef2458a3c22d87f09a9" md5="1e6637f32aa7d1de03510030cac40bcf"/>
+		<rom name="BASIC10.ROM" size="24576" crc="4181ecb6" sha1="af7eae90c398ec12942a408fa5ac2722e331738c" md5="3fa774326d75410a065659aea80252f0"/>
+		<rom name="DISK_327.ROM" size="4096" crc="ed8a43ae" sha1="28eefbb63047b26e4aec104aeeca74e2f9d0276c" md5="5015228eeeb238e65da8edcd1b6dfac7"/>
+		<rom name="FOCAL10.ROM" size="24576" crc="b90a52e8" sha1="6386e58bc1bba5e76baec9e8a1ca4b99dc3c573f" md5="5737f972e8638831ab71e9139abae052"/>
+		<rom name="MONIT10.ROM" size="8192" crc="26c6e8a0" sha1="4e83a94ae5155bbea14d7331a5a8db82457bd5ae" md5="95f8c41c6abf7640e35a6a03cecebd01"/>
+	</machine>
+	<machine name="citra">
+		<description>Nintendo 3DS Title Keys</description>
+		<rom name="keys/aes_keys.txt" size="2875" crc="11e6e534" sha1="b968ad53cbbe9aa6f5806e6b62854b3f8e821732" md5="13513e1f94c4cca3ae6faf218735082e"/>
+	</machine>
+	<machine name="Databases">
+		<description>blueMSX ROM databases</description>
+		<rom name="colecodb.xml" size="110367" crc="3efc0068" sha1="48dbc32bb1498c8a21f3c22050081111a36cc370" md5="08b5140156f58857297168061df96c7d"/>
+		<rom name="msxcaswavdb.xml" size="852856" crc="e9c0633b" sha1="a101f1b7542efc9159e730d8e7aabe2b79955fc2" md5="59b5fab64cde2670b73a652535b1a8f6"/>
+		<rom name="msxromdb.xml" size="633294" crc="abac4eee" sha1="64f8a99a3df780b8e6ab5956311e8c4298a63095" md5="cc4466273fed63d0b6cb49f0ae47cefe"/>
+		<rom name="msxsysromdb.xml" size="138671" crc="a4709e85" sha1="9b24600e42637d0d5adbc6f72f11b6b6a71d5e78" md5="f5ca0a4d421a20e079d806f67bd74183"/>
+		<rom name="segadb.xml" size="42324" crc="227c0c96" sha1="6dadc212d94bd7a51c0e0c5c2b87695e4be6eb2f" md5="5ba42ef3df2d1d6d602606d0ca5118f6"/>
+		<rom name="svidb.xml" size="265281" crc="9ac2d921" sha1="eac39a92f06a6ad00eed3c96ab0bd7624bc29563" md5="8c89c9f546e8cbee8f0fe698efd97dc3"/>
+	</machine>
+	<machine name="dc">
+		<description>Sega Dreamcast/NAOMI BIOS</description>
+		<rom name="airlbios.zip" size="715730" crc="f83ec60f" sha1="f2a730530f4989ca0e8860aa4e455b6a5fe69e1d" md5="7a11bfe0cc72886d032e386db68f890c"/>
+		<rom name="awbios.zip" size="42296" crc="67a14ad5" sha1="7940c7bf29eee85a5b2fdec78750b19aa22895dc" md5="85254fbe320ca82a768ec2c26bb08def"/>
+		<rom name="boot.bin" size="2097152" crc="89f2b1a1" sha1="8951d1bb219ab2ff8583033d2119c899cc81f18c" md5="e10c53c2f8b90bab96ead2d368858623"/>
+		<rom name="dc_boot.bin" size="2097152" crc="89f2b1a1" sha1="8951d1bb219ab2ff8583033d2119c899cc81f18c" md5="e10c53c2f8b90bab96ead2d368858623"/>
+		<rom name="f355bios.zip" size="1394278" crc="17516536" sha1="b6ff66dcb5547bd91760d239ddf428a655631c53" md5="547f3d12aed389058ca06148f1cca0ed"/>
+		<rom name="f355dlx.zip" size="2328436" crc="23ac17be" sha1="48d1712d1b1cdfeeeb43c6287c17b0b6309cfaab" md5="1028615bcac4c31634a3364ce5c04044"/>
+		<rom name="flash.bin" size="131072" crc="c611b498" sha1="94d44d7f9529ec1642ba3771ed3c5f756d5bc872" md5="0a93f7940c455905bea6e392dfde92a4"/>
+		<rom name="hod2bios.zip" size="1479106" crc="0ddc6daf" sha1="782c303cbdfab1027b04db74a63e27bdad5e0c53" md5="f4011d3116500354edf7302a90402711"/>
+		<rom name="naomi.zip" size="9321533" crc="6ee50181" sha1="c96711c01c0158f161791d6fbe75d88329e8ac0a" md5="526eda1e2a7920c92c88178789d71d84"/>
+		<rom name="naomi2.zip" size="7022501" crc="2143196c" sha1="2962e338ccc9f66f29b409f73ca27aeee79633ac" md5="c50072cbab75673e1b1a6b94355e6fa8"/>
+		<rom name="segasp.zip" size="4266446" crc="833a3044" sha1="b4c7e46fb510096acf8fb19fb99c8c5a8ab1d9e1" md5="37fcc38e01ae06fdc6fbd7a56d7fe8b8"/>
+	</machine>
+	<machine name="dolphin-emu">
+		<description>Nintendo GameCube BIOS</description>
+		<rom name="Sys/GC/EUR/IPL.bin" size="2097152" crc="ad1b7f16" sha1="80b8744ff5e43585392f55546bd03a673d11ef5f" md5="db92574caab77a7ec99d4605fd6f2450"/>
+		<rom name="Sys/GC/JAP/IPL.bin" size="2097152" crc="86573808" sha1="ef9194ab4804aa0aa8540d846caf291b28331165" md5="b17148254a5799684c7d783206504926"/>
+		<rom name="Sys/GC/USA/IPL.bin" size="2097152" crc="86573808" sha1="ef9194ab4804aa0aa8540d846caf291b28331165" md5="b17148254a5799684c7d783206504926"/>
+	</machine>
+	<machine name="ep128emu">
+		<description>Enterprise 128 ROMs</description>
+		<rom name="roms/asmon15.rom" size="32768" crc="1fe0a956" sha1="50249b4e33d3be409c4aeca8994797b3ce6a6010" md5="4468cfc85a00794b7238aaed6029f603"/>
+		<rom name="roms/basic20.rom" size="16384" crc="1228de34" sha1="61d0987b906146e21b94f265d5b51b4938c986a9" md5="8e18edce4a7acb2c33cc0ab18f988482"/>
+		<rom name="roms/basic21.rom" size="16384" crc="55f96251" sha1="03bbb386cf530e804363acdfc1d13e64cf28af2e" md5="e972fe42b398c9ff1d93ff014786aec6"/>
+		<rom name="roms/brd.rom" size="16384" crc="6999d6a3" sha1="f34f0c330b44dbf2548329bea954d5991dec30ca" md5="6af0402906944fd134004b85097c8524"/>
+		<rom name="roms/cpc464.rom" size="32768" crc="40852f25" sha1="56d39c463da60968d93e58b4ba0e675829412a20" md5="a993f85b88ac4350cf4d41554e87fe4f"/>
+		<rom name="roms/cpc6128.rom" size="32768" crc="9e827fe1" sha1="5977adbad3f7c1e0e082cd02fe76a700d9860c30" md5="b96280dc6c95a48857b4b8eb931533ae"/>
+		<rom name="roms/cpc664.rom" size="32768" crc="9ab5a036" sha1="073a7665527b5bd8a148747a3947dbd3328682c8" md5="5a384a2310f472c7857888371c00ed66"/>
+		<rom name="roms/cpc_amsdos.rom" size="16384" crc="1fe22ecd" sha1="39102c8e9cb55fcc0b9b62098780ed4a3cb6a4bb" md5="25629dfe870d097469c217b95fdc1c95"/>
+		<rom name="roms/cyrus.rom" size="16384" crc="2a4a2dd4" sha1="11b4612f14c48c05c400cad3510eefd6bf453234" md5="e6c54064d6e55f58207eeee17129ff48"/>
+		<rom name="roms/edcw.rom" size="16384" crc="e1e25bc1" sha1="d846cef3b8d0f0fd0ea2dbe7a51c9f961feb3564" md5="93fdc9fbca1331ba027d80a4c509f8b0"/>
+		<rom name="roms/ep-plus.rom" size="16384" crc="67ed9956" sha1="2b0c10c0956e119c56f08c5039a042963e6b8945" md5="7731557cd68d26b77c22dd1dcfde47d6"/>
+		<rom name="roms/epd17l12.rom" size="32768" crc="865c4079" sha1="2adb0eda1ea28eb96415d15deb9e38464e066de6" md5="c9c7514929154b5e00eb5704995f77b0"/>
+		<rom name="roms/epd17z12.rom" size="32768" crc="6e758bc7" sha1="2bff010901949ea84da781fef505a9085e0f0d67" md5="afb4f0fb0b2e44b1da917bc302f8ab63"/>
+		<rom name="roms/epd19hft.rom" size="32768" crc="bd503eeb" sha1="8f28fe73d13e94dd1da02519908ecc6eebe104f6" md5="12cfc9c7e48c8a16c2e09edbd926d467"/>
+		<rom name="roms/epd19uk.rom" size="32768" crc="9a0bd9b2" sha1="dc4074cdacd2ede05debf19b3f5d02d8cc1eb41c" md5="7195253ba397b2a23eb07db8978c6415"/>
+		<rom name="roms/epdos16f.rom" size="32768" crc="d34b4781" sha1="9a9eac31e601a1ab0f7a5d2b13175d092fa84bd3" md5="6593dff00ab32a4b1fc084674ededf2b"/>
+		<rom name="roms/epfileio.rom" size="16384" crc="60c79925" sha1="2f9077bcd89b1ec42dbdcd55d335bdbaf361eff3" md5="a68ebcbc73a4d2178d755b7755bf18fe"/>
+		<rom name="roms/esb.rom" size="16384" crc="1e45d339" sha1="5c8e56aa4d9555a793a0c06aa5dceacf80cde101" md5="668a1b6982bb59a3fd8d9eee95a16809"/>
+		<rom name="roms/esp.rom" size="16384" crc="e1af230c" sha1="441a57ab45de80d165de3b23af811dfb63960adf" md5="00b6644c001777cda0c29991e01e75dd"/>
+		<rom name="roms/exdos10.rom" size="16384" crc="e1e4a2ef" sha1="a635032d9a5143fc44c28a6da503602ec53e9b23" md5="fde2761fb2a65e2926bf22ac144e9f92"/>
+		<rom name="roms/exdos13.rom" size="32768" crc="e0135929" sha1="cb43ab3676b93c279f1ed8ffcb0d4dcd4b34e631" md5="ddff70c014d1958dc75378b6c9aab6f8"/>
+		<rom name="roms/exdos14isdos10uk-brd.rom" size="32768" crc="63c4f39b" sha1="268a68e8f7d44febb7f3809b7e43b41c3d0b948c" md5="374b7a91a05bb2d412b4ff33b08eb480"/>
+		<rom name="roms/exdos14isdos10uk-esp.rom" size="32768" crc="bcb283b6" sha1="9ae31e2f1b8385bcd16703e699fafdf2c016f901" md5="97d5d85f2cdf8bc910cfc4f9a35c9ad8"/>
+		<rom name="roms/exdos14isdos10uk-hfont.rom" size="32768" crc="09bbea4d" sha1="0c5b6c298022ddec7fcc2a8b2de9bcac7a9b631b" md5="f2c29075fb03bc84d5cc56f931c779b5"/>
+		<rom name="roms/exdos14isdos10uk.rom" size="32768" crc="a0d2808f" sha1="b82e21b6e3214432b6dc13f650e97de88fc90a72" md5="f91c4a507cc6895bdd9c43df4f021df3"/>
+		<rom name="roms/exos20.rom" size="32768" crc="d421795f" sha1="6033a0535136c40c47137e4d1cd9273c06d5fdff" md5="5ad3baaad3b5156d6b60b34229a676fb"/>
+		<rom name="roms/exos21.rom" size="32768" crc="982a3b44" sha1="55315b20fecb4441a07ee4bc5dc7153f396e0a2e" md5="f36f24cbb87745fbd2714e4df881db09"/>
+		<rom name="roms/exos22.rom" size="65536" crc="c82e699f" sha1="40cda9573e0c20e6287d27105759e23b9025fa52" md5="2af535f6c8ccc9a743eb1d638a4afa90"/>
+		<rom name="roms/exos23.rom" size="65536" crc="24838410" sha1="c6241e1c248193108ce38b9a8e9dd33972cf47ba" md5="80115adf36136f30b23c10ea2dd83bef"/>
+		<rom name="roms/exos232esp.rom" size="65536" crc="9525a251" sha1="e1abe7759f0bc0829fec909e39e44e61a53b170c" md5="2f697838aa0b50358b95f96a9ca73f26"/>
+		<rom name="roms/exos232hun.rom" size="65536" crc="0e8ac476" sha1="7084afb315e7b2f53f06318efce469ea28b71636" md5="1a7cd0c28deaa437b2cf87374781effc"/>
+		<rom name="roms/exos232uk.rom" size="65536" crc="f99fc840" sha1="e2bfca448ac1d0aa7df288f3435b8d0439aa2807" md5="a48a3d371fec98e29b50cb927f5fe6d0"/>
+		<rom name="roms/exos24brd.rom" size="65536" crc="9075ee00" sha1="f9d9d0c1a2fec094fb0966cd7764d6a188acea9a" md5="8519af178c473de352f088a7103b45fc"/>
+		<rom name="roms/exos24es.rom" size="65536" crc="5ecbaa56" sha1="bcc7e04bf56ee9c928b8207da4f429f8590f6b40" md5="3478ba563b6b293c5679071db972477c"/>
+		<rom name="roms/exos24hu.rom" size="65536" crc="de3e661e" sha1="348a9362831c53ccdec6ec0f9db5ab6ad9252250" md5="f989541d810db9668485c8d5b670d6a6"/>
+		<rom name="roms/exos24uk.rom" size="65536" crc="c099a5e3" sha1="cf12e971623a54bf8c4f891ca3a36d969f205c49" md5="55af78f877a21ca45eb2df68a74fcc60"/>
+		<rom name="roms/fenas12.rom" size="32768" crc="1753d49a" sha1="095ed9fe241bed362592012a3e5cdb19d142ed17" md5="8727d4fa689e0eca11c4221da023c0bb"/>
+		<rom name="roms/forth.rom" size="16384" crc="18b8f121" sha1="0f071be1204e602e32352abe50229d31e4c0e57e" md5="6b8e518b20aa0b0e9f1535e06ff974ad"/>
+		<rom name="roms/genmon.rom" size="32768" crc="3c405abc" sha1="6337b01d77497ec2d5c2f3e397ee62afec15bf81" md5="cfe26b57016c19a15f75812bd060fd3e"/>
+		<rom name="roms/heass10hfont.rom" size="32768" crc="3cd4b5cb" sha1="78b9f74a8de819e8253f8f581b6518c0c1918d0c" md5="314d158be16d34c9e0380a58d9c463f4"/>
+		<rom name="roms/heass10uk.rom" size="32768" crc="dea94a5c" sha1="4432c712f4389e20866324a63a65c2ca39128f19" md5="891f40bb7c7f5b0a95a212a57b66f338"/>
+		<rom name="roms/heassekn.rom" size="32768" crc="c96ea13a" sha1="2c7db1ddb6df3cd821e4e37ac8738c4b714ed537" md5="fcb2e47a1059b9b9ef7374d75f8fcdb4"/>
+		<rom name="roms/hun.rom" size="16384" crc="596ab6d6" sha1="325a5e28c2a0d896711f8829e7ff14fed5dd4103" md5="22167938f142c222f40992839aa21a06"/>
+		<rom name="roms/ide12.rom" size="16384" crc="157ab74c" sha1="ecb999ac1cc2fcca29bae71195741c451e747824" md5="ba8854e55fa32e932645d57003e4632b"/>
+		<rom name="roms/iview.rom" size="32768" crc="e9694298" sha1="c3c9e00e54e9582398d6cb175d0c317b67cbe831" md5="946dabb8d13ffb1337c99f1957864422"/>
+		<rom name="roms/lisp.rom" size="16384" crc="1d75ab53" sha1="c9690333d7d6ef0612e74ea302968a83a9c75457" md5="d7ef2b25b0ca17dcb619d0c6cdaa0267"/>
+		<rom name="roms/pascal12.rom" size="16384" crc="784329dd" sha1="5a2aaa654aa9e86b80c41b4ce770c723587f1cae" md5="a34e6c3e5f7f24b305b6234fb1246fee"/>
+		<rom name="roms/paszians.rom" size="32768" crc="6ac67ba0" sha1="b9d2bc7244ee569c70e02e3a0172bb68ce267e41" md5="c21caa72b10ead86362e1ddb2abed038"/>
+		<rom name="roms/sdext05.rom" size="16384" crc="e7b7630a" sha1="a5014dca254ada6fdc09727cd77da50294989497" md5="e88838ed7ea3c3d88ecc31479e2ffa9b"/>
+		<rom name="roms/tpt.rom" size="16384" crc="9813835d" sha1="4a26517a39f686f0b4b190be855816f0457423be" md5="f03074505db40c15915dc2502ae9be0b"/>
+		<rom name="roms/tvc12_ext.rom" size="8192" crc="1cbbeac6" sha1="54b29c9ca9942f04620fbf3edab3b8e3cd21c194" md5="c451c518138f855257ac05673532e162"/>
+		<rom name="roms/tvc12_sys.rom" size="16384" crc="6da8809a" sha1="73720fca49a14fc2439c8628d88322ee54fd546b" md5="eb9386156ef4611325364c66df70c12a"/>
+		<rom name="roms/tvc21_ext.rom" size="8192" crc="043ab2ae" sha1="93b9a8dd437edf9316609f844d1cb986876e6c62" md5="1bc121fb4cb1e0f9ab44957ac73251ee"/>
+		<rom name="roms/tvc21_sys.rom" size="16384" crc="53c8ff98" sha1="f95f8deb8674bb065a6b4be54458f7740690d66c" md5="d6e9672b19c024d197cd0857c4318c9e"/>
+		<rom name="roms/tvc22_ext.rom" size="8192" crc="05e1c3a8" sha1="abf119cf947ea32defd08b29a8a25d75f6bd4987" md5="5ce95a26ceed5bec73995d83568da9cf"/>
+		<rom name="roms/tvc22_sys.rom" size="16384" crc="79fa818c" sha1="f2572ee83d09fc08f4de4a62f101c8bb301a9505" md5="8c54285f541930cde766069942bad0f2"/>
+		<rom name="roms/tvc_dos11c.rom" size="16384" crc="40ddc741" sha1="811bdf21f60c8ff9dfe3e58b7b225150535b5261" md5="a6205007b8eec48977f3c9f7674453aa"/>
+		<rom name="roms/tvc_dos11d.rom" size="16384" crc="138305fd" sha1="e53c8d218b4b47a2ec19e851c7a17f1cf461bbc1" md5="074c86f05e5ccb785cd7fb63aa84f3c2"/>
+		<rom name="roms/tvc_dos12c.rom" size="16384" crc="12a19ff2" sha1="85bc098f64c5434f09cee22ea7f9e203d04b5886" md5="47f182badd03bcd431806f28f2821aeb"/>
+		<rom name="roms/tvc_dos12d.rom" size="16384" crc="1466aed4" sha1="072c6160d4e7d406f5d8f5b1b66066c797d35561" md5="88dc7876d584f90e4106f91444ab23b7"/>
+		<rom name="roms/tvc_sdext.rom" size="40960" crc="58dcad60" sha1="9bb68fe3e2dc2bb1783f4d15db297998b2354f03" md5="ec53a82c77653f31d9710b5ce885eb7e"/>
+		<rom name="roms/tvcfileio.rom" size="8192" crc="950e32fd" sha1="98889c3a56b11dedf077f866ed2e12d51b604113" md5="a2cf86ba8e7fc58b242137fe59036832"/>
+		<rom name="roms/tvcupm_c.rom" size="16384" crc="efca95fc" sha1="d4c606d84c9672c4a7bc4ecc38643c6400fbc753" md5="1ec207cdbaa6cbc1417ae28f19791718"/>
+		<rom name="roms/tvcupm_d.rom" size="16384" crc="b3a567ad" sha1="f92df6074b07f5f19e8c96ff1315da0cfeec9f74" md5="c2fa95b95cd7da8b7394760a4eb97171"/>
+		<rom name="roms/zt19ekn.rom" size="32768" crc="c3b2fabc" sha1="041986fb10a2dd83167d966ad2ecb69f67d45739" md5="4d0d53f3a655e9d20411e5b579fb5eb9"/>
+		<rom name="roms/zt19hfnt.rom" size="32768" crc="58239527" sha1="9dd7f38a74f119f142b17e5a16ebd8afa7bbea01" md5="653daaf7b9b29c2c4e577f489580f247"/>
+		<rom name="roms/zt19hun.rom" size="32768" crc="aa4c3b5a" sha1="5151a4eec228564913340441f4f69ed61d7304f5" md5="5d157f6ec44eb42eba0aa040655ca019"/>
+		<rom name="roms/zt19uk.rom" size="32768" crc="d6deedf1" sha1="b7af62f0bc95fdca4b31d236f8327dafc80f83b7" md5="228540b6be83ae2acd7569c8ff0f91d0"/>
+		<rom name="roms/zx128.rom" size="32768" crc="2cbe8995" sha1="16375d42ea109b47edded7a16028de7fdb3013a1" md5="85fede415f4294cc777517d7eada482e"/>
+		<rom name="roms/zx41.rom" size="32768" crc="99a8ec89" sha1="bf475925895c2c243c36c3ede95fd4df33ce9d20" md5="5f3e3bc1f9f3721e8ae3a35d470dd562"/>
+		<rom name="roms/zx41uk.rom" size="32768" crc="cc227923" sha1="434678280ebe2fefd95c38b2f45e420334b9c64a" md5="5bfdc1121b79d4117aae90f3d6b05c3c"/>
+		<rom name="roms/zx48.rom" size="16384" crc="ddee531f" sha1="5ea7c2b824672e914525d1d5c419d71b84a426a2" md5="4c42a2f075212361c3117015b107ff68"/>
+		<rom name="roms/zx48gw03.rom" size="16384" crc="d6dc6c1f" sha1="b14da1255f36557f2daec0549d4663fccb17a21f" md5="eca3f2de329706e92b7fa230fe74cf50"/>
+	</machine>
+	<machine name="fbneo">
+		<description>Arcade (FinalBurn Neo)</description>
+		<rom name="bubsys.zip" size="7950" crc="8fc2fd2e" sha1="1c0ffcd308b0c8c6dbb74ad8b811a0767200d366" md5="f81298afd68a1a24a49a1a2d9f087964"/>
+		<rom name="cchip.zip" size="2700" crc="23debecb" sha1="364f2302a145a0fd6de767d7f8484badde1d1a6e" md5="df6f8a3d83c028a5cb9f2f2be60773f3"/>
+		<rom name="channelf.zip" size="2705" crc="332807d9" sha1="1cb23b462b990241013deb4b5e07ce741af28267" md5="2f2f8de3827ae1faf2495e497ca95232"/>
+		<rom name="cnebula.zip" size="12736" crc="74b29e92" sha1="46825f1a86ddf92997cd464b4bc10c1149d67759" md5="c683cb5dc4ef34ba43de281be67f1a6b"/>
+		<rom name="coleco.zip" size="28014" crc="eea6c08b" sha1="db2190922f359f19b47f8270fa87a7c1b38f5b2b" md5="94915714a814a84f7c292e6db71f3ad2"/>
+		<rom name="decocass.zip" size="16107" crc="5de524e5" sha1="30b97b2670b79d0de41cba190324c504846c6fa1" md5="b7e1189b341bf6a8e270017c096d21b0"/>
+		<rom name="fdsbios.zip" size="5758" crc="3d54fe55" sha1="c25686d24c7205473741f948f8a9df9906823145" md5="c26bf1744cb7f6ffe441f463870321f8"/>
+		<rom name="hiscore.dat" size="328397" crc="ab7b721a" sha1="30c6ad697439de7c2158192ecdb48f5edd37478e" md5="f5cdce5b3749d673ad8f073ccc7371e4"/>
+		<rom name="isgsm.zip" size="10207" crc="26856bf9" sha1="f590ccf688b4c05fa1da5c5dd92c224545170c3b" md5="4a56d56e2219c5e2b006b66a4263c01c"/>
+		<rom name="midssio.zip" size="163" crc="7620bd32" sha1="54275c9833e497f71f76ab239030cc386c863991" md5="5904b0de768d1d506e766aa7e18994c1"/>
+		<rom name="msx.zip" size="193854" crc="2ae71804" sha1="c0673df5af0ea7728aedf637f18d118e6f7cb778" md5="25a8912d7bf3cdad9beaa6d5cc14ea38"/>
+		<rom name="namcoc69.zip" size="7771" crc="be241255" sha1="1cc7452608d44af8171270530a995644fb213d1d" md5="ad9af7a9560cad74f1644328213748f6"/>
+		<rom name="namcoc70.zip" size="7822" crc="2d71120c" sha1="ab8375fcb12791d35b11df801041f965a40b21d9" md5="aa569a303793510b2b4173480148de4b"/>
+		<rom name="namcoc75.zip" size="8709" crc="cf65b189" sha1="0649e27b7d605add7fc4215ee628b71e3c835328" md5="17516c33298e52424ffb58afc2ad208c"/>
+		<rom name="neocdz.zip" size="952531" crc="dc9b4a82" sha1="f1ec08cf2275f5340cf0b149d70c37deef45d004" md5="d6153856006130c555d4afc83d8d6c41"/>
+		<rom name="neogeo.zip" size="1859335" crc="81315163" sha1="deb62b0074b8cae4f162c257662136733cfc76ad" md5="00dad01abdbf8ea9e79ad2fe11bdb182"/>
+		<rom name="ngp.zip" size="74758" crc="6a679292" sha1="f677361cd05cf2d146730890298985290b3dbc69" md5="5bc25f80395a68790a69b7eb3e57b897"/>
+		<rom name="nmk004.zip" size="3556" crc="a6099353" sha1="489256f5e2001070d2ad94c90d255282c71ed274" md5="bfacf1a68792d5348f93cf724d2f1dda"/>
+		<rom name="pgm.zip" size="2094636" crc="bf3dd2ef" sha1="c0c001ec80fa860857000f4cfc9844a28498a355" md5="87cc944eef4c671aa2629a8ba48a08e0"/>
+		<rom name="spec128.zip" size="25489" crc="705f7138" sha1="b88619a845cbba8bc04ad396e99a02aa6d2da7c1" md5="1a524bfa489cec90c941e6587d553a56"/>
+		<rom name="spec1282a.zip" size="41646" crc="c9ffaef8" sha1="a20dfda5804a9624e35baaf2fad2ac2011e70d9d" md5="1c65f9cd31676facd7ccddc80f5cb83f"/>
+		<rom name="spectrum.zip" size="12432" crc="eea59503" sha1="9428d8b7c6d4db78f00a58915dccdf33f3b5d98b" md5="4698414be3369fff17bf6d3111734c6c"/>
+		<rom name="skns.zip" size="924762" crc="5692af22" sha1="4257bd14b541fafbd555cb98ba079a3416a45934" md5="3f956c4e7008804cb47cbde49bd5b908"/>
+		<rom name="ym2608.zip" size="7609" crc="5b4c29c4" sha1="06fc753d015b43ca1787f4cfd9331b1674202e64" md5="79ae0d2bb1901b7e606b6dc339b79a97"/>
+		<rom name="samples/blockade.zip" size="11424" crc="6ad9dcba" sha1="250255d3dc592f5d233d440925dd031b66b35d10" md5="bf55ee6b452eebf1eeebf8afbd7766c8"/>
+		<rom name="cheats/cheat.dat" size="13902823" crc="3ca27213" sha1="c64cf14497e54809270492351dc2577109e9d966" md5="21db47c4776ac5b32a966d143d349f3c"/>
+		<rom name="samples/buckrog.zip" size="934137" crc="eb2a6e15" sha1="2e8c6527bd988ed4587a766a71e9c8eb8cdfe384" md5="caeb071e0145dbe08b21c30fbbb60b1d"/>
+		<rom name="samples/carnival.zip" size="512322" crc="be54dbb7" sha1="06b9781135e95f0c80988164dff74afe7b00bd8d" md5="72dab3838dab9877d396ebbe9c61367d"/>
+		<rom name="samples/cheekyms.zip" size="155869" crc="3533398b" sha1="d0ae0df2df4794e428cb0db6065f5a23d4d41bf8" md5="fc27c7249946977ac269e945afd9bbb1"/>
+		<rom name="samples/congo.zip" size="66408" crc="18669fc5" sha1="572d95290b1819aac9c5a5ec83e7063891a0e426" md5="f5b23316a930998db620dc7b1d561998"/>
+		<rom name="samples/dkong.zip" size="29270" crc="ff2dc92e" sha1="764ec667084bc237c1de6bd1db7541ad8cb59975" md5="a93ed3e9468576c03528bceec8a6236a"/>
+		<rom name="samples/dkongjr.zip" size="300220" crc="8e243fa9" sha1="2725373cc8e6e3c04bca4bf7bd0b027be6bec058" md5="c2428525597a69fc71621e0cdf114619"/>
+		<rom name="samples/donpachi.zip" size="208549253" crc="8651ffbb" sha1="d380fb29287eb7fc9ff901a7653ad40785f7deb1" md5="aa8c5e742ba27cb30ce7a872edd684bf"/>
+		<rom name="samples/elim2.zip" size="860445" crc="43e75cfc" sha1="eca00acd1261af6255a6abd39b07b3ae230a7579" md5="c6b08ae200160eff6c2f2c1552d4ae8b"/>
+		<rom name="samples/fantasy.zip" size="1301758" crc="6c7635e4" sha1="f2a605f570a5c7cf18777002383a5c116c658b3d" md5="581fa9c917831f0d239d5425febf2c2a"/>
+		<rom name="samples/galaga.zip" size="243090" crc="e37c02b4" sha1="9e52cc30850cf9e1855fbd2e26f987cbc05b910a" md5="40b8624b7a72c782998e52a0782b69e2"/>
+		<rom name="samples/gaplus.zip" size="109624" crc="8f6ff31f" sha1="9b79ea9a9e22e054ab6d04117588d0d3da1b2e10" md5="2f725c69e9b79770e7e1988d58ce5016"/>
+		<rom name="samples/gridlee.zip" size="16314" crc="9248654b" sha1="8f8dd582f797df4ed0d6d5189bbd258fa3208a25" md5="69e4f10e3cfcc8132bf75a13c5c5762f"/>
+		<rom name="samples/heiankyo.zip" size="1071183" crc="eee1cc5d" sha1="d330ae465e18b93c2731261f6f037d57f70de0ab" md5="665558ef8ad3389e3e02f9f31d2a677d"/>
+		<rom name="samples/invaders.zip" size="167893" crc="36b713b6" sha1="e32fd7f9b2a948537e4ecd6341824427fd966e83" md5="2872b740d2a9af718dc0c998e4ab58bc"/>
+		<rom name="samples/journey.zip" size="15337261" crc="fe3d9ecc" sha1="8971c582d208bce33e7ae0b79ce685dd43b62666" md5="4d65573fefabfe7a5d4f798e666e288f"/>
+		<rom name="samples/mario.zip" size="63436" crc="b2a1fd4b" sha1="9bbacc052f0fb66139667a91efff0477b8373b8f" md5="542d897b24c72f754f891d5313f2b7ec"/>
+		<rom name="samples/mmagic.zip" size="351322" crc="76e3bed1" sha1="5bae3e874daf89b9b3049b91167286f827ff45d9" md5="b25a935af32a33b6784495a9ac7597f7"/>
+		<rom name="samples/natodef.zip" size="4264238" crc="8fc3ae1c" sha1="3e7c2cd65959602392d17b25b58d14eb648bb7c2" md5="c83f48a931fb70f501cb028b01c4d366"/>
+		<rom name="samples/nitedrvr.zip" size="745402" crc="9b6682f7" sha1="cc6691f312e9aef5cd238d85d107915aa178b7c7" md5="4d70d2203baea58d78a9582927c2a580"/>
+		<rom name="samples/nsub.zip" size="1412853" crc="2d790599" sha1="92bcb515d94612974e3d7f5349d951bd71e887bc" md5="ee44611a44b67a1fe6e259ee06de2880"/>
+		<rom name="samples/qbert.zip" size="6419" crc="40424886" sha1="bfe9cb3960d8da76e46afce47d20f3be8152af95" md5="de844476bcd47389e9f581dda3905f23"/>
+		<rom name="samples/radarscp.zip" size="736118" crc="3c1b8a4c" sha1="8b02b47a0784c43b59f92473f395bf711e2c1091" md5="0a947f394e6a077e20f63e024290683f"/>
+		<rom name="samples/rallyx.zip" size="72511" crc="db785b06" sha1="8844cc0ae17a476388c51d42c2ce2f61b3b4cc93" md5="f9b6db2166d8e0db0806caf5d2823409"/>
+		<rom name="samples/safarir.zip" size="776552" crc="cc9b27b9" sha1="1bbc59b9ef068b27b98f5a73bb166d460bdb4360" md5="88adff9a92d8becacfd6de6b17a9edd1"/>
+		<rom name="samples/sasuke.zip" size="492467" crc="2c033dd9" sha1="e65f8e8be482cf7c431ed8891a6878bc559cde85" md5="3462fcf2f1c5cc4bc779f119ecd2c55c"/>
+		<rom name="samples/sfz3mix.zip" size="101017377" crc="ed686ecb" sha1="e39ee9abb19076ef095f67469ca95ff5e7f600dc" md5="ce49f09c41c1c4b59078b2350ff1acaf"/>
+		<rom name="samples/sharkatt.zip" size="2282997" crc="42e8383c" sha1="3f9689b6f21c0f71a412c83683741524481fd7ac" md5="3ff663e12acda5ba88a13ffc9fb209a2"/>
+		<rom name="samples/spacefb.zip" size="621702" crc="062b91d2" sha1="1a00964050de9de96c525e2e21c0c52783cbe531" md5="c8e5d0cd9985ae48a9ee5995687b7e39"/>
+		<rom name="samples/spacfury.zip" size="571378" crc="a23150ac" sha1="422c9845043b11528d7db679a269a42f459ff3a3" md5="2825baee5302244f78a8b21d5128ce95"/>
+		<rom name="samples/stinger.zip" size="500497" crc="fa042717" sha1="b2407b461be5b4807e85fa148bf15a9915796a34" md5="a23ea17094e042b421ba4c749dbdfed3"/>
+		<rom name="samples/subroc3d.zip" size="1377117" crc="71ae9479" sha1="473a027e6d2818d444eb7bd5550b9e7e1eff19ff" md5="ec2925db49871d5bb988a12bd376ac42"/>
+		<rom name="samples/thehand.zip" size="799850" crc="4a8bac23" sha1="6935882752f0b909aa9d0b8408fa79ca424e7b60" md5="6bff06f89889b64e395e35365e627366"/>
+		<rom name="samples/thief.zip" size="2959717" crc="5e6daf41" sha1="f7cec77736aee9069c90e7709276a4843fc63d82" md5="e7d7f6a085444d8687d5e13490f365e7"/>
+		<rom name="samples/tr606drumkit.zip" size="284921" crc="ab3ff3f7" sha1="3934b28d0b6c8ddfdb7a502d42edcf2e91183ff0" md5="93029349acce1f8a86da58ccba4d55c2"/>
+		<rom name="samples/turbo.zip" size="551776" crc="0afa25eb" sha1="3f5fbb05ea27e973554a7940bb624f4b0bf5d801" md5="352b3e701cb499a47a3777d2ff694e2d"/>
+		<rom name="samples/twotiger.zip" size="154985212" crc="b5d5b941" sha1="b286035624978c94194ef5b83b5d784ec00c3a3c" md5="733f951177e613819deef4c8f6feb4e7"/>
+		<rom name="samples/vanguard.zip" size="1419115" crc="9f79817a" sha1="95e9809e2ef50ffd9b2a1a6825dc681028b568ae" md5="9499c795cb94fc92a6a2134fb146a84e"/>
+		<rom name="samples/xevious.zip" size="342636" crc="ef0a959b" sha1="5f8814977d185329d1baf61d0b64ab848328cd4b" md5="51bb08c8baa43a3559a19780bd42b094"/>
+		<rom name="samples/zaxxon.zip" size="727146" crc="a1e7baaa" sha1="47d8d3733b2bca07c2e9c4663481079ec7aa719d" md5="ed446d0c5adbdea7546189ecc969a528"/>
+		<rom name="samples/zektor.zip" size="673478" crc="99fb04d7" sha1="558e7eceafefecef8266846c59f657a4e3fe922a" md5="0050ba32d61b215ec1c1873829533b01"/>
+		<rom name="samples/zerohour.zip" size="4393326" crc="7122fcdf" sha1="6dc455cf525cff40a9c8eee57edb2b9091b06d47" md5="b1852a35e01f5a774beed7ceb0c99525"/>
+	</machine>
+	<machine name="gam4980">
+		<description>BBK Longman 4980 (GAM4980)</description>
+		<rom name="8.BIN" size="2097152" crc="95ec0f62" sha1="dddb2d3b42e8d99911c6bfd523f0020a08f44f9d" md5="ea26b08e67511a34460c103b8b669154"/>
+		<rom name="E.BIN" size="2097152" crc="7a9039f4" sha1="159b7e65f3f3dd67f435085be1e154316ba139e0" md5="f812738e5ae75de0f4faae78a3829866"/>
+	</machine>
+	<machine name="keropi">
+		<description>Sharp X68000 BIOS (PX68k)</description>
+		<rom name="cgrom.dat" size="786432" crc="9f3195f1" sha1="8d72c5b4d63bb14c5dbdac495244d659aa1498b6" md5="cb0a5cfcf7247a7eab74bb2716260269"/>
+		<rom name="iplrom.dat" size="131072" crc="72bdf532" sha1="0ed038ed2133b9f78c6e37256807424e0d927560" md5="7fd4caabac1d9169e289f0f7bbf71d8e"/>
+		<rom name="iplrom30.dat" size="131072" crc="e8f8fdad" sha1="239e9124568c862c31d9ec0605e32373ea74b86a" md5="f373003710ab4322642f527f567e020a"/>
+		<rom name="iplromco.dat" size="131072" crc="6c7ef608" sha1="77511fc58798404701f66b6bbc9cbde06596eba7" md5="cc78d4f4900f622bd6de1aed7f52592f"/>
+		<rom name="iplromxv.dat" size="131072" crc="00eeb408" sha1="e33cdcdb69cd257b0b211ef46e7a8b144637db57" md5="0617321daa182c3f3d6f41fd02fb3275"/>
+	</machine>
+	<machine name="kronos">
+		<description>Sega Saturn/ST-V BIOS (Kronos)</description>
+		<rom name="saturn_bios.bin" size="524288" crc="2aba43c2" sha1="2b8cb4f87580683eb4d760e4ed210813d667f0a2" md5="af5828fdff51384f99b3c4926be27762"/>
+		<rom name="stvbios.zip" size="3458138" crc="72cc53af" sha1="a5c64cefd986993f78ffe0d54bcb9cac05767326" md5="5e73dbf39b3c7b8ed429cb3f053912ce"/>
+	</machine>
+	<machine name="Machines">
+		<description>blueMSX machine ROMs and configurations</description>
+		<rom name="COL - Bit Corporation Dina/config.ini" size="421" crc="ad177b1c" sha1="33c1dbf723ddff0994aa56d7607e5b0e9757c9c5" md5="496751f95950f4ba240479e454f9bf00"/>
+		<rom name="COL - Bit Corporation Dina/czz50-1.rom" size="8192" crc="696c101a" sha1="17fbbf2aa6a336454f9bd6f3f2b7b17bbe28c072" md5="1de922acdd742d31349c2801e9768c35"/>
+		<rom name="COL - Bit Corporation Dina/czz50-2.rom" size="8192" crc="6538dd32" sha1="ccbe07648f72eeedcde3fc8feb665124fcbf97ad" md5="72b089dc55b7fe7ffb5028f365e8c045"/>
+		<rom name="COL - ColecoVision/coleco.rom" size="8192" crc="3aa93ef3" sha1="45bedc4cbdeac66c7df59e9e599195c778d86a92" md5="2c66f5911e5b42b8ebe113403548eee7"/>
+		<rom name="COL - ColecoVision/config.ini" size="347" crc="d3de69d9" sha1="0f0b7b73ba6f8677dfc5c824bb3edf6df2ff653e" md5="8ed74c95dcaad0d714e1734c82159119"/>
+		<rom name="COL - ColecoVision with Opcode Memory Extension/coleco.rom" size="8192" crc="3aa93ef3" sha1="45bedc4cbdeac66c7df59e9e599195c778d86a92" md5="2c66f5911e5b42b8ebe113403548eee7"/>
+		<rom name="COL - ColecoVision with Opcode Memory Extension/config.ini" size="394" crc="4233f38d" sha1="a6d5df689e8263b3cd1870c287132a767e30bb78" md5="fbf084848c822891684c5791d190a5c2"/>
+		<rom name="COL - Spectravideo SVI-603 Coleco/config.ini" size="362" crc="f8b7f23b" sha1="930e778317ea802a848f596e0054ec46375d53c6" md5="0622c054e44d55649a1bcfa35c1b1254"/>
+		<rom name="COL - Spectravideo SVI-603 Coleco/SVI603.ROM" size="8192" crc="19e91b82" sha1="8a30abe5ffef810b0f99b86db38b1b3c9d259b78" md5="c60a2e85572c0ccb69505a7646d5c1b6"/>
+		<rom name="Forte II Games - Pesadelo/config.ini" size="364" crc="bcd41de3" sha1="fed2cc6c1201fd05b1bef67f7364974de740cc74" md5="a34411d8edc1a2c39cbe8e646fc6de3f"/>
+		<rom name="Forte II Games - Pesadelo/pesadelo.rom" size="65536" crc="1ae2f724" sha1="12880dd7ad82acf04861843fb9d4f0f926d18f6b" md5="ba53d700ec25bcb08020ce693319cd28"/>
+		<rom name="MSX2 - Al Alamiah AX-350/config.ini" size="710" crc="42e63ed1" sha1="e78ebeb26ec3672ca98e696cfea16ce79a2e21a1" md5="8aca07b7add1867c6492888b04b59384"/>
+		<rom name="MSX2 - Al Alamiah AX-370/config.ini" size="703" crc="8a8e9736" sha1="a07c82b456814d0f95029500661f3db2c02ea611" md5="16b3f5e833de2f0179746e92e3718144"/>
+		<rom name="MSX2 - Arabic/config.ini" size="809" crc="9c397eb5" sha1="66141cc07c768bed0370bb6fe7df3e4bdd80ab77" md5="4959854e6184c1108de69e0bb617365a"/>
+		<rom name="MSX2 - Brazilian/config.ini" size="652" crc="b0259ab1" sha1="505cd7f8cb1e5afc2a8fd8b0937686b8d4546572" md5="1af4a2b55599048452d9c6d73c4dc4db"/>
+		<rom name="MSX2+ - Brazilian/config.ini" size="811" crc="19fe4c08" sha1="14552a0c38076c39f305d93960326e015eb9888c" md5="22108662280a9a8874fbb1c46a1d8b3c"/>
+		<rom name="MSX2 - C-BIOS/cbios_logo_msx2.rom" size="16384" crc="4c5485aa" sha1="6fc989ae715fe8492700a9d15934113d910aed36" md5="659db9142e62c51f2f75fd52fac78e44"/>
+		<rom name="MSX2+ - C-BIOS/cbios_logo_msx2+.rom" size="16384" crc="1c7429c6" sha1="6e55cfc48d0d6ee57b041cb09427f614fb6a1910" md5="462d6ecb52a8c35dd7d48c2d46687f14"/>
+		<rom name="MSX2 - C-BIOS/cbios_main_msx2.rom" size="32768" crc="ec2fe089" sha1="0808d0486f77a44d3aa08cd77828a3748a356b8d" md5="98b94c2d99066f272bb5de07778f7fd1"/>
+		<rom name="MSX2+ - C-BIOS/cbios_main_msx2+.rom" size="32768" crc="ae23c039" sha1="c5edc3b289dea120fe60ad38596a51c2e28838aa" md5="0a34c660614ead31dab78638ce7745e9"/>
+		<rom name="MSX2+ - C-BIOS/cbios_music.rom" size="16384" crc="15c6ce2b" sha1="5c5eb001e6a1fe29edb7abd428a3967bb388e5db" md5="e09783c4ec6d4770c5395c42bb0e1d91"/>
+		<rom name="MSX2 - C-BIOS/cbios_sub.rom" size="16384" crc="f7a597e1" sha1="565143f7c6fe0ffa12ec3069048113f44759d91a" md5="9dd9a69432cc116d0f1d4ec7a51053e0"/>
+		<rom name="MSX2+ - C-BIOS/cbios_sub.rom" size="16384" crc="f7a597e1" sha1="565143f7c6fe0ffa12ec3069048113f44759d91a" md5="9dd9a69432cc116d0f1d4ec7a51053e0"/>
+		<rom name="MSX2 - C-BIOS/cbios.txt" size="8924" crc="582c06d2" sha1="1152f3e3eff0afac2143d478f157fd26c7466e6e" md5="86065454ad150f78acb1ea3d2b4659c0"/>
+		<rom name="MSX2+ - C-BIOS/cbios.txt" size="8924" crc="582c06d2" sha1="1152f3e3eff0afac2143d478f157fd26c7466e6e" md5="86065454ad150f78acb1ea3d2b4659c0"/>
+		<rom name="MSX2 - C-BIOS/config.ini" size="503" crc="080b6b1e" sha1="a8f33b4b8cb07449706d5e701badff1808f02415" md5="f9d905f8f18f94ad25adef25fa2ab920"/>
+		<rom name="MSX2+ - C-BIOS/config.ini" size="566" crc="463e6ffc" sha1="ffaa637ee580ef3de7b6cd9d389351da4c9b1f85" md5="073509b10ff257e25f689b931b3962ec"/>
+		<rom name="MSX2+ - Ciel Expert 3 IDE/config.ini" size="651" crc="8ea96669" sha1="4c06fda7639a0aee5a4835f89b834babc73f5bb9" md5="9a0acca0ceedef8eb1f2bcaac69e6621"/>
+		<rom name="MSX2+ - Ciel Expert 3 Turbo/config.ini" size="658" crc="7ab7592c" sha1="77242eaab1acd34f1eb45a7c485fecac79d94a1e" md5="dc6f18359093d2d18e1270aab7af5d70"/>
+		<rom name="MSX2/config.ini" size="649" crc="11543fa2" sha1="460ded0dbfc0285490da87a446b0321b6496aa5b" md5="c616cfad5eba7ac99b03bc2d40ac669b"/>
+		<rom name="MSX2+/config.ini" size="773" crc="8609e07e" sha1="cb7d14a17c4f4632f17ba5a64160cdd876dd6010" md5="510c643fa932b346ea8b87ea4f965618"/>
+		<rom name="MSX2 - Daewoo CPC-300/config.ini" size="509" crc="52530ccc" sha1="ff9325fbe2da1bb36979cb0a187391b210bb8e0f" md5="59572ba87c2b04f0c4fb27e30d9cb5b2"/>
+		<rom name="MSX2 - Daewoo CPC-300E/config.ini" size="514" crc="e2832ae3" sha1="12e560b28a75fcd78819078ec141edf6b91742f2" md5="facaf93b411b38246dc86032f7dcabe7"/>
+		<rom name="MSX2 - Daewoo CPC-400/config.ini" size="628" crc="9af2e00a" sha1="4b7e4693dc160ece61b0bc5cd5b0b81042824b25" md5="d910f354cb1cec0578885d3c4ca44872"/>
+		<rom name="MSX2 - Daewoo CPC-400S/config.ini" size="638" crc="8d968a40" sha1="6dc8cb156bbdf75761f0f28d2535fd4e07fa3371" md5="03c1c3984f6dd43d0df763707b5ece54"/>
+		<rom name="MSX2 - Estonian/config.ini" size="657" crc="19952725" sha1="e1f2b54ca864981af9fd9f60a6e06102293aefa0" md5="98280bf171c99dedc6892f4e0bec868c"/>
+		<rom name="MSX2+ - European/config.ini" size="816" crc="390ca8fd" sha1="1877ba4b79c30deaf20d1b340a37a4a79899a491" md5="a230e22345748b2b590efa1dc7e83f35"/>
+		<rom name="MSX2+ - European/KANJI.rom" size="262144" crc="1f6406fb" sha1="5aff2d9b6efc723bc395b0f96f0adfa83cc54a49" md5="acf53887c2d2783dc059a9b442c86b90"/>
+		<rom name="MSX2+ - European/Msx2pe.rom" size="32768" crc="76c46fe0" sha1="aea0e4a635efce5336e496d36e4cb0a4b79593ff" md5="277fd57c13f301fb4b366845a32d673a"/>
+		<rom name="MSX2+ - European/Msx2pexte.rom" size="49152" crc="2852b383" sha1="cf00ec60608010aac94cfe245eb7aa67cb44d110" md5="f78ab735aaad7045badbda8f4c8ac751"/>
+		<rom name="MSX2+ - European/MSX2PMUS.rom" size="16384" crc="456e494e" sha1="6354ccc5c100b1c558c9395fa8c00784d2e9b0a3" md5="f877f32e6d8687474ac5ee83e40de23b"/>
+		<rom name="MSX2+ - European/MSXKANJI.rom" size="32768" crc="b4fc574d" sha1="dcc3a67732aa01c4f2ee8d1ad886444a4dbafe06" md5="9dfdebfaa6b547222a40aab8bb2e29f8"/>
+		<rom name="MSX2+ - European/PANASONICDISK.rom" size="16384" crc="17fa392b" sha1="7ed7c55e0359737ac5e68d38cb6903f9e5d7c2b6" md5="00aa02b6077de40a0b51d71a3c3e1d5f"/>
+		<rom name="MSX2+ - European/XBASIC2.rom" size="16384" crc="2825b1a0" sha1="47370bec7ca1f0615a54eda548b07fbc0c7ef398" md5="0b6120f289336538bc564548109f97c6"/>
+		<rom name="MSX2 - French/config.ini" size="657" crc="a64ff87b" sha1="341cc08dfecb5bc1ed06b0f0f8d40efe5424e8f0" md5="4acfcff93020bfdc373a2c933de10c87"/>
+		<rom name="MSX2 - German/config.ini" size="655" crc="bcb1d3b4" sha1="046ba0eb76348827e0a3e2d2de289ff94e0970a5" md5="e349db2db7b69db0baedbf248d048a37"/>
+		<rom name="MSX2 - Gradiente Expert 2.0/config.ini" size="579" crc="df6daf1a" sha1="c9f67f2d2a8d7a65b3ced09a2392e921afa6f7f1" md5="af5efc299c663bf56e09fb04fc8327bb"/>
+		<rom name="MSX2+ - Gradiente Expert AC88+/config.ini" size="694" crc="054c631d" sha1="f2e4c72ebf1f61e89e3076223f74a525d849d3c6" md5="08a2d7b76db06f198c3bef9e62d515c0"/>
+		<rom name="MSX2+ - Gradiente Expert DDX+/config.ini" size="598" crc="746d1f27" sha1="bc211cf999009b958f085b90357fcba587f914ae" md5="0178e7158eca067ea0be73c35d9f20fa"/>
+		<rom name="MSX2 - Japanese/config.ini" size="774" crc="17fc45d5" sha1="10787827a4446712640dfc0c445d81edf71cf15f" md5="c1ea670df9893d7f4bb3de8b618b71f7"/>
+		<rom name="MSX2 - Korean/config.ini" size="775" crc="f0f95424" sha1="d4832afd2c34dec7300e7ab80ee7a8a921769bb9" md5="08a52a23c80a15077f6232ddc305a6ff"/>
+		<rom name="MSX2+ - MSXPLAYer 2003/config.ini" size="693" crc="63683601" sha1="e8042ad74d64f20ff6b243e1a0c1790d7c8f5ffe" md5="0f134b0f916e2e23a23bda70711e8394"/>
+		<rom name="MSX2 - National FS-4500/config.ini" size="1031" crc="fde93321" sha1="c62b45c82fdac646300b5fd427933c6a4fbefc4b" md5="0aecddc2f9a82a3a947d4a71ae45dc91"/>
+		<rom name="MSX2 - National FS-4600/config.ini" size="885" crc="e3ebcced" sha1="b2b9f3c963077138eea80c4053c80f998f487a7b" md5="592aa0e924096ff1c0ede857bcb05cef"/>
+		<rom name="MSX2 - National FS-4700/config.ini" size="1092" crc="ec1468d3" sha1="8036a72205495a658a5c7c4aa284ba69c2d30c51" md5="fddf9b6dcb35a855a15fdf83cf4bd6f6"/>
+		<rom name="MSX2 - National FS-5000/config.ini" size="695" crc="e611066f" sha1="d651c3b6dd24184270b730b69e1e08e1cc213ba2" md5="ee9db04d3655e70a9fbfd3177ac2398b"/>
+		<rom name="MSX2 - National FS-5500F1/config.ini" size="706" crc="8d95d4e6" sha1="dc883e67a293c92f6b559763f733c4cc2b68a74c" md5="d1262506516451ceb52389a42ce271c0"/>
+		<rom name="MSX2 - National FS-5500F2/config.ini" size="706" crc="7f8063e8" sha1="c30699962e29fd993a4abbe74280449aadefcc92" md5="33838ac0bb1f74b667466b8cef52e70c"/>
+		<rom name="MSX2 - Only PSG/config.ini" size="528" crc="73100086" sha1="7d35fd78ccfea2a280fd77d5daf7a75eb2f1d233" md5="46e86fc50e1884841f440ca220aa7c3e"/>
+		<rom name="MSX2 - Panasonic FS-A1 (a)/config.ini" size="578" crc="4a942a29" sha1="1dc32de5148d3ab712c967b81514db9a9b7162f3" md5="90d946e6c3aa12242bfb7fd09061ad91"/>
+		<rom name="MSX2 - Panasonic FS-A1/config.ini" size="561" crc="8eb6eb2f" sha1="33f00f7ae50af24feecf807614f731317e315cab" md5="66ef6a8420cfe4ff8d4b1107fe4a4839"/>
+		<rom name="MSX2 - Panasonic FS-A1F/config.ini" size="689" crc="3499459a" sha1="30236c8314686cfca1f3558be00c524b0ae6e5ef" md5="9016355b3c4d44f23bcc9a6d6f09698c"/>
+		<rom name="MSX2 - Panasonic FS-A1FM/config.ini" size="786" crc="adf5caf0" sha1="29b5be4ffc2f38c1a7a5d7dc1578f395b34ce40c" md5="63015ee44b36d94626bdb4d390e73ad2"/>
+		<rom name="MSX2+ - Panasonic FS-A1FX/config.ini" size="744" crc="6fd91ed9" sha1="aee5abbcc51ff82266141a7d06de6ae5242e334a" md5="56d19e844284d42d27efe00b4b06461b"/>
+		<rom name="MSX2 - Panasonic FS-A1MK2/config.ini" size="644" crc="d3ca7d2f" sha1="a76e2445f16fddaace4d95e25c77c143a191f71b" md5="92fa2334b8b0eac138a982ab5f2408f1"/>
+		<rom name="MSX2+ - Panasonic FS-A1WSX/config.ini" size="816" crc="c2c572fb" sha1="7b630958fdd9e31281806467d1a81fcfc1cbda4e" md5="3fb375e35f993b863ad6e2d829e611d2"/>
+		<rom name="MSX2+ - Panasonic FS-A1WX (a)/config.ini" size="837" crc="3d191a4b" sha1="aced497434c3004a947004887bb896469b86f515" md5="6ec9ce7d9efaf718d00d358745ac523f"/>
+		<rom name="MSX2+ - Panasonic FS-A1WX/config.ini" size="809" crc="b2cfd854" sha1="7e697c5348e8264fc341cd377c1ffe22a9424591" md5="e8a881241c5a57f3ca71a02eaadb660a"/>
+		<rom name="MSX2 - Philips NMS-8220 (a)/config.ini" size="512" crc="a93de8c0" sha1="768b3b1d342b60bfafb345e037e9eab859cd4215" md5="612de869ae0750976414cddcba675123"/>
+		<rom name="MSX2 - Philips NMS-8220/config.ini" size="499" crc="0ebe4397" sha1="2153ddc013c17dec9efc569a202a8ae8edfc5879" md5="fc0488be451b9d67460c74cd81ccd985"/>
+		<rom name="MSX2 - Philips NMS-8245/config.ini" size="499" crc="ec7f14c6" sha1="e0ed25532058166404ccf42b9fd977da931c10e3" md5="0f06f51f6efd4d34a7e04ecb92126d20"/>
+		<rom name="MSX2 - Philips NMS-8245F/config.ini" size="505" crc="7475b435" sha1="005b4bbbcb29680693d139bec449c6d180951d3a" md5="1fecc67a405fbd790e410318549489ac"/>
+		<rom name="MSX2 - Philips NMS-8250/config.ini" size="499" crc="a1628665" sha1="1f89dcb7b89893e497ae9c2344dad90c74c21a37" md5="03aaa44026b81d85897bbc5419440e9d"/>
+		<rom name="MSX2 - Philips NMS-8255/config.ini" size="501" crc="c66c35f0" sha1="b3a995c388f145c79af003ba5dbc1c2f06e6458f" md5="1dde9ea25d88a4cf32f94b303f690b78"/>
+		<rom name="MSX2 - Philips NMS-8280/config.ini" size="520" crc="69a285b4" sha1="9efd61f78075fbcb548fa71f1e38971aa1e3aa0a" md5="a5d32fbd3a44b8c2a9f3c963d62faa25"/>
+		<rom name="MSX2 - Philips NMS-8280G/config.ini" size="526" crc="0a2fe875" sha1="8d7da37154f0347441ce981f68ad5d364e4ed4a8" md5="2110465d2ffdff9c67b3c078898f68e7"/>
+		<rom name="MSX2 - Philips VG-8230/config.ini" size="489" crc="dea2d08e" sha1="bdbaef3eca07e312832734373fcefbb36c383e1f" md5="c401f8a3dcb1df3f7b86d50661e80ba0"/>
+		<rom name="MSX2 - Philips VG-8235/config.ini" size="498" crc="5ac10507" sha1="4ff27cbb079b76198c77ce83df87dd9f78c65e3d" md5="a488399bfee5783e1c32d88f818ef064"/>
+		<rom name="MSX2 - Philips VG-8235F/config.ini" size="504" crc="2ea76906" sha1="24c8e8cdc07a7ed5d4fef519c52b8d5c5c4f0bd7" md5="c483f982cae2f15d89249c79b395fab6"/>
+		<rom name="MSX2 - Philips VG-8240/config.ini" size="497" crc="87a1ee46" sha1="afa8824f5b05d649dbef2cfd2b525fcc335305b8" md5="59eaedb98e61ad0f7063bb5192334187"/>
+		<rom name="MSX2 - Russian/config.ini" size="656" crc="d599144f" sha1="22dbd9e51ef0899515e28a6362c12e3e05daefe6" md5="e6edd84f9311778ac7c83f86abf784b9"/>
+		<rom name="MSX2 - Sanyo Wavy MPC-25FD/config.ini" size="518" crc="517437a9" sha1="dd03b46c8ebd33a5367fec3080831553f7062153" md5="52553682ed75d6ddf2fb58d0bce493fe"/>
+		<rom name="MSX2 - Sanyo Wavy PHC-23/config.ini" size="455" crc="ac750030" sha1="fcde481206f684048a48a716e9558d31ddd42898" md5="d28f6ac4e561423c31a0fb80f457e2a7"/>
+		<rom name="MSX2+ - Sanyo Wavy PHC-35J/config.ini" size="588" crc="d71d6c2a" sha1="c5cfc42e522fd75ea76c029a697f77e36d267df3" md5="e502a834ce2f239bde2226b89721c053"/>
+		<rom name="MSX2+ - Sanyo Wavy PHC-70FD1/config.ini" size="802" crc="589092e3" sha1="6a626d7d05fe83d6285e6d666c6eddb4a687e4c5" md5="52aab807012d1d42049485d8ec807fc3"/>
+		<rom name="MSX2+ - Sanyo Wavy PHC-70FD2/config.ini" size="802" crc="da69e434" sha1="8a6f4c6413ad97ef1828d5bd74b6aa61b32fba5b" md5="085b93f7cf9d5fb9060787b0c8048a08"/>
+		<rom name="MSX2 - Sharp Epcom HotBit 2.0/config.ini" size="583" crc="4028bd85" sha1="63cbe0c778c66b028b4eb431567b2fde945290f3" md5="76c6c18cdb0c3944bdd9c201dce58921"/>
+		<rom name="MSX2 - Sony HB-F1/config.ini" size="607" crc="3d4977e9" sha1="f266f069c8159f0f054fb5527fe3a28e9aab22c7" md5="7e0b0eb7b2c9aaba8bcad3e6024d9211"/>
+		<rom name="MSX2 - Sony HB-F1II/config.ini" size="622" crc="4c57996c" sha1="7ac2361ab83a04e5bf4c2007fbd7865b3327a483" md5="577f8a4d2b98a27e81e0926bc62c82ad"/>
+		<rom name="MSX2 - Sony HB-F1XD/config.ini" size="506" crc="adce47dd" sha1="d999e6305009db781c7f579cf2e0be9f7e88484e" md5="a70f78bc869825d9ce59ea2867e45bc3"/>
+		<rom name="MSX2+ - Sony HB-F1XDJ/config.ini" size="771" crc="46edd0ba" sha1="260afaa1894efdf55752e19ecb66017095b64af8" md5="42a20ecf0a66f7cbcd9096e2c3491d7c"/>
+		<rom name="MSX2 - Sony HB-F1XDMK2/config.ini" size="515" crc="9b54d48b" sha1="b57ab62c9953644464da71cb466fd0a31e80b64d" md5="c56f85232c4e7a1a7480e06bfb87859f"/>
+		<rom name="MSX2+ - Sony HB-F1XV/config.ini" size="764" crc="e079eddd" sha1="4d9243b3484b3a99aafdf549f0afe798a263b8ad" md5="b9f0b37f0103d32f6121df383451db37"/>
+		<rom name="MSX2 - Sony HB-F500/config.ini" size="582" crc="6138abf7" sha1="d8a6f3a2fe3a178e04c9bbf4aac08ff6bf380e67" md5="a5165b6b795b8d3eff3eae67d8421bc3"/>
+		<rom name="MSX2 - Sony HB-F500P/config.ini" size="509" crc="d284f5d7" sha1="791a8860b3ce7b8e3f218c683b4c2d4424d154a4" md5="b7d66c0318fb51d25149d297c22a8c7d"/>
+		<rom name="MSX2 - Sony HB-F700D/config.ini" size="510" crc="c57083e9" sha1="8c7c8b0862aa804f6cbab4ba3b5c510aaa9efc95" md5="ab562407c8026a157f939936f1347b61"/>
+		<rom name="MSX2 - Sony HB-F700F/config.ini" size="510" crc="cf0e9203" sha1="66b42bbb347b436ec7a33c29f5b6e228fc3bcacd" md5="5322e7e843f77009ba83a55eac8b7490"/>
+		<rom name="MSX2 - Sony HB-F700P/config.ini" size="492" crc="4d9bd42f" sha1="223a8ac1ba1476db6c0f403e3ae023b38fe3e83b" md5="d61e9a0a3f4ba3632a02bcfcf1a72b75"/>
+		<rom name="MSX2 - Sony HB-F700S/config.ini" size="492" crc="42dacd30" sha1="7b46bab5836a3d3b32b069e7d7e2d6290735b264" md5="365d49bfaeb819afc034542c74f2da92"/>
+		<rom name="MSX2 - Sony HB-F900 (a)/config.ini" size="644" crc="5c0720a6" sha1="7398037569beb9e30f8e0857240b7882938ca693" md5="5ef958697492ea19425cdef81a709959"/>
+		<rom name="MSX2 - Sony HB-F900/config.ini" size="624" crc="6d1a1f65" sha1="de3fa5345e5dfad6c69d751ce132c5694a878334" md5="644e01372ccf7584517e58f40147f8e6"/>
+		<rom name="MSX2 - Sony HB-F9P/config.ini" size="562" crc="daac01c9" sha1="2df5a8558f7f55413668d7f6a649af0267261fa3" md5="bb2bb20e0f2a9a1b70c1b73e372fe924"/>
+		<rom name="MSX2 - Sony HB-F9P Russian/config.ini" size="452" crc="70c34c64" sha1="5db596d4f24bc49c8c0a4b9bc61b30cc4b19e734" md5="fae978008634d56f2b8f3efc67d05e66"/>
+		<rom name="MSX2 - Sony HB-F9S/config.ini" size="562" crc="29cdd686" sha1="75b17d86347084e0b42a69a1934ab4928df3ba3f" md5="d5faefc7fb271b5733c16bf22f3d4300"/>
+		<rom name="MSX2+ - Sony HB-F9S+/config.ini" size="574" crc="c3b50b71" sha1="0c0561dc730b5b58e32642469f75f4a0ca82bd31" md5="eb6d4f35c08eb3d532a409337ec1538a"/>
+		<rom name="MSX2 - Sony HB-G900AP/config.ini" size="625" crc="6255227f" sha1="a7b98188975117012ccf161c86d967e74fac2dfc" md5="6f50ff6934aeaa75686b030316a7cbc1"/>
+		<rom name="MSX2 - Sony HB-G900P/config.ini" size="605" crc="b1590bfa" sha1="24d0d7c20aaa7d8e799eb4cbd4ef3a4813036130" md5="cbf75cf14f93481f2e8c9af09df26601"/>
+		<rom name="MSX2 - Spanish/config.ini" size="657" crc="e8135c5e" sha1="80a6e5bfc62f38132fc74abcf9a39dbb6930b4da" md5="c7fe215cf4d434799f21220d78f7b555"/>
+		<rom name="MSX2 - Spectravideo SVI-738-2 CUC/config.ini" size="611" crc="a8f63614" sha1="a057ab788b0554d2d733ab54b517bbeee38f94bc" md5="2b8ef39e2534c2e566354b17fcff387f"/>
+		<rom name="MSX2 - Spectravideo SVI-738-2 JP Grobler/config.ini" size="639" crc="608c4306" sha1="66177be544f41483341f0702a14c71952be30002" md5="2f191bd4842e617aea161d950aa6a0b7"/>
+		<rom name="MSX2 - Spectravideo SVI-738-2 LC Grosso/config.ini" size="718" crc="1489ee4c" sha1="d60b6c1c93da72d21752bcc94e6329d5cd08a4f4" md5="c7d402e3b060f2df68d7d131c2f97820"/>
+		<rom name="MSX2 - Swedish/config.ini" size="655" crc="dfa548ef" sha1="8977b7f4809088dafbf68d6a34af4ad38a74bd81" md5="ce540179c472be16f22a24a624ed4bf1"/>
+		<rom name="MSX2 - Talent TPC-310/config.ini" size="655" crc="8c4167ee" sha1="d5e5e6670635e93b931c24a4411836f43cf116cb" md5="4c94d6a9a9059bb4a4f2aadb90680b1f"/>
+		<rom name="MSX2 - Toshiba HX-23/config.ini" size="517" crc="27723bf9" sha1="32fe51f368863e2963f696feb379ef8b9dbe91de" md5="d0ec17dffbc20e8770a8b5c211fa6f33"/>
+		<rom name="MSX2 - Toshiba HX-23F/config.ini" size="518" crc="425ce987" sha1="f3a54879e4ad46fea3b3805ea5837d990debf5d2" md5="e16f2c5428f7bd43be861ea60680fcc3"/>
+		<rom name="MSX2 - Virtual Haesung Console/config.ini" size="455" crc="62dbfce5" sha1="df8cbfcdf9e8137923180877b32902e15331357e" md5="693e16455f6faa9da1dc67bed97b6783"/>
+		<rom name="MSX2 - Yamaha CX7M-128/config.ini" size="556" crc="bb7da292" sha1="5ba860d316635d93d3ae7f5a5af90a2389c0f5a8" md5="2e6cc3f19c56fb26507d6e1784117fef"/>
+		<rom name="MSX2 - Yamaha CX7M/config.ini" size="473" crc="9212c2db" sha1="323e32b9d6591d070880bb69d6780879e01de514" md5="e764c9b1422f95a67a9db31b5d37fab9"/>
+		<rom name="MSX - Al Alamiah AX-170/config.ini" size="426" crc="f9fe3f94" sha1="cff532d00a2cb17548348f492bc520d346e4a045" md5="443526e576c008ac16881e637bc30a16"/>
+		<rom name="MSX - Arabic/config.ini" size="459" crc="e0f1c37d" sha1="f782ca81dde6a0c80f58289e83a1af59ea1d40ee" md5="b925034360e13d44623449f337bd517f"/>
+		<rom name="MSX - Brazilian/config.ini" size="411" crc="eafc0ceb" sha1="bc70db412a9677ebbbab4b565ef6d2c85b259db2" md5="fb15adbcf2e9dfc97f761931a7926eb6"/>
+		<rom name="MSX - Canon V-10/config.ini" size="363" crc="9ac28de1" sha1="eb287d4eae5d90f47e7ba8f94b430e2e52c61249" md5="303a7e804bb5dd2e623737b733325043"/>
+		<rom name="MSX - Canon V-20/config.ini" size="363" crc="a859dd0b" sha1="37ca9bac21eacbc012a80219d15381d757bcfb14" md5="b2044d513692bec22c3a6fd1c922c29d"/>
+		<rom name="MSX - C-BIOS/cbios_logo_msx1.rom" size="16384" crc="f969e424" sha1="95fe138745f5e627b021085c7e4629a6dfe6f93a" md5="25b5cdea5040883a206b89845cdf55f1"/>
+		<rom name="MSX - C-BIOS/cbios_main_msx1.rom" size="32768" crc="f0050785" sha1="a49bcf7a5a1115815f730782a1fd7d1c79ce29e7" md5="87b27f48cc25e2b6f749c019587d5f23"/>
+		<rom name="MSX - C-BIOS/cbios.txt" size="8924" crc="582c06d2" sha1="1152f3e3eff0afac2143d478f157fd26c7466e6e" md5="86065454ad150f78acb1ea3d2b4659c0"/>
+		<rom name="MSX - C-BIOS/config.ini" size="424" crc="4c4104dd" sha1="f2e3ef1f5a24868825388084ab7e5fc84bd99097" md5="0fa68d5843620a62b98d82915ecd3637"/>
+		<rom name="MSX/config.ini" size="408" crc="fb7ea5d9" sha1="483b2c34fcb3ddcf650314e45104f358ef74c98b" md5="98501fb5bd45bb5995f1f1ddb4fe520c"/>
+		<rom name="MSX - Daewoo DPC-100/config.ini" size="425" crc="77a5003f" sha1="c989cb1bb632a1482298c234a4a76a3f94282390" md5="a34ef58f30cc7f5aa5386385665e538b"/>
+		<rom name="MSX - Daewoo DPC-180/config.ini" size="425" crc="09b64445" sha1="1a033e4508e549421c94f83473de8dbd3aba834d" md5="061163886469279a1c45d3fd1ce7fbeb"/>
+		<rom name="MSX - Daewoo DPC-200/config.ini" size="425" crc="29b291cd" sha1="ed5fdda9435c4c4cbb96b5231032f0e7128ec542" md5="d5c38321e43f6ea29f0cacada86836f7"/>
+		<rom name="MSX - Daewoo DPC-200E/config.ini" size="372" crc="20643071" sha1="0f6b7cd53ce79a577988f2341335bff24ad90f1f" md5="dcd690ca386e0eec71a3f314c7d53421"/>
+		<rom name="MSX - Estonian/config.ini" size="411" crc="c8f96701" sha1="204b27380a414cec342252cb92e2ba0bc126b908" md5="af909cd4d91862fb070d4e56e1dc0a99"/>
+		<rom name="MSX - Frael Bruc 100-1/config.ini" size="371" crc="135089a8" sha1="be886088aa83e8351d2d94c2162e61ef4a4691fe" md5="50155ef158104138e67c85ab19c33424"/>
+		<rom name="MSX - French/config.ini" size="410" crc="4a086035" sha1="c375acc521b0df362faab7745e0f35acde92a85e" md5="55675b187b3c35a477a169c077e1805d"/>
+		<rom name="MSX - German/config.ini" size="409" crc="fe7aa493" sha1="b3017e7d79ca0634bb313dd469852789610a4548" md5="75541f9a4c4126edb2362d816b05d00f"/>
+		<rom name="MSX - Goldstar FC-200/config.ini" size="372" crc="acf2101e" sha1="eab1c23bd2e6ace8ef38e048ec71ccedb46c857d" md5="35a348fd662754bfd9eba62ae5d5d874"/>
+		<rom name="MSX - Gradiente Expert 1.0/config.ini" size="375" crc="d6104239" sha1="69ce8179babc5f2e446fa86c94dfbc9b4da67d37" md5="60295caa45190888a31bde42eee615c5"/>
+		<rom name="MSX - Gradiente Expert 1.1/config.ini" size="375" crc="fb9e90b4" sha1="fd9c7514639efceac987d6d492353b9982470a61" md5="2dff90d68a0b96444a66b861879ffcdc"/>
+		<rom name="MSX - Gradiente Expert 1.3/config.ini" size="375" crc="b7f821ed" sha1="099a128c2d077673dc7db5454727922486c83895" md5="a1f13100e0d1b1e5090e70e21a16dc1d"/>
+		<rom name="MSX - Gradiente Expert DDPlus/config.ini" size="446" crc="01f45d95" sha1="042d579bed20c0ef64f8128ec782b5057708dd23" md5="919e4290bb8672c0729bb467c5180899"/>
+		<rom name="MSX - Gradiente Expert Plus/config.ini" size="442" crc="f15a946b" sha1="d8b53c972cb1559298f83fec9fd9913e724ba129" md5="06ed665b34001401a4e65ff74ee3f222"/>
+		<rom name="MSX - Japanese/config.ini" size="411" crc="6c4d184c" sha1="1f2f42a3c5d8471da652bcf2a9b620798487cf11" md5="a7b19e8b12ce1a292b0bfc6e0d48425a"/>
+		<rom name="MSX - JVC HC-7GB/config.ini" size="367" crc="8a857a78" sha1="4cdeb73232ad5887fcee0259db5e5a1354848018" md5="49d30acdeccac1f2edbabedcb85d4859"/>
+		<rom name="MSX - Korean/config.ini" size="460" crc="77cf5559" sha1="718dceb5ffb6294ce5a179848cf862fc0d72ad71" md5="3f9b143d1740391358a273e9cab7f723"/>
+		<rom name="MSX - Mitsubishi ML-F80/config.ini" size="374" crc="d08091c7" sha1="b71e6a9b1ad1a325d680dfee53b86a4b507118a3" md5="583207b66a47ec07b2cca99f579931a8"/>
+		<rom name="MSX - Mitsubishi ML-FX1/config.ini" size="374" crc="70c19a2f" sha1="578be282f58a280bc3706950f950d9c4650d6113" md5="bbf42e6f2a97759412fce64e0b42b1bb"/>
+		<rom name="MSX - National CF-1200/config.ini" size="360" crc="af296a1d" sha1="1089d7bb7e551bb7aa273d7d08bf03cc2aa39efc" md5="e5632dcb9a43faec68db7d9482d59d3b"/>
+		<rom name="MSX - National CF-2000/config.ini" size="360" crc="e935ad5f" sha1="1579b69d263ee583dd6ce8534866a84dbcffe5d9" md5="a121ec391ea10c701799186c52411667"/>
+		<rom name="MSX - National CF-2700/config.ini" size="360" crc="1e1252fe" sha1="9778ccb72d39824c458d2e38854cede3e4d298f7" md5="42a8ad5f103569d84e58e5a7f597f743"/>
+		<rom name="MSX - National CF-3000/config.ini" size="360" crc="c406c3dd" sha1="dd1f142195b4ef843a588a87cf11954cf790c0ff" md5="2db70f74c5862f57a65a90d3be5b3653"/>
+		<rom name="MSX - National CF-3300/config.ini" size="422" crc="b1fdb3b2" sha1="ebc2737ab125dfd232821d74201aa87d1f287535" md5="876c5f9ee005d80f1e44462272454afc"/>
+		<rom name="MSX - National FS-1300/config.ini" size="360" crc="9f3c19ad" sha1="5f9e4a3453498a5632b1b364fe2bd97515e1801d" md5="f71cf78e0773b7271d7608d6fa00e4e4"/>
+		<rom name="MSX - National FS-4000/config.ini" size="544" crc="2ccac7ae" sha1="fcf456826a56749f3a4bc45438c14154888c73dd" md5="ec12c80f820ab9cbdd204876fbb8f62e"/>
+		<rom name="MSX - Olympia PHC-28/config.ini" size="369" crc="102592bf" sha1="b15daf568e6e6b29e4c0ce4674a6389f81589b2d" md5="9aa760f7d925399635f9f8d267a0dc0f"/>
+		<rom name="MSX - Olympia PHC-2/config.ini" size="367" crc="b6eeb005" sha1="4364432d0a1ad21ce06705052248b1df8dd9052d" md5="04aeefa9a623c51da7d1c58c8dcb9e26"/>
+		<rom name="MSX - Panasonic CF-2700G/config.ini" size="363" crc="0e77f49f" sha1="7c0238123378fe8174d6cc3d711ab1b622140c8f" md5="04297398ad296242ce4bfa4cdfc06f0f"/>
+		<rom name="MSX - Philips NMS-801/config.ini" size="350" crc="302e63e8" sha1="db6516ac9fd99e47ca9c68c66260d053b4316e30" md5="ed761c105612e7bbdfda8cce9d4ea219"/>
+		<rom name="MSX - Philips VG-8000/config.ini" size="342" crc="f88548e0" sha1="347c24c34caab687856a7dcbb4404046c5af1b34" md5="fd10cabf36ec82a2bbdfbf0d99f78a91"/>
+		<rom name="MSX - Philips VG-8010/config.ini" size="342" crc="960cac22" sha1="c5ab3e58e7e1ed861af60e4161ce6164af1e36be" md5="351e6bfea5c2103ad5748fab529f8954"/>
+		<rom name="MSX - Philips VG-8010F/config.ini" size="344" crc="51957b67" sha1="ad03d600d5b8e4047477efb817e6625ff064d414" md5="901ce9531bc4be0b0e0d26b4f394f7c6"/>
+		<rom name="MSX - Philips VG-8020-00/config.ini" size="365" crc="111c72af" sha1="10353870ff25664b46826ebc4d074467034cbbec" md5="1ecc77a90b6e598a94069b44bcc3754c"/>
+		<rom name="MSX - Philips VG-8020-20/config.ini" size="381" crc="388304d6" sha1="d69b93fad3a65c27977b82695087139b3843b3b3" md5="fe28d629f34437e3b26e7b8d9354e249"/>
+		<rom name="MSX - Philips VG-8020F/config.ini" size="377" crc="fb6cac1c" sha1="3f00f566202992941f082c9748442c8fd08e5671" md5="5a02902a25da58826b3b3f5db64ac647"/>
+		<rom name="MSX - Pioneer PX-7/config.ini" size="414" crc="34a4a905" sha1="1720ed98678abdba37c72ea361740c8ed57a5385" md5="eb41305cc101005e3b556528005d145a"/>
+		<rom name="MSX - Pioneer PX-V60/config.ini" size="422" crc="1fcb7015" sha1="a50605961bf23f7de6c8295ac524bae47e447f3d" md5="c8339e94127b1de58f57f64bf102e4d5"/>
+		<rom name="MSX - Russian/config.ini" size="410" crc="98863885" sha1="e1b96a2450963ff7753dedfda6c3146e75bf2124" md5="09f178bd14032062763ef81478280988"/>
+		<rom name="MSX - Sanyo MPC-100/config.ini" size="369" crc="c72bae29" sha1="6fb3f394904d0c50e595f1df22cfaf7955ccaaa2" md5="eaf627e1a5b339618f84d32b22b2b200"/>
+		<rom name="MSX - Sanyo MPC-64/config.ini" size="367" crc="1ce7a6af" sha1="dc033c3b50f9b5921faa58af3e6382f05210f00b" md5="1eb0e05afa6ab1f92d7b6fa01f1f4de5"/>
+		<rom name="MSX - Sanyo PHC-28L/config.ini" size="366" crc="dfacbf5e" sha1="921d3ff67ecb870098a86ae5f8022d4858aaed3b" md5="2915964c29a287bc8f1c1bf9a0b959fd"/>
+		<rom name="MSX - Sanyo PHC-28S/config.ini" size="366" crc="98842945" sha1="1a0df568997ce23d8eeb5985d74295a87de37843" md5="4c3ef93d9b09627b7f1a5fb2badddf24"/>
+		<rom name="MSX - Sanyo Wavy MPC-10/config.ini" size="362" crc="41b32477" sha1="c7a0b2f43ae2ae5ab4c7d3b39d5915a648792516" md5="7c1dfb85af6ea9b15483c63c5fdf384a"/>
+		<rom name="MSX - Sharp Epcom HotBit 1.1/config.ini" size="376" crc="ca568852" sha1="4df2c7c7acbb7287944df64479ac327d262efb70" md5="85b99a8b5b7155fa8fe44000c84b69a9"/>
+		<rom name="MSX - Sharp Epcom HotBit 1.2/config.ini" size="376" crc="22b6e359" sha1="117cb4dcbc2ff443fced1aa81f8e46ae4d013e96" md5="556fd234f4b8b939ef2b1470907f937b"/>
+		<rom name="MSX - Sharp Epcom HotBit 1.3b/config.ini" size="378" crc="bf6beb70" sha1="02b44e3ca7a9a187012e0669fdc087117f2319a5" md5="9e304d760602424e43b2e8398e51f378"/>
+		<rom name="MSX - Sharp Epcom HotBit 1.3p/config.ini" size="368" crc="e2677af7" sha1="213641733001bea40d323ed1f8054cdafc9bcee2" md5="f2b4682473be9fba29ce04d9a6a96a74"/>
+		<rom name="MSX - Sony HB-10P/config.ini" size="388" crc="ed471739" sha1="32b04756b3bec58ecd88910ec1ea5e45754d95b7" md5="cf4f0d4ce65ec97a7ea655407af48179"/>
+		<rom name="MSX - Sony HB-201/config.ini" size="444" crc="8fe12434" sha1="c715982aa811b9d9d8e801ab9f5e8d784ff93a46" md5="ef65fc7c33806162af8b9059309332e1"/>
+		<rom name="MSX - Sony HB-201P/config.ini" size="448" crc="6fab5ee0" sha1="c353f4d7f8cf0ee58782882d73dbbb8bf41097f9" md5="aa04a57cb87b6a11e584a0f9ebce047e"/>
+		<rom name="MSX - Sony HB-20P/config.ini" size="388" crc="b50f35db" sha1="e6505cf68a9942b6648fa87c812d931cb3b5c2d3" md5="3e414479d312b0a09e628f33703e2f1d"/>
+		<rom name="MSX - Sony HB-501P/config.ini" size="390" crc="301881e4" sha1="8e8a2aca5ef380b1a6ce9d652cf452db18c1ffb2" md5="22ddcfb504a42962c18e00b5b27938eb"/>
+		<rom name="MSX - Sony HB-55D/config.ini" size="420" crc="9b6d45ea" sha1="9695c4dc48e63b9acee5c0d40a6e01849ffcc3bb" md5="117f9065becc230bcac2c2697d64388e"/>
+		<rom name="MSX - Sony HB-55P/config.ini" size="410" crc="62d74324" sha1="5798acb86557a676a6e92c61948f0dec23886a83" md5="e8008ed2668c9612fc0e72115557692b"/>
+		<rom name="MSX - Sony HB-75D/config.ini" size="420" crc="c7c00a93" sha1="3405ea76acf361788e905d7a7e382c8cb01c9f3e" md5="ef25834ad8cba5a77a66a171074119e3"/>
+		<rom name="MSX - Sony HB-75P/config.ini" size="420" crc="f7a2eb39" sha1="7a234f193625f3daa2bfdf1b4ecd64910a5e73f0" md5="b40b186f718eb61e121d3e135505e15a"/>
+		<rom name="MSX - Spanish/config.ini" size="410" crc="0fe6f34c" sha1="5641c9b3167a438d3a7ac4695116d3bfb12eabfd" md5="9d858780032cfa6bc3e7d0b0d526dcb6"/>
+		<rom name="MSX - Spectravideo SVI-728/config.ini" size="440" crc="3a44e91f" sha1="2ab1cdfa6169ee2d9021137410676a24ca3fa9be" md5="a2b238f5507e13a7b7a9edadede476da"/>
+		<rom name="MSX - Spectravideo SVI-738/config.ini" size="502" crc="b123eb6d" sha1="f98f9e4a32f85187f91117177663e51c7a8c2ae0" md5="e1ccfd1d7e4765e74fe6ccdf152a4e9e"/>
+		<rom name="MSX - Spectravideo SVI-738 Henrik Gilvad/config.ini" size="546" crc="5b607874" sha1="2afd2a06067aa847b09b81de59305ea29e6d902d" md5="9984a9615309f8b0fd77fe468c08fa60"/>
+		<rom name="MSX - Spectravideo SVI-738 Swedish/config.ini" size="532" crc="9118ad4e" sha1="6e4f708ad9f203751afac2597177287d40045bf5" md5="780273d30afb7764d4b08f338f481432"/>
+		<rom name="MSX - Swedish/config.ini" size="410" crc="779b3baa" sha1="3a416bfe651475ce0ad1ce6bd2dfa5e48df26eac" md5="614d44596f10001acc2ddaa9b20e398c"/>
+		<rom name="MSX - Talent DPC-200A/config.ini" size="369" crc="4ead381d" sha1="732d7f8b64dc8cb9179d7e3c4197b262611cc792" md5="8d676ddf903c705a7a72759663f600ab"/>
+		<rom name="MSX - Talent DPC-200/config.ini" size="370" crc="075f91d6" sha1="2a1056f50cd842a5bf66e5f8f1daae5f1681db68" md5="ebb98f6223985963133d8b0e7ecacaf5"/>
+		<rom name="MSX - Toshiba HX-10/config.ini" size="369" crc="34c70da4" sha1="ab08688dbe3409ab6f01ad0f60c323250dbed173" md5="40a28060672ce962b563db76ef87e7da"/>
+		<rom name="MSX - Toshiba HX-10S/config.ini" size="371" crc="f77f58fd" sha1="61ab8b6b61ae9dc884fbd97f2c740ea6440441c1" md5="27b67fde8aac2a43d171be40d2ec41e3"/>
+		<rom name="MSX - Toshiba HX-20/config.ini" size="446" crc="6889993b" sha1="ba497e1c98c10638a3cb76be16d5168e87338da9" md5="c95a3c7d736ddd88d27d9fa388f45b53"/>
+		<rom name="MSXturboR/config.ini" size="941" crc="1f62c680" sha1="9507b55069f673e476bcd34020127f6d2f6ed633" md5="2112eca3217dd98cd55ab5aa79ec5296"/>
+		<rom name="MSXturboR - European/config.ini" size="1016" crc="9435070a" sha1="7e8010843572e4d539f2802de81a415c5a5d7e61" md5="086a40869e37a7a8aa870715f715434d"/>
+		<rom name="MSXturboR - Panasonic FS-A1GT/config.ini" size="1006" crc="5835f149" sha1="8cba994cbfbb515c136c09521c9443607049f63a" md5="f90d5863b2f4791a007c56105f03c620"/>
+		<rom name="MSXturboR - Panasonic FS-A1ST (a)/config.ini" size="1021" crc="3158cdf2" sha1="cd7ebbaffa870f955f373b59cf68369545e1d9a9" md5="1a74d732aed9739ecad24957638d092a"/>
+		<rom name="MSXturboR - Panasonic FS-A1ST (b)/config.ini" size="1021" crc="b72bea18" sha1="f5578a5d953eb5f2c18db6615a06471a010cf5ef" md5="b652609a8c0e4a39e76077c809f7e41a"/>
+		<rom name="MSXturboR - Panasonic FS-A1ST/config.ini" size="988" crc="158717d0" sha1="6157ecf17b295a4cef3593b3b3a2bb28866bdf08" md5="9dfe0be4ae5b73864e167e1ca55b717d"/>
+		<rom name="MSX - Yamaha CX5M-128/config.ini" size="558" crc="b3e1ecae" sha1="fc5b1f3aaec25ead14eb9b74b187ba4a5d62eebf" md5="aa38d15d8ad2c3fa1d116adf14e3c2ab"/>
+		<rom name="MSX - Yamaha CX5M-1/config.ini" size="430" crc="0039cbde" sha1="79f9b2a149b5640a260c0af1ee0c4ab972c60e74" md5="4df689f47c2ac685e302629b120c6335"/>
+		<rom name="MSX - Yamaha CX5M-2/config.ini" size="430" crc="bfe16742" sha1="d83782fb25c4fc73697cc8137dc71ef68258682d" md5="b467beca81fd9faa04a3d48413df53fb"/>
+		<rom name="MSX - Yamaha CX5MII/config.ini" size="478" crc="baa6720e" sha1="aae207dba987e699ff5b9d58de2569dc570a2900" md5="dcb40987b978b4160f4a48ab12d89019"/>
+		<rom name="MSX - Yamaha YIS303/config.ini" size="365" crc="e3c8308d" sha1="aeef4cba14b6cbdbab2c3f0252bec86956a503ad" md5="e377cdab0ebcb7ec7245e046a0ed0f3f"/>
+		<rom name="MSX - Yamaha YIS503/config.ini" size="365" crc="513b3d55" sha1="a430b9300a5ae9b0584113714a3d94b73ccfc455" md5="90927225106ffe3e015c34392aa64c88"/>
+		<rom name="MSX - Yamaha YIS503F/config.ini" size="367" crc="f5339b4d" sha1="ca0418d9f87b0f7161fbcc2bdcc7e355e7e69503" md5="ebf6d6bc7a8d1cb9b55542e9c63c7aa6"/>
+		<rom name="MSX - Yamaha YIS503II/config.ini" size="367" crc="6b90864e" sha1="479f333a72c7e3de935d1230c66d92594c2876f7" md5="ac96b4ce3285d31db7c02034b9046db2"/>
+		<rom name="MSX - Yamaha YIS503IIR/config.ini" size="502" crc="3209d68f" sha1="440d02ed098d2d5d847dc5b785c6bd3eae27720f" md5="1e88e128a9c3aa2600140bd80a07fa4b"/>
+		<rom name="MSX - Yamaha YIS503IIR Estonian/config.ini" size="530" crc="fca636b9" sha1="471db782f1b7e85d332ce88ebbdcd12f92d75a60" md5="4df0c5ee5167c505a65af1d857cdf217"/>
+		<rom name="MSX - Yamaha YIS503M/config.ini" size="435" crc="ed147bd7" sha1="fbccedb75c77953ed9d5b87ddc8b0c3991d33be4" md5="326aba10fbf9b3f00010dfb3d74345f2"/>
+		<rom name="MSX - Yashica YC-64/config.ini" size="367" crc="c581cc8f" sha1="dd009df24ad82298d982a1ddc86ea5556a8a920a" md5="d0df7e57c78a32e6bb8ede6ac65c918c"/>
+		<rom name="MSX - Yeno DPC-64/config.ini" size="366" crc="dd81f0b1" sha1="a69458fc93a73592eabebd7c8ab9b25372b9cc63" md5="b7fc9d5696411b340a5c60212b37fdd7"/>
+		<rom name="MSX - Yeno MX64/config.ini" size="365" crc="b3f889b5" sha1="8185bb8361fe9aeb4c1cb8483bfcbbe1ff5ac10a" md5="b81e4fb3429ec9894711a540a7ee706c"/>
+		<rom name="SEGA - SC-3000/config.ini" size="285" crc="b74a08e6" sha1="3c75856421ba350bf70f64721c0f7d016c72c6ef" md5="3b623e191f1b4841912ce60df9a4193d"/>
+		<rom name="SEGA - SF-7000/config.ini" size="337" crc="ba727732" sha1="9babbaf2cfb04a9057dbac370a56dd20f412f3ab" md5="9cc2a1f0361ccd5a5b351086d9629c30"/>
+		<rom name="SEGA - SF-7000/sf7000.rom" size="8192" crc="d76810b8" sha1="77339a6db2593aadc638bed77b8e9bed5d9d87e3" md5="561b362f9aa4cbcb240461abf83c2e0d"/>
+		<rom name="SEGA - SG-1000/config.ini" size="287" crc="6c26e357" sha1="1ed0081a4fdfcedb4fa23afbb4bc67afda380a50" md5="eb7e878418f3e484fa522a53223f8a21"/>
+		<rom name="Shared Roms/ARAB1.ROM" size="32768" crc="339cd1aa" sha1="0287b2ec897b9196788cd9f10c99e1487d7adbbb" md5="7fa0558bcec9dba310579521623d9f6a"/>
+		<rom name="Shared Roms/ARABIC.rom" size="32768" crc="c0d8fc85" sha1="2c9600c6e0025fee10d249e97448ecaa37e38c42" md5="20c4b5d1d9469c201b145f082ec32658"/>
+		<rom name="Shared Roms/BEERIDE.ROM" size="16384" crc="584b1250" sha1="077bdfff644b931b6a13bab8ab847aee766d163e" md5="b32279f2700652a5ce0a809318626763"/>
+		<rom name="Shared Roms/FMPAC.rom" size="65536" crc="0e84505d" sha1="9d789166e3caf28e4742fe933d962e99618c633d" md5="6f69cc8b5ed761b03afd78000dfb0e19"/>
+		<rom name="Shared Roms/GCVMX80.ROM" size="8192" crc="47b843ca" sha1="977fed1135b6cc73e765b47f51570fc00acd5b79" md5="fd0b8f1766dc6dcc03a43d9c79dc4e37"/>
+		<rom name="Shared Roms/HANGUL.rom" size="131072" crc="b663c605" sha1="965f4982790f1817bcbabbb38c8777183b231a55" md5="9baf17b190f631405b6b0eeeeb162b87"/>
+		<rom name="Shared Roms/KANJI.rom" size="262144" crc="1f6406fb" sha1="5aff2d9b6efc723bc395b0f96f0adfa83cc54a49" md5="acf53887c2d2783dc059a9b442c86b90"/>
+		<rom name="Shared Roms/MICROSOLDISK.ROM" size="16384" crc="232222be" sha1="f59d33311c95edc0168445f74eddd8a6772aa6a0" md5="02e8b1f96049f09d6d3a735647cbbb2a"/>
+		<rom name="Shared Roms/MOONSOUND.rom" size="2097152" crc="2a9d8d43" sha1="32760893ce06dbe3930627755ba065cc3d8ec6ca" md5="42af93619160ef2116416f74a6cb12f2"/>
+		<rom name="Shared Roms/MSX2AREXT.ROM" size="16384" crc="7c7540b7" sha1="ebb76f9061e875365023523607db610f2eda1d26" md5="be5d1ec8001d945ca1432285722e9d16"/>
+		<rom name="Shared Roms/MSX2AR.ROM" size="32768" crc="ea306155" sha1="35195ab67c289a0b470883464df66bc6ea5b00d3" md5="91764e84f977671ac7caa50b36273fd2"/>
+		<rom name="Shared Roms/MSX2BREXT.rom" size="16384" crc="08ced880" sha1="4f2a7e0172f0214f025f23845f6e053d0ffd28e8" md5="355c6d5ee31da441d485cd89ca906413"/>
+		<rom name="Shared Roms/MSX2BR.rom" size="32768" crc="6bacdce4" sha1="9c43106dba3ae2829e9a11dffa9d000ed6d6454c" md5="d3df424728a225b301510f5384cae583"/>
+		<rom name="Shared Roms/MSX2EXT.rom" size="16384" crc="66237ecf" sha1="5c1f9c7fb655e43d38e5dd1fcc6b942b2ff68b02" md5="2183c2aff17cf4297bdb496de78c2e8a"/>
+		<rom name="Shared Roms/MSX2FREXT.rom" size="16384" crc="e235d5c8" sha1="792e6b2814ab783d06c7576c1e3ccd6a9bbac34a" md5="6ffe789cca2eca9d2e71ca7b69b97e6b"/>
+		<rom name="Shared Roms/MSX2FR.rom" size="32768" crc="c0577a50" sha1="3926cdd91fa89657a811463e48cfbdb350676e51" md5="7af9e84da1520a8a7fb82e73703e5075"/>
+		<rom name="Shared Roms/MSX2GEXT.rom" size="16384" crc="41e36d03" sha1="4ab7b2030d022f5486abaab22aaeaf8aa23e05f3" md5="4047ce143a8bf391e21991835aa65b59"/>
+		<rom name="Shared Roms/MSX2G.rom" size="32768" crc="8fa060e2" sha1="b17d9bea0eb16a1aa2d0ccbd7c9488da9f57698e" md5="b6c33b7b3508d691d7872589c778f808"/>
+		<rom name="Shared Roms/MSX2HAN.rom" size="32768" crc="a8ead5e3" sha1="87936f808423dddfd00629056d6807b4be1dc63e" md5="7b9466546009d419ebd0dc27db90c30e"/>
+		<rom name="Shared Roms/MSX2JEXT.rom" size="16384" crc="43e7a7fc" sha1="0fbd45ef3dd7bb82d4c31f1947884f411f1ca344" md5="8aabde714a42256bef36ea9b04f6ef59"/>
+		<rom name="Shared Roms/MSX2J.rom" size="32768" crc="9b3e7b97" sha1="0081ea0d25bc5cd8d70b60ad8cfdc7307812c0fd" md5="53bec1c22b30c0a15263e04b91a7814f"/>
+		<rom name="Shared Roms/MSX2KREXT.rom" size="32768" crc="2ba104a3" sha1="b6d3649a6647fa9f6bd61efc317485a20901128f" md5="30a0b3402a0a13b516af76d39f45a365"/>
+		<rom name="Shared Roms/MSX2KR.rom" size="32768" crc="53850907" sha1="affa3c5cd8db79a1450ad8a7f405a425b251653d" md5="6819a1533502261bfdd52436b8346073"/>
+		<rom name="Shared Roms/MSX2PEXT.rom" size="16384" crc="b8ba44d3" sha1="fe0254cbfc11405b79e7c86c7769bd6322b04995" md5="7c8243c71d8f143b2531f01afa6a05dc"/>
+		<rom name="Shared Roms/MSX2PMUS.rom" size="16384" crc="456e494e" sha1="6354ccc5c100b1c558c9395fa8c00784d2e9b0a3" md5="f877f32e6d8687474ac5ee83e40de23b"/>
+		<rom name="Shared Roms/MSX2P.rom" size="32768" crc="19771608" sha1="e90f80a61d94c617850c415e12ad70ac41e66bb7" md5="847cc025ffae665487940ff2639540e5"/>
+		<rom name="Shared Roms/MSX2R2.ROM" size="32768" crc="d0c20f54" sha1="ebb7eb540a390509edfd36c84288ba85e63f2d1f" md5="96ac231b718e88ce64d5a9b4a5e9ae12"/>
+		<rom name="Shared Roms/MSX2REXT.rom" size="16384" crc="34d21778" sha1="03bf6d2ac86f5c9ab618e155442787c700f99fed" md5="8e4af1124e2b82fbdc74a7bc5f20dc6e"/>
+		<rom name="Shared Roms/MSX2.rom" size="32768" crc="6cdaf3a5" sha1="6103b39f1e38d1aa2d84b1c3219c44f1abb5436e" md5="ec3a01c91f24fbddcbcab0ad301bc9ef"/>
+		<rom name="Shared Roms/MSX2R.rom" size="32768" crc="e7d08e29" sha1="0f851ee7a1cf79819f61cc89e9948ee72a413802" md5="db56360c85ef8410dc4bcf8e8602f61e"/>
+		<rom name="Shared Roms/MSX2SE.rom" size="32768" crc="5648eeeb" sha1="1b70a195a00b1fc4995766390f39d3ba884b5148" md5="fb8f7ab15e32a91147204bd7f7a1b451"/>
+		<rom name="Shared Roms/MSX2SPEXT.rom" size="16384" crc="dc0951bd" sha1="1e9a955943aeea9b1807ddf1250ba6436d8dd276" md5="d71842ce8f559a8aed2721766bc15f2b"/>
+		<rom name="Shared Roms/MSX2SP.rom" size="32768" crc="c2b889a5" sha1="4811956f878c3e03da46317f787cdc4bebc86f47" md5="79caefa20a0d056fb42eaeca856c6f82"/>
+		<rom name="Shared Roms/MSXAR.ROM" size="32768" crc="bd95c436" sha1="5e094fca95ab8e91873ee372a3f1239b9a48a48d" md5="793e3b833c33be7aaf834beacb8fb926"/>
+		<rom name="Shared Roms/MSXBR.rom" size="32768" crc="efb4b972" sha1="d6720845928ee848cfa88a86accb067397685f02" md5="d13c1fc9ad4897c322f51aab3ad3b30d"/>
+		<rom name="Shared Roms/MSXDOS23.ROM" size="65536" crc="d25fc001" sha1="0527fb75775caa76c7eca8d449938ace83d36e96" md5="56bf5b02fed377b7bb9d91f914965431"/>
+		<rom name="Shared Roms/MSXFR.rom" size="32768" crc="6e692fa1" sha1="9eaad185efc8e224368d1db4949eb9659c26fb2c" md5="6f43d28ac4a69182c860c2db0e18ee6d"/>
+		<rom name="Shared Roms/MSXG.rom" size="32768" crc="7e2b32dd" sha1="38a645febd0e0fe86d594f27c2d14be995acc730" md5="4655329d3f37bf1a655d05f2abd1aa62"/>
+		<rom name="Shared Roms/MSXHAN.rom" size="8192" crc="938db440" sha1="d41676fde0a3047792f93c4a41509b8749e55e74" md5="394efbc50fb7df1151130d8c162f85c3"/>
+		<rom name="Shared Roms/MSXJ.rom" size="32768" crc="071135e0" sha1="df48902f5f12af8867ae1a87f255145f0e5e0774" md5="f005e55c680ba6e7b19f6d4dc8f73ce5"/>
+		<rom name="Shared Roms/MSXKANJI.rom" size="32768" crc="b4fc574d" sha1="dcc3a67732aa01c4f2ee8d1ad886444a4dbafe06" md5="9dfdebfaa6b547222a40aab8bb2e29f8"/>
+		<rom name="Shared Roms/MSXKR.rom" size="32768" crc="3ab0cd3b" sha1="171b587bd5a947a13f3114120b6e7baca3b57d78" md5="c84f362c44192659273d45ae97462362"/>
+		<rom name="Shared Roms/MSXR2.ROM" size="32768" crc="67872f40" sha1="04990aa1c3a3fc7294ec884b81deaa89832df614" md5="704bdd980fa56c6be5c680358458eeeb"/>
+		<rom name="Shared Roms/MSX.rom" size="32768" crc="a317e6b4" sha1="e998f0c441f4f1800ef44e42cd1659150206cf79" md5="364a1a579fe5cb8dba54519bcfcdac0d"/>
+		<rom name="Shared Roms/MSXR.rom" size="32768" crc="5095ae3d" sha1="4f3114e96d7b892911e3dccf1eece712be26f396" md5="0db9592930488259fc1a5c127215e784"/>
+		<rom name="Shared Roms/MSXSE.ROM" size="32768" crc="c8ccdaa0" sha1="87f4d0fa58cfe9cef818a3185df2735e6da6168c" md5="161cb768c52a13f5b38ba46e721b68c1"/>
+		<rom name="Shared Roms/MSXSP.rom" size="32768" crc="fed7506f" sha1="342e7d4bd86f3351766f460f6de3c89a40791ee0" md5="51af5b19aeccf94eb8e03bce0b5d33c4"/>
+		<rom name="Shared Roms/MSXTREXT.ROM" size="16384" crc="70aea0fe" sha1="018d7a5222f28514908fb1b1513286a6558a6d05" md5="824b1c4475a3bd3b91c5ae81ea940aa2"/>
+		<rom name="Shared Roms/MSXTRMUS.ROM" size="16384" crc="f5f93437" sha1="6aea1aef5ec31c1826c22edf580525f93baad425" md5="c688a229f834f95f8c64df7d33188cd8"/>
+		<rom name="Shared Roms/MSXTROPT.ROM" size="16384" crc="50d11f60" sha1="b4433a3975c57dd440d6bf12dbd28b2ac1b90ef4" md5="2cba0d812ec445cfe63ffa2cac8d42c2"/>
+		<rom name="Shared Roms/MSXTR.ROM" size="32768" crc="937c8dbb" sha1="242e73d8284a012b275c0a266844ebbc4269d787" md5="fd9513736823e470965949f2a3ec6a43"/>
+		<rom name="Shared Roms/NATIONALDISK.rom" size="16384" crc="1e7d6512" sha1="78cd7f847e77fd8cd51a647efb2725ba93f4c471" md5="86269da485e852d9f581ac27f4ba32ff"/>
+		<rom name="Shared Roms/NOVAXIS.rom" size="16384" crc="ecf385f2" sha1="352ec8c99fe1397a88ecb3aee6dbb4d121c818e9" md5="20989124671593ab04eeb01d52a1e25c"/>
+		<rom name="Shared Roms/nowindDos1.rom" size="524288" crc="0a7a7a5b" sha1="1d4c09166755c6569ff0ed3878bbf1b22d7e3864" md5="8c294a75f14fc30fce0c8642d28ccec1"/>
+		<rom name="Shared Roms/nowindDos2.rom" size="524288" crc="d64dee77" sha1="8afd1ec5843ecfdcbff11497fa8c55b870c0c6f5" md5="1847398c014384b833868c64f149f338"/>
+		<rom name="Shared Roms/PAINT.rom" size="65536" crc="18956e3a" sha1="ace202e87337fbc54fea21e22c0b3af0abe6f4ae" md5="41db0d7b37be479296ffd59fcd6775f0"/>
+		<rom name="Shared Roms/PANASONICDISK.rom" size="16384" crc="17fa392b" sha1="7ed7c55e0359737ac5e68d38cb6903f9e5d7c2b6" md5="00aa02b6077de40a0b51d71a3c3e1d5f"/>
+		<rom name="Shared Roms/PHILIPSDISK.rom" size="16384" crc="ca3307d3" sha1="c3efedda7ab947a06d9345f7b8261076fa7ceeef" md5="01dd1d72ed9bb6afe8a9b441c198a1cd"/>
+		<rom name="Shared Roms/RS232.ROM" size="8192" crc="3353dcc6" sha1="4e9384c9d137f0ab65ffc5a78f04cd8c9df6c8b7" md5="55cca200bbbdd0a1ec5c9d70966c05c0"/>
+		<rom name="Shared Roms/Shared.txt" size="41" crc="71689ec0" sha1="ab5c9feccc785871d3ba86165f05b15159361273" md5="a9e1ab3604e2e7d54988125ea841cd63"/>
+		<rom name="Shared Roms/SUNRISEIDE.rom" size="65536" crc="c3438b15" sha1="1c79c8fcfd661394f91be94b218955c84cabd742" md5="7b564497beb2c0de0847f107dec00ddf"/>
+		<rom name="Shared Roms/SWP.rom" size="32768" crc="076f40fc" sha1="4b4508131dca6d811694ae6379f41364c477de58" md5="490db04e2a3c1c993a2a9d3611949c76"/>
+		<rom name="Shared Roms/XBASIC2.rom" size="16384" crc="2825b1a0" sha1="47370bec7ca1f0615a54eda548b07fbc0c7ef398" md5="0b6120f289336538bc564548109f97c6"/>
+		<rom name="SVI - Spectravideo SVI-318/config.ini" size="346" crc="f05bf1e4" sha1="0552fe09d07c03e8fcf8f44b04bf086689e2106a" md5="c8a53a309afe77d6323ec11041f9c4ef"/>
+		<rom name="SVI - Spectravideo SVI-318/svi318.rom" size="32768" crc="98d48655" sha1="07758272df475e5e06187aa3574241df1b14035b" md5="ee6ad7ea29e791b03a28a9443e622648"/>
+		<rom name="SVI - Spectravideo SVI-328 80 Column/config.ini" size="521" crc="fdaed247" sha1="e9157fcfad1e393bff6857ed1f1918aace5adc25" md5="7835259261b02f7053c73b55ee9bef34"/>
+		<rom name="SVI - Spectravideo SVI-328 80 Column/svi328a.rom" size="32768" crc="bc433df6" sha1="10349ce675f6d6d47f0976e39cb7188eba858d89" md5="352f054ab09605070bdff49d73f335cc"/>
+		<rom name="SVI - Spectravideo SVI-328 80 Column/svi806.rom" size="4096" crc="850bc232" sha1="ed45cb0e9bd18a9d7bd74f87e620f016a7ae840f" md5="82f7bc9c08f43db1d79bcb565a0de12b"/>
+		<rom name="SVI - Spectravideo SVI-328 80 Swedish/config.ini" size="525" crc="f12a70fd" sha1="fa4c86a9d9c74875079b324c3b247d5aea285787" md5="4acfec75bd9566ce3f6e614bcf327c19"/>
+		<rom name="SVI - Spectravideo SVI-328 80 Swedish/svi328a.rom" size="32768" crc="bc433df6" sha1="10349ce675f6d6d47f0976e39cb7188eba858d89" md5="352f054ab09605070bdff49d73f335cc"/>
+		<rom name="SVI - Spectravideo SVI-328 80 Swedish/svi806se.rom" size="4096" crc="daea8956" sha1="3f16d5513ad35692488ae7d864f660e76c6e8ed3" md5="6a5536c1eb4f0477c4f76488cd8ca3ad"/>
+		<rom name="SVI - Spectravideo SVI-328/config.ini" size="418" crc="89a71896" sha1="9dc104c536f9fbf6ef29006479916da4964d9c68" md5="ba3600d30ae755af371d8b9ab325b0f6"/>
+		<rom name="SVI - Spectravideo SVI-328 MK2/config.ini" size="441" crc="4f3f32be" sha1="cb9dc3be87e7f9dd187ec3aef87620f3291e0a84" md5="441dd9a2d5ed89a7406344623dc2f5ae"/>
+		<rom name="SVI - Spectravideo SVI-328 MK2/svi328a.rom" size="32768" crc="bc433df6" sha1="10349ce675f6d6d47f0976e39cb7188eba858d89" md5="352f054ab09605070bdff49d73f335cc"/>
+		<rom name="SVI - Spectravideo SVI-328 MK2/svi806.rom" size="4096" crc="850bc232" sha1="ed45cb0e9bd18a9d7bd74f87e620f016a7ae840f" md5="82f7bc9c08f43db1d79bcb565a0de12b"/>
+		<rom name="SVI - Spectravideo SVI-328/svi328.rom" size="32768" crc="709904e9" sha1="7d8daf52f78371ca2c9443e04827c8e1f98c8f2c" md5="2cebd1db9dda475a011b7bce65c984a2"/>
+	</machine>
+	<machine name="np2kai">
+		<description>NEC PC-98 BIOS (Neko Project II Kai)</description>
+		<rom name="2608_BD.WAV" size="19192" crc="bb038714" sha1="0a56c142ef40cec50f3ee56a6e42d0029c9e2818" md5="d94546e70f17fd899be8df3544ab6cbb"/>
+		<rom name="2608_HH.WAV" size="36722" crc="9898b372" sha1="12f676cef249b82480b6f19c454e234b435ca7b6" md5="08c54a0c1f774a5538a848a6665a34b4"/>
+		<rom name="2608_RIM.WAV" size="5288" crc="638864c1" sha1="c65592330c9dd84011151daed52f9aec926b7e56" md5="465ea0768b27da404aec45dfc501404b"/>
+		<rom name="2608_SD.WAV" size="15558" crc="542cc58c" sha1="3c79663ef74c0b0439d13351326eb1c52a657008" md5="d71004351c8bbfdad53b18222c061d49"/>
+		<rom name="2608_TOM.WAV" size="23092" crc="93c57bba" sha1="9513fb4a3f41e75a972a273a5104cbd834c1e2c5" md5="96a4ead13f364734f79b0c58af2f0e1f"/>
+		<rom name="2608_TOP.WAV" size="57016" crc="ab73a296" sha1="aa4a8f766a86b830687d5083fd3b9db0652f46fc" md5="593cff6597ab9380d822b8f824fd2c28"/>
+		<rom name="bios.rom" size="98304" crc="0a682b93" sha1="76a7360502fa0296ea93b4c537174610a834d367" md5="cd237e16e7e77c06bb58540e9e9fca68"/>
+		<rom name="bios9821.rom" size="" crc="" sha1="" md5=""/>
+		<rom name="d8000.rom" size="32768" crc="5dda57cc" sha1="d0dead41c5b763008a4d777aedddce651eb6dcbb" md5="dc8e3222c6cfe24950a162467ad1a608"/>
+		<rom name="font.bmp" size="524350" crc="d271798b" sha1="b4f14e58030ed40fff2dc312b58ea4440bdf8cc5" md5="7da1e5b7c482d4108d22a5b09631d967"/>
+		<rom name="FONT.ROM" size="288768" crc="456d9fc7" sha1="78ba9960f135372825ab7244b5e4e73a810002ff" md5="38d32748ae49d1815b0614970849fd40"/>
+		<rom name="itf.rom" size="32768" crc="c1815325" sha1="a2fb11c000ed7c976520622cfb7940ed6ddc904e" md5="72ea51443070f0e9212bfc9b793ee28e"/>
+		<rom name="sound.rom" size="16384" crc="fe9f57f2" sha1="d5dbc4fea3b8367024d363f5351baecd6adcd8ef" md5="524473c1a5a03b17e21d86a0408ff827"/>
+	</machine>
+	<machine name="Mupen64plus">
+		<description>Nintendo 64DD BIOS (Mupen64plus)</description>
+		<rom name="IPL.n64" size="4194304" crc="7f933ce2" sha1="bf861922dcb78c316360e3e742f4f70ff63c9bc3" md5="8d3d9f294b6e174bc7b1d2fd1c727530"/>
+	</machine>
+	<machine name="pcsx2">
+		<description>PS2 BIOS for PCSX2</description>
+		<rom name="bios/ps2-0100j-20000117.bin" size="4194304" crc="b7ef81a9" sha1="aea061e6e263fdcc1c4fdbd68553ef78dae74263" md5="acf4730ceb38ac9d8c7d8e21f2614600"/>
+		<rom name="bios/ps2-0100jd-20000117.bin" size="4194304" crc="5a04500c" sha1="5b33170323ed6344e2363fed8115dc3918bb96a4" md5="32f2e4d5ff5ee11072a6bc45530f5765"/>
+		<rom name="bios/ps2-0101j-20000217.bin" size="4194304" crc="211dfb6a" sha1="916e02431bcd73140504da3355c9598143b77e11" md5="b1459d7446c69e3e97e6ace3ae23dd1c"/>
+		<rom name="bios/ps2-0101jd-20000217.bin" size="4194304" crc="4f8b4205" sha1="16f4a284d0e760ee13a2aff2f7dda928255e3080" md5="acf9968c8f596d2b15f42272082513d1"/>
+		<rom name="bios/ps2-0101xd-20000224.bin" size="4194304" crc="2fef9faf" sha1="4440b246bfde7bb31002c584a76c6ef384908e84" md5="d3f1853a16c2ec18f3cd1ae655213308"/>
+		<rom name="bios/ps2-0110a-20000727.bin" size="4194304" crc="9678ad6a" sha1="20f6ce6693cf97e9494f8f0227f2b7988ffaf961" md5="a20c97c02210f16678ca3010127caf36"/>
+		<rom name="bios/ps2-0110ad-20000727.bin" size="4194304" crc="795578c1" sha1="339c646cf0699268552df5b05f18f0a03a9f55ff" md5="63e6fd9b3c72e0d7b920e80cf76645cd"/>
+		<rom name="bios/ps2-0120a-20000902.bin" size="4194304" crc="1ae71e5d" sha1="dbc2318a1029347b5af3a0c74b0bdf88d19efee6" md5="8db2fbbac7413bf3e7154c1e0715e565"/>
+		<rom name="bios/ps2-0120e-20000902.bin" size="4194304" crc="7b08c33b" sha1="274c05fec654913a3f698d4b0d592085866a2cbd" md5="b7fa11e87d51752a98b38e3e691cbf17"/>
+		<rom name="bios/ps2-0120ed-20000902-20030110.bin" size="4194304" crc="e2f78425" sha1="1b73dec999fcc2b92fa958110ff6bfe4d0af276e" md5="3016b3dd42148a67e2c048595ca4d7ce"/>
+		<rom name="bios/ps2-0120ed-20000902.bin" size="4194304" crc="25495aa7" sha1="3bb1eecd618ab5c973c7bc53671a4475a02e1d5b" md5="91c87cb2f2eb6ce529a2360f80ce2457"/>
+		<rom name="bios/ps2-0120j-20001027-185015.bin" size="4194304" crc="9b096622" sha1="e481079eca752225555f0c26d14c9d0f94d9a8e9" md5="f63bc530bd7ad7c026fcd6f7bd0d9525"/>
+		<rom name="bios/ps2-0120j-20001027-191435.bin" size="4194304" crc="c1ccf3f6" sha1="a9f5d8ed56cfff18add1b599010493461fa02448" md5="cee06bd68c333fc5768244eae77e4495"/>
+		<rom name="bios/ps2-0150a-20001228.bin" size="4194304" crc="bce74746" sha1="5af5b5077d84a9c037ebe12bfab8a38b31d8a543" md5="8accc3c49ac45f5ae2c5db0adc854633"/>
+		<rom name="bios/ps2-0150ad-20001228-20030520.bin" size="4194304" crc="0380c2ce" sha1="7284b9d16df9935afc384318e024c87ef0574fe5" md5="0bf988e9c7aaa4c051805b0fa6eb3387"/>
+		<rom name="bios/ps2-0150e-20001228.bin" size="4194304" crc="1559fd43" sha1="e22ef231faf3661edd92f2ee449a71297c82a092" md5="838544f12de9b0abc90811279ee223c8"/>
+		<rom name="bios/ps2-0150ed-20001228-20030520.bin" size="4194304" crc="60bc0031" sha1="d004326c9d8060812b4433c3f07646b04854d6c4" md5="6f9a6feb749f0533aaae2cc45090b0ed"/>
+		<rom name="bios/ps2-0150j-20010118.bin" size="4194304" crc="4fc3b495" sha1="d6f365a0f07cd04ed28108e6ec5076e2f81e5f72" md5="815ac991d8bc3b364696bead3457de7d"/>
+		<rom name="bios/ps2-0150jd-20010118.bin" size="4194304" crc="0b3ec2bc" sha1="334e029fc7fd50222a399c50384ff42732652259" md5="bb6bbc850458fff08af30e969ffd0175"/>
+		<rom name="bios/ps2-0160a-20010427.bin" size="4194304" crc="4008ac18" sha1="7331a40b4b4feb1b3f0f77b013b6d38483577baa" md5="b107b5710042abe887c0f6175f6e94bb"/>
+		<rom name="bios/ps2-0160a-20010704.bin" size="4194304" crc="c506c693" sha1="ce92e8e8c88665f2f645a9522e337823d47a914a" md5="18bcaadb9ff74ed3add26cdf709fff2e"/>
+		<rom name="bios/ps2-0160a-20011004.bin" size="4194304" crc="a01ec625" sha1="d257bce6ecaf3bafb704c75a1b4741b910bd2d49" md5="7200a03d51cacc4c14fcdfdbc4898431"/>
+		<rom name="bios/ps2-0160a-20020207.bin" size="4194304" crc="a19e0bf5" sha1="f9a5d629a036b99128f7cb530c6e3ca016e9c8b7" md5="d5ce2c7d119f563ce04bc04dbc3a323e"/>
+		<rom name="bios/ps2-0160e-20010704.bin" size="4194304" crc="f1ac735f" sha1="3cbd048e437c785b5a05a0feced00117a8a42545" md5="491209dd815ceee9de02dbbc408c06d6"/>
+		<rom name="bios/ps2-0160e-20011004.bin" size="4194304" crc="82aa5055" sha1="ee34c3a87c53c75ca2a37d77b0042ca24d07831f" md5="8359638e857c8bc18c3c18ac17d9cc3c"/>
+		<rom name="bios/ps2-0160e-20020319.bin" size="4194304" crc="2fe21e4d" sha1="bff2902bd0ce9729a060581132541e9fd1a9fab6" md5="0d2228e6fd4fb639c9c39d077a9ec10c"/>
+		<rom name="bios/ps2-0160e-20020426.bin" size="4194304" crc="dad0baec" sha1="d106b757ae2544dfe63f7e1924e59d5ad44c0c29" md5="5b1f47fbeb277c6be2fccdd6344ff2fd"/>
+		<rom name="bios/ps2-0160h-20010730.bin" size="4194304" crc="75f83c67" sha1="ba15dcf7aac13864c08222037e9321d7468c87d1" md5="352d2ff9b3f68be7e6fa7e6dd8389346"/>
+		<rom name="bios/ps2-0160h-20020426.bin" size="4194304" crc="3355623e" sha1="e3a74125c426bcacabca00b513fab928665c8846" md5="315a4003535dfda689752cb25f24785c"/>
+		<rom name="bios/ps2-0160j-20010427.bin" size="4194304" crc="c268ef47" sha1="e525a0c900e37acf0ae5a655d82a0abcb07c6f1f" md5="ab55cceea548303c22c72570cfd4dd71"/>
+		<rom name="bios/ps2-0160j-20020426.bin" size="4194304" crc="c9363baf" sha1="003628c137dae577ff3b04b93ca1787b0c944702" md5="72da56fccb8fcd77bba16d1b6f479914"/>
+		<rom name="bios/ps2-0170a-20030325.bin" size="4194304" crc="9a99e3f4" sha1="d269d1ed513227f3ef7133c76cf1b3a64f97b15d" md5="8aa12ce243210128c5074552d3b86251"/>
+		<rom name="bios/ps2-0170ad-20030325.bin" size="4194304" crc="0e1ece79" sha1="c5bc6e893b4c43d528142e56c96073024de64157" md5="eb960de68f0c0f7f9fa083e9f79d0360"/>
+		<rom name="bios/ps2-0170e-20030227.bin" size="4194304" crc="51b5fb8b" sha1="ad15bd7eabd5bd81ba011516a5be44947d6641aa" md5="6e69920fa6eef8522a1d688a11e41bc6"/>
+		<rom name="bios/ps2-0170ed-20030227.bin" size="4194304" crc="970a9c56" sha1="e220bb282378c1f48ea1b585b3675e51a6dca572" md5="666018ffec65c5c7e04796081295c6c7"/>
+		<rom name="bios/ps2-0170j-20030206.bin" size="4194304" crc="9457f64e" sha1="d812ac65c357d392396ca9edee812dc41bed8bde" md5="312ad4816c232a9606e56f946bc0678a"/>
+		<rom name="bios/ps2-0180cd-20030224.bin" size="4194304" crc="8c1a04cf" sha1="2de87767008fc4a303af64a46251156e965d9065" md5="240d4c5ddd4b54069bdc4a3cd2faf99d"/>
+		<rom name="bios/ps2-0180j-20031028.bin" size="4194304" crc="585fd27c" sha1="aa4a35c14ee342cf7a03b1dde294ca10e64889e1" md5="1c6cd089e6c83da618fbf2a081eb4888"/>
+		<rom name="bios/ps2-0190a-20030623.bin" size="4194304" crc="b3e87709" sha1="c74d92a2952a2912b6698cbcf7742adac8f784d3" md5="35461cecaa51712b300b2d6798825048"/>
+		<rom name="bios/ps2-0190a-20040329.bin" size="4194304" crc="9ba4c32f" sha1="b68c05f5cd86bf03cb38a643a723b7a97b759531" md5="81f4336c1de607dd0865011c0447052e"/>
+		<rom name="bios/ps2-0190c-20030623.bin" size="4194304" crc="d2347ee7" sha1="92d9eb4b11cef97bb69a275b2851b72f7b0023d6" md5="1b6e631b536247756287b916f9396872"/>
+		<rom name="bios/ps2-0190e-20030623.bin" size="4194304" crc="1752a52e" sha1="18b9ba833c469c4683676cc20da5124080d980bb" md5="bd6415094e1ce9e05daabe85de807666"/>
+		<rom name="bios/ps2-0190e-20030822.bin" size="4194304" crc="3afd1d1e" sha1="6e1f0eb4aec51a6288b3d802d3bcdb477cf52104" md5="afde410bd026c16be605a1ae4bd651fd"/>
+		<rom name="bios/ps2-0190h-20030623.bin" size="4194304" crc="41391dd3" sha1="caa18ed04854a91e68f2d61a782560edd6373bbf" md5="2e70ad008d4ec8549aada8002fdf42fb"/>
+		<rom name="bios/ps2-0190j-20030623.bin" size="4194304" crc="7c10a967" sha1="6a6ecfe6c10e42eff1ca056349def799b5629067" md5="463d87789c555a4a7604e97d7db545d1"/>
+		<rom name="bios/ps2-0190j-20030822.bin" size="4194304" crc="79d60546" sha1="0ea98a25a32145dda514de2f0d4bfbbd806bd00c" md5="00da1b177096cfd2532c8fa22b43e667"/>
+		<rom name="bios/ps2-0190r-20030623.bin" size="4194304" crc="25f6212a" sha1="34a81db03ab617fbfdd7f9b861692dd2ecd57b82" md5="b53d51edc7fc086685e31b811dc32aad"/>
+		<rom name="bios/ps2-0200a-20040614.bin" size="4194304" crc="7ebd68de" sha1="7a62e5f48603582707e9898eb055ea3eaee50d4c" md5="d333558cc14561c1fdc334c75d5f37b7"/>
+		<rom name="bios/ps2-0200e-20040614.bin" size="4194304" crc="6f8e3c29" sha1="434bc0b4eb4827da0773ec0795aadc5162569a07" md5="dc752f160044f2ed5fc1f4964db2a095"/>
+		<rom name="bios/ps2-0200ed-20040614.bin" size="4194304" crc="881c9aa9" sha1="902f4680b258abd40c0922f6b0d581cbd8f8a73e" md5="63ead1d74893bf7f36880af81f68a82d"/>
+		<rom name="bios/ps2-0200h-20040614.bin" size="4194304" crc="b57201bf" sha1="7f8e812cab7c7393c85eac6c42661e1fd0a642df" md5="3e3e030c0f600442fa05b94f87a1e238"/>
+		<rom name="bios/ps2-0200j-20040614.bin" size="4194304" crc="2f314730" sha1="224ab5704ab719edeb05ca1d835812252c97c1b3" md5="0eee5d1c779aa50e94edd168b4ebf42e"/>
+		<rom name="bios/ps2-0210j-20040917.bin" size="4194304" crc="55710d11" sha1="bbb1af3085e77599691ec430d147810157da934f" md5="1ad977bb539fc9448a08ab276a836bbc"/>
+		<rom name="bios/ps2-0220a-20050620.bin" size="4194304" crc="d305a97a" sha1="48d0445dffd1e879c7ae752c5166ec3101921555" md5="929a14baca1776b00869f983aa6e14d2"/>
+		<rom name="bios/ps2-0220a-20060210.bin" size="4194304" crc="1279fce9" sha1="92e488d5b2705e4cca83d4d1efbc421012faf83e" md5="cb801b7920a7d536ba07b6534d2433ca"/>
+		<rom name="bios/ps2-0220a-20060905.bin" size="4194304" crc="1c17eafc" sha1="8361d615cc895962e0f0838489337574dbdc9173" md5="40c11c063b3b9409aa5e4058e984e30c"/>
+		<rom name="bios/ps2-0220ad-20050620.bin" size="4194304" crc="181f1bda" sha1="7c7efdfcec7705f4e84bb47f45322104e39eed09" md5="9959ad7a8685cad66206e7752ca23f8b"/>
+		<rom name="bios/ps2-0220ad-20060905.bin" size="4194304" crc="431d9b7f" sha1="4191b5842f31a9985b5428bc9d2b733ce3abb583" md5="21fe4cad111f7dc0f9af29477057f88d"/>
+		<rom name="bios/ps2-0220e-20050620.bin" size="4194304" crc="e2862e39" sha1="929a85e974faf4b40d0a7785023b758402c43bd9" md5="573f7d4a430c32b3cc0fd0c41e104bbd"/>
+		<rom name="bios/ps2-0220e-20060210.bin" size="4194304" crc="23fa7baa" sha1="28ad756d0cfd1e7b2e2de3de5d9e14207ee89761" md5="af60e6d1a939019d55e5b330d24b1c25"/>
+		<rom name="bios/ps2-0220e-20060905.bin" size="4194304" crc="2d946dbf" sha1="da5aacead2fb55807d6d4e70b1f10f4fdcfd3281" md5="80bbb237a6af9c611df43b16b930b683"/>
+		<rom name="bios/ps2-0220h-20050620.bin" size="4194304" crc="e27c4a6c" sha1="0a071d1b46607a7694770407606d8599f62a372b" md5="df63a604e8bff5b0599bd1a6c2721bd0"/>
+		<rom name="bios/ps2-0220h-20060210.bin" size="4194304" crc="23001fff" sha1="fce2a24e5e0400cc6d98c08f426405d19173813e" md5="549a66d0c698635ca9fa3ab012da7129"/>
+		<rom name="bios/ps2-0220h-20060905.bin" size="4194304" crc="2d6e09ea" sha1="a5a2ee0dd9a86ca35b94e97ca92476a584f755bf" md5="c37bce95d32b2be480f87dd32704e664"/>
+		<rom name="bios/ps2-0220j-20050620.bin" size="4194304" crc="d27fc41d" sha1="7ffa75d142cb8eeea6c777dbcf263143655275d5" md5="eb4f40fcf4911ede39c1bbfe91e7a89a"/>
+		<rom name="bios/ps2-0220j-20060210.bin" size="4194304" crc="1303918e" sha1="0edf1fbb772a8e6a79ae00e977450e3ade25c4f3" md5="5b1ba4bb914406fae75ab8e38901684d"/>
+		<rom name="bios/ps2-0220j-20060905.bin" size="4194304" crc="1d6d879b" sha1="3baf847c1c217aa71ac6d298389c88edb3db32e2" md5="5de9d0d730ff1e7ad122806335332524"/>
+		<rom name="bios/ps2-0230a-20080220.bin" size="4194304" crc="286897c2" sha1="f9229fe159d0353b9f0632f3fdc66819c9030458" md5="21038400dc633070a78ad53090c53017"/>
+		<rom name="bios/ps2-0230e-20080220.bin" size="4194304" crc="19eb1081" sha1="9915b5ba56798f4027ac1bd8d10abe0c1c9c326a" md5="dc69f0643a3030aaa4797501b483d6c4"/>
+		<rom name="bios/ps2-0230h-20080220.bin" size="4194304" crc="191174d4" sha1="a277b456849697abec11285c6b35bc734598c220" md5="30d56e79d89fbddf10938fa67fe3f34e"/>
+		<rom name="bios/ps2-0230j-20080220.bin" size="4194304" crc="2912faa5" sha1="fbd54bfc020af34008b317dcb80b812dd29b3759" md5="80ac46fa7e77b8ab4366e86948e54f83"/>
+		<rom name="bios/ps2-0250e-20100415.bin" size="4194304" crc="7e75fc28" sha1="b9cb5775af29cd4d1ec5521e8231f8b6636e2e44" md5="93ea3bcee4252627919175ff1b16a1d9"/>
+		<rom name="bios/ps2-0250j-20100415.bin" size="4194304" crc="4e8c160c" sha1="4b5ef16b67e3b523d28ed2406106cb80470a06d0" md5="d3e81e95db25f5a86a7b7474550a2155"/>
+	</machine>
+	<machine name="quasi88">
+		<description>NEC PC-8000 series BIOS</description>
+		<rom name="disk.rom" size="2048" crc="2158d307" sha1="bb7103a0818850a039c67ff666a31ce49a8d516f" md5="793f86784e5608352a5d7f03f03e0858"/>
+		<rom name="font.rom" size="6144" crc="7a6edb47 *font.rom" sha1="425a896af83386c7bafac59f94211cdbb9cce18d" md5="14bc9e267cf0cb56d22d5c470f582d53"/>
+		<rom name="n88.rom" size="32768" crc="a0fc0473" sha1="3b31fc68fa7f47b21c1a1cb027b86b9e87afbfff" md5="4f984e04a99d56c4cfe36115415d6eb8"/>
+		<rom name="n88_0.rom" size="8192" crc="710a63ec" sha1="d239c26ad7ac5efac6e947b0e9549b1534aa970d" md5="d675a2ca186c6efcd6277b835de4c7e5"/>
+		<rom name="n88_1.rom" size="8192" crc="c0bd2aa6" sha1="8528eef7946edf6501a6ccb1f416b60c64efac7c" md5="e844534dfe5744b381444dbe61ef1b66"/>
+		<rom name="n88_2.rom" size="8192" crc="af2b6efa" sha1="b7c8bcea219b77d9cc3ee0efafe343cc307425d1" md5="6548fa45061274dee1ea8ae1e9e93910"/>
+		<rom name="n88_3.rom" size="8192" crc="7713c519" sha1="efce0b51cab9f0da6cf68507757f1245a2867a72" md5="fc4b76a402ba501e6ba6de4b3e8b4273"/>
+		<rom name="n88n.rom" size="32768" crc="27e1857d" sha1="5b922ed9de07d2a729bdf1da7b57c50ddf08809a" md5="2ff07b8769367321128e03924af668a0"/>
+		<rom name="n88jisho.rom" size="524288" crc="bd6eb062" sha1="deef0cc2a9734ba891a6d6c022aa70ffc66f783e" md5="2e548679423370262f36cbde38a22789"/>
+		<rom name="n88knj1.rom" size="131072" crc="6178bd43" sha1="82e11a177af6a5091dd67f50a2f4bafda84d6556" md5="d81c6d5d7ad1a4bbbd6ae22a01257603"/>
+		<rom name="n88knj2.rom" size="131072" crc="154803cc" sha1="7e6591cd465cbb35d6d3446c5a83b46d30fafe95" md5="41d2e2c0c0edfccf76fa1c3e38bc1cf2"/>
+		<rom name="pc88.rom" size="114688" crc="eb1d90ca" sha1="607db1d7affacaa4839d54c2c649602322b931bf" md5="2019816d0897380e863ddfb3a5b172b5"/>
+	</machine>
+	<machine name="same_cdi">
+		<description>Arcade (SAME CDi)</description>
+		<rom name="bios/cdibios.zip" size="472798" crc="1d5bb3da" sha1="16072afaa65d1b059346616ac5b5a600c63ff1d1" md5="709acce6e9c4043b851ea7429b8e7eff"/>
+		<rom name="bios/cdimono1.zip" size="660996" crc="0a67ff2c" sha1="5d0b1b55b0d0958a5c9069c3219d4da5a87a6b93" md5="c59f92647701428bc453976740eb75cf"/>
+		<rom name="bios/cdimono2.zip" size="244291" crc="4eab5eda *cdimono2.zip" sha1="9492247203b71c12d88fad0a5437376941c7870a" md5="97aa5f47030cd9fdb679d4fafbb0e332"/>
+	</machine>
+	<machine name="vice">
+		<description>Commodore 8-bit BIOS (VICE)</description>
+		<rom name="JiffyDOS_1541-II.bin" size="16384" crc="dd409902" sha1="b1a5b826304d3df2a27d7163c6a81a532e040d32" md5="1b1e985ea5325a1f46eb7fd9681707bf"/>
+		<rom name="JiffyDOS_1571_repl310654.bin" size="32768" crc="fe6cac6d" sha1="d4b79b60cf1eaa399d0932200eb7811e00455249" md5="41c6cc528e9515ffd0ed9b180f8467c0"/>
+		<rom name="JiffyDOS_1581.bin" size="32768" crc="98873d0f" sha1="65bbf2be7bcd5bdcbff609d6c66471ffb9d04bfe" md5="20b6885c6dc2d42c38754a365b043d71"/>
+		<rom name="JiffyDOS_C128.bin" size="16384" crc="4b7964de" sha1="7d1898f32beae4b2ae610d469ce578a588efaa7c" md5="cbbd1bbcb5e4fd8046b6030ab71fc021"/>
+		<rom name="JiffyDOS_C64.bin" size="8192" crc="2f79984c" sha1="31e73e66eccb28732daea8ec3ad1addd9b39a017" md5="be09394f0576cf81fa8bacf634daf9a2"/>
+		<rom name="SCPU64/scpu-dos-1.4.bin" size="131072" crc="78008489" sha1="3422a7735f0f959d990ab39512d8815a5d8eab7a" md5="cda2fcd2e1f0412029383e51dd472095"/>
+		<rom name="SCPU64/scpu-dos-2.04.bin" size="131072" crc="f4151454" sha1="6aa529a7b1b6de53e8979e407a77b4d5657727f5" md5="b2869f8678b8b274227f35aad26ba509"/>
+	</machine>
+	<machine name="xmil">
+		<description>Sharp X1 BIOS (X Millennium)</description>
+		<rom name="iplrom.x1" size="4096" crc="e70011d3" sha1="d3395e9aeb5b8bbba7654dd471bcd8af228ee69a" md5="eeeea1cd29c6e0e8b094790ae969bfa7"/>
+		<rom name="iplrom.x1t" size="2048" crc="e3995a57" sha1="1c1a0d8c9f4c446ccd7470516b215ddca5052fb2" md5="851e4a5936f17d13f8c39a980cf00d77"/>
+	</machine>
+</datafile>
