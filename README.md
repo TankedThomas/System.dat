@@ -8,7 +8,7 @@ In theory, this System.dat can be used with [RomVault](https://www.romvault.com/
 Some files are hard to track down, so I am still missing data for the following files:
 
 | Machine   | BIOS File        | File Size | CRC32    | SHA1                                     | MD5                              |
-| :-------- | :--------------- | :------------------- | :--------------------------------------- | :------------------------------- |
+| --------- | ---------------- | -------------------- | ---------------------------------------- | -------------------------------- |
 | NEC PC-98 | `bios9821.rom`     | ?         | ?        | ?                                        | ?                                |
 | Palm OS   | `palmos40-en-m500` | ?         | ?        | ?                                        | `f50e4d5e4d98dc831f2c34a9107651eb` |
 |           | `palmos52-en-t3`   | ?         | ?        | ?                                        | `de46ec84d9aabf655eabdf9b00a3845d` |
